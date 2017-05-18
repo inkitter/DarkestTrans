@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <language id="english">
     <entry id="help_panel_controls"><![CDATA[{colour_start|help_panel_controls}Controls{colour_end}]]></entry>
@@ -201,13 +201,13 @@ Monsters killed with bleed, blight, or crits leave no corpses at all!]]></entry>
     <entry id="str_help_raid_camping_2"><![CDATA[{colour_start|town_activity_log_positive_result}[CLICK]{colour_end} on a hero and then {colour_start|town_activity_log_positive_result}[CLICK]{colour_end} on their skill to use it. Some skills require a target to be selected.]]></entry>
     <entry id="str_help_raid_camping_3"><![CDATA[When done spending ACTION POINTS, {colour_start|town_activity_log_positive_result}[CLICK]{colour_end} "REST" to finish Camping.]]></entry>
     <entry id="str_crypts_tip"><![CDATA[The Ruins bear all the signs of your Ancestor's frenzied digging...]]></entry>
-    <entry id="str_crypts_tip"><![CDATA[Once-holy idols and shrines have been corrupted to favor pagan gods. Holy Water can help restore them to their rightful condition.]]></entry>
-    <entry id="str_crypts_tip"><![CDATA[The undead will not bleed, but they can be blighted.]]></entry>
-    <entry id="str_crypts_tip"><![CDATA[If you live for risk and darkness, by all means bring few torches...]]></entry>
-    <entry id="str_crypts_tip"><![CDATA[Each region has its own challenges. Assemble your party and supplies accordingly.]]></entry>
-    <entry id="str_crypts_tip"><![CDATA[A well-placed supply item can often protect against the hazards of interactive objects you encounter.]]></entry>
-    <entry id="str_crypts_tip"><![CDATA[You can retreat from combat and even abandon quests. If things are going terribly, live to fight another day.]]></entry>
-    <entry id="str_crypts_tip"><![CDATA[Skeletons with high PROT are susceptible to blight attacks.]]></entry>
+    <entry id="str_crypts_tip"><![CDATA[The Ruins bear all the signs of your Ancestor's frenzied digging...]]></entry>
+    <entry id="str_crypts_tip"><![CDATA[The Ruins bear all the signs of your Ancestor's frenzied digging...]]></entry>
+    <entry id="str_crypts_tip"><![CDATA[The Ruins bear all the signs of your Ancestor's frenzied digging...]]></entry>
+    <entry id="str_crypts_tip"><![CDATA[The Ruins bear all the signs of your Ancestor's frenzied digging...]]></entry>
+    <entry id="str_crypts_tip"><![CDATA[The Ruins bear all the signs of your Ancestor's frenzied digging...]]></entry>
+    <entry id="str_crypts_tip"><![CDATA[The Ruins bear all the signs of your Ancestor's frenzied digging...]]></entry>
+    <entry id="str_crypts_tip"><![CDATA[The Ruins bear all the signs of your Ancestor's frenzied digging...]]></entry>
     <entry id="str_plot_kill_necromancer_1_tip"><![CDATA[Ancestor's Memoirs - The Necromancer (1 / 3)]]></entry>
     <entry id="str_plot_kill_necromancer_2_tip"><![CDATA[Ancestor's Memoirs - The Necromancer (2 / 3)]]></entry>
     <entry id="str_plot_kill_necromancer_3_tip"><![CDATA[Ancestor's Memoirs - The Necromancer (3 / 3)]]></entry>
@@ -215,15 +215,15 @@ Monsters killed with bleed, blight, or crits leave no corpses at all!]]></entry>
     <entry id="str_plot_kill_prophet_2_tip"><![CDATA[Ancestor's Memoirs - The Prophet (2 / 3)]]></entry>
     <entry id="str_plot_kill_prophet_3_tip"><![CDATA[Ancestor's Memoirs - The Prophet (3 / 3)]]></entry>
     <entry id="str_weald_tip"><![CDATA[Beast and corrupted human alike inhabit these failing groves.]]></entry>
-    <entry id="str_weald_tip"><![CDATA[The Weald is full of long, winding paths. Bring plenty of torches.]]></entry>
-    <entry id="str_weald_tip"><![CDATA[Beware the mark of death that Fungal Artillery can put on you. It tells their Fungal Zombie brethren what to kill.]]></entry>
-    <entry id="str_weald_tip"><![CDATA[The paths are littered with poisonous traps.]]></entry>
     <entry id="str_weald_tip"><![CDATA[Beast and corrupted human alike inhabit these failing groves.]]></entry>
-    <entry id="str_weald_tip"><![CDATA[If you live for risk and darkness, by all means bring few torches...]]></entry>
-    <entry id="str_weald_tip"><![CDATA[Each region has its own challenges. Assemble your party and supplies accordingly.]]></entry>
-    <entry id="str_weald_tip"><![CDATA[A well-placed supply item can often protect against the hazards of interactive objects you encounter.]]></entry>
-    <entry id="str_weald_tip"><![CDATA[You can retreat from combat and even abandon quests. If things are going terribly, live to fight another day.]]></entry>
-    <entry id="str_weald_tip"><![CDATA[Blight and bleed damage ignore the enemy's protection (PROT).]]></entry>
+    <entry id="str_weald_tip"><![CDATA[Beast and corrupted human alike inhabit these failing groves.]]></entry>
+    <entry id="str_weald_tip"><![CDATA[Beast and corrupted human alike inhabit these failing groves.]]></entry>
+    <entry id="str_weald_tip"><![CDATA[Beast and corrupted human alike inhabit these failing groves.]]></entry>
+    <entry id="str_weald_tip"><![CDATA[Beast and corrupted human alike inhabit these failing groves.]]></entry>
+    <entry id="str_weald_tip"><![CDATA[Beast and corrupted human alike inhabit these failing groves.]]></entry>
+    <entry id="str_weald_tip"><![CDATA[Beast and corrupted human alike inhabit these failing groves.]]></entry>
+    <entry id="str_weald_tip"><![CDATA[Beast and corrupted human alike inhabit these failing groves.]]></entry>
+    <entry id="str_weald_tip"><![CDATA[Beast and corrupted human alike inhabit these failing groves.]]></entry>
     <entry id="str_plot_kill_hag_1_tip"><![CDATA[Ancestor's Memoirs - The Hag (1 / 3)]]></entry>
     <entry id="str_plot_kill_hag_2_tip"><![CDATA[Ancestor's Memoirs - The Hag (2 / 3)]]></entry>
     <entry id="str_plot_kill_hag_3_tip"><![CDATA[Ancestor's Memoirs - The Hag (3 / 3)]]></entry>
@@ -231,24 +231,24 @@ Monsters killed with bleed, blight, or crits leave no corpses at all!]]></entry>
     <entry id="str_plot_kill_brigand_cannon_2_tip"><![CDATA[Ancestor's Memoirs - The Cannon (2 / 3)]]></entry>
     <entry id="str_plot_kill_brigand_cannon_3_tip"><![CDATA[Ancestor's Memoirs - The Cannon (3 / 3)]]></entry>
     <entry id="str_warrens_tip"><![CDATA[The Warrens is full of disease and blight in equal measure... come prepared to deal with sickness.]]></entry>
-    <entry id="str_warrens_tip"><![CDATA[The Swine are resistant to disease, thanks to their unclean living.]]></entry>
-    <entry id="str_warrens_tip"><![CDATA[The tunnels are often blocked by piled stones and bodies. It's dirty work to remove by hand.]]></entry>
     <entry id="str_warrens_tip"><![CDATA[The Warrens is full of disease and blight in equal measure... come prepared to deal with sickness.]]></entry>
-    <entry id="str_warrens_tip"><![CDATA[The Swine are resistant to disease, thanks to their unclean living.]]></entry>
-    <entry id="str_warrens_tip"><![CDATA[These tunnels are often blocked by piled stones and bodies. It's dirty work to remove by hand.]]></entry>
-    <entry id="str_warrens_tip"><![CDATA[If you live for risk and darkness, by all means bring few torches...]]></entry>
-    <entry id="str_warrens_tip"><![CDATA[Each region has its own challenges. Assemble your party and supplies accordingly.]]></entry>
-    <entry id="str_warrens_tip"><![CDATA[A well-placed supply item can often protect against the hazards of interactive objects you encounter.]]></entry>
-    <entry id="str_warrens_tip"><![CDATA[You can retreat from combat and even abandon quests. If things are going terribly, live to fight another day.]]></entry>
-    <entry id="str_warrens_tip"><![CDATA[Blight and bleed damage ignore the enemy's protection (PROT).]]></entry>
-    <entry id="str_town_title"><![CDATA[Hamlet]]></entry>
+    <entry id="str_warrens_tip"><![CDATA[The Warrens is full of disease and blight in equal measure... come prepared to deal with sickness.]]></entry>
+    <entry id="str_warrens_tip"><![CDATA[The Warrens is full of disease and blight in equal measure... come prepared to deal with sickness.]]></entry>
+    <entry id="str_warrens_tip"><![CDATA[The Warrens is full of disease and blight in equal measure... come prepared to deal with sickness.]]></entry>
+    <entry id="str_warrens_tip"><![CDATA[The Warrens is full of disease and blight in equal measure... come prepared to deal with sickness.]]></entry>
+    <entry id="str_warrens_tip"><![CDATA[The Warrens is full of disease and blight in equal measure... come prepared to deal with sickness.]]></entry>
+    <entry id="str_warrens_tip"><![CDATA[The Warrens is full of disease and blight in equal measure... come prepared to deal with sickness.]]></entry>
+    <entry id="str_warrens_tip"><![CDATA[The Warrens is full of disease and blight in equal measure... come prepared to deal with sickness.]]></entry>
+    <entry id="str_warrens_tip"><![CDATA[The Warrens is full of disease and blight in equal measure... come prepared to deal with sickness.]]></entry>
+    <entry id="str_warrens_tip"><![CDATA[The Warrens is full of disease and blight in equal measure... come prepared to deal with sickness.]]></entry>
+    <entry id="str_town_title"><![CDATA[哈姆雷特镇]]></entry>
     <entry id="str_town_tip"><![CDATA[Upon returning to the Hamlet, be sure to check the Activity Log to see what has transpired in your absence.]]></entry>
-    <entry id="str_town_tip"><![CDATA[Stagecoach upgrades are vital to the long-term health of your roster, and your Hamlet!]]></entry>
-    <entry id="str_town_tip"><![CDATA[Medical Ward treatments can sometimes wipe out more than one Disease.]]></entry>
-    <entry id="str_town_tip"><![CDATA[Short on gold?  Sell unwanted trinkets directly from your trinket inventory!]]></entry>
-    <entry id="str_town_tip"><![CDATA[A red question mark on a hero's portrait indicates they are unavailable for the week.]]></entry>
-    <entry id="str_town_tip"><![CDATA[Heroes can be renamed and recolored in the character panel.]]></entry>
-    <entry id="str_town_tip"><![CDATA[Afflictions are removed by placing a hero in any {colour_start|stressNOT1}stress{colour_end} treatment activity.]]></entry>
+    <entry id="str_town_tip"><![CDATA[Upon returning to the Hamlet, be sure to check the Activity Log to see what has transpired in your absence.]]></entry>
+    <entry id="str_town_tip"><![CDATA[Upon returning to the Hamlet, be sure to check the Activity Log to see what has transpired in your absence.]]></entry>
+    <entry id="str_town_tip"><![CDATA[Upon returning to the Hamlet, be sure to check the Activity Log to see what has transpired in your absence.]]></entry>
+    <entry id="str_town_tip"><![CDATA[Upon returning to the Hamlet, be sure to check the Activity Log to see what has transpired in your absence.]]></entry>
+    <entry id="str_town_tip"><![CDATA[Upon returning to the Hamlet, be sure to check the Activity Log to see what has transpired in your absence.]]></entry>
+    <entry id="str_town_tip"><![CDATA[Upon returning to the Hamlet, be sure to check the Activity Log to see what has transpired in your absence.]]></entry>
     <entry id="str_plot_kill_swine_prince_1_tip"><![CDATA[Ancestor's Memoirs - The Swine Prince (1 / 3)]]></entry>
     <entry id="str_plot_kill_swine_prince_2_tip"><![CDATA[Ancestor's Memoirs - The Swine Prince (2 / 3)]]></entry>
     <entry id="str_plot_kill_swine_prince_3_tip"><![CDATA[Ancestor's Memoirs - The Swine Prince (3 / 3)]]></entry>
@@ -256,8 +256,8 @@ Monsters killed with bleed, blight, or crits leave no corpses at all!]]></entry>
     <entry id="str_plot_kill_formless_flesh_2_tip"><![CDATA[Ancestor's Memoirs - The Flesh (2 / 3)]]></entry>
     <entry id="str_plot_kill_formless_flesh_3_tip"><![CDATA[Ancestor's Memoirs - The Flesh (3 / 3)]]></entry>
     <entry id="str_cove_tip"><![CDATA[The fishfolk's scaled skin affords them increased resistance to bleeding attacks.]]></entry>
-    <entry id="str_cove_tip"><![CDATA[Thralls will explode if left for too long!]]></entry>
-    <entry id="str_cove_tip"><![CDATA[Tentacled Lurkers lie in wait just below the water's surface...tread carefully.]]></entry>
+    <entry id="str_cove_tip"><![CDATA[The fishfolk's scaled skin affords them increased resistance to bleeding attacks.]]></entry>
+    <entry id="str_cove_tip"><![CDATA[The fishfolk's scaled skin affords them increased resistance to bleeding attacks.]]></entry>
     <entry id="str_plot_kill_siren_1_tip"><![CDATA[Ancestor's Memoirs - The Siren (1 / 3)]]></entry>
     <entry id="str_plot_kill_siren_2_tip"><![CDATA[Ancestor's Memoirs - The Siren (2 / 3)]]></entry>
     <entry id="str_plot_kill_siren_3_tip"><![CDATA[Ancestor's Memoirs - The Siren (3 / 3)]]></entry>
@@ -267,4 +267,3 @@ Monsters killed with bleed, blight, or crits leave no corpses at all!]]></entry>
     <entry id="str_loading_screen_continue"><![CDATA[Press {colour_start|town_activity_log_positive_result}[SPACE]{colour_end} or {colour_start|town_activity_log_positive_result}[CLICK]{colour_end} to Continue]]></entry>
   </language>
 </root>
-
