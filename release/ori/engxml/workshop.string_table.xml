@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english">
+    <entry id="str_mod_source"><![CDATA[Source: %s]]></entry>
+    <entry id="str_mod_local_source"><![CDATA[Manual Install]]></entry>
+  </language>
+</root>
+

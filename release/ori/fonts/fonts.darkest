@@ -1,0 +1,292 @@
+font: .id "ubuntu_small"        .file "fonts/14.fnt"  .point_sample false
+font: .id "ubuntu_medium"       .file "fonts/14.fnt"  .point_sample false
+font: .id "dwarven_axe_medium"  .file "fonts/14.fnt"  .point_sample false
+font: .id "dwarven_axe_large"   .file "fonts/14.fnt"   .point_sample false
+font: .id "popup"               .file "fonts/14.fnt"  .point_sample false
+font: .id "pips"                .file "fonts/14.fnt"  .point_sample false
+
+font_language_override: .language "russian" .font "dwarven_axe_medium" .file "fonts/14.fnt" .point_sample false
+font_language_override: .language "russian" .font "dwarven_axe_large" .file "fonts/14.fnt"  .point_sample false
+font_language_override: .language "russian" .font "popup" .file "fonts/14.fnt" .point_sample false
+
+font_ref:	.id "debug"											.font "ubuntu_small"
+font_ref:	.id "pop_text"										.font "popup"
+font_ref:	.id "tooltip_header"								.font "ubuntu_small"
+font_ref:	.id "tooltip"										.font "ubuntu_small"
+font_ref:	.id	"stat"											.font "ubuntu_small"
+font_ref:	.id "scouting_text"									.font "dwarven_axe_medium"
+font_ref:	.id "banner_header"									.font "dwarven_axe_large"
+font_ref:	.id "banner_sub_header"								.font "ubuntu_small"
+font_ref:	.id "banner_hero_name"								.font "dwarven_axe_medium"
+font_ref:	.id "banner_hero_class"								.font "ubuntu_small"
+font_ref:	.id "scroll_header"									.font "dwarven_axe_large"
+font_ref:	.id "scroll_body"									.font "ubuntu_small"
+font_ref:	.id "torch"											.font "dwarven_axe_medium"
+font_ref:	.id "rest"											.font "dwarven_axe_medium"
+font_ref:	.id "inventory_amount"								.font "dwarven_axe_medium"
+font_ref:	.id "skill_pips"									.font "pips"
+font_ref:	.id "bark"											.font "ubuntu_medium"
+font_ref:	.id "camping_points"								.font "dwarven_axe_large"
+font_ref:	.id "pop_event_header"								.font "dwarven_axe_large"
+font_ref:	.id "pop_event_sub_header"							.font "ubuntu_medium"
+font_ref:	.id "user_information_popup"						.font "ubuntu_small"
+
+font_ref:   .id "curio_investigate_text"                        .font "ubuntu_small"
+font_ref:   .id "curio_investigate_tooltip"                     .font "ubuntu_small"
+font_ref:   .id "curio_pass_text"                               .font "ubuntu_small"
+font_ref:   .id "curio_pass_tooltip"                            .font "ubuntu_small"
+
+font_ref:   .id "obstacle_investigate_text"                     .font "ubuntu_small"
+font_ref:   .id "obstacle_investigate_tooltip"                  .font "ubuntu_small"
+font_ref:   .id "obstacle_pass_text"                            .font "ubuntu_small"
+font_ref:   .id "obstacle_pass_tooltip"                         .font "ubuntu_small"
+
+font_ref:   .id "ancestor_obstacle_investigate_text"            .font "ubuntu_small"
+font_ref:   .id "ancestor_obstacle_investigate_tooltip"         .font "ubuntu_small"
+font_ref:   .id "ancestor_obstacle_pass_text"                   .font "ubuntu_small"
+font_ref:   .id "ancestor_obstacle_pass_tooltip"                .font "ubuntu_small"
+
+font_ref:	.id "town_name"										.font "dwarven_axe_large"
+font_ref:	.id "town_progression_forward"						.font "dwarven_axe_large"
+font_ref:	.id "town_roster_name"								.font "dwarven_axe_medium"
+font_ref:	.id "town_roster_number"							.font "ubuntu_medium"
+font_ref:	.id "town_roster_affliction"						.font "dwarven_axe_medium"
+
+font_ref:   .id "help_text"                                     .font "ubuntu_small"
+
+font_ref:	.id "town_quest_select_dungeon_name"				.font "dwarven_axe_medium"
+font_ref:	.id "town_quest_select_dungeon_level"				.font "ubuntu_medium"
+font_ref:	.id "town_quest_select_party_name"					.font "ubuntu_medium"
+font_ref:	.id "town_quest_select_party_name_default"			.font "ubuntu_medium"
+font_ref:	.id "town_quest_select_town_event_notification"		.font "ubuntu_small"
+
+
+font_ref:	.id "town_quest_name"								.font "dwarven_axe_medium"
+font_ref:	.id "town_quest_description"						.font "ubuntu_small"
+font_ref:	.id "town_quest_specifics"							.font "ubuntu_small"
+font_ref:	.id "town_quest_camping"							.font "ubuntu_medium"
+font_ref:	.id "town_quest_goals"								.font "ubuntu_small"
+font_ref:	.id "town_quest_goal_start_description"				.font "ubuntu_small"
+font_ref:	.id "town_quest_rewards"							.font "dwarven_axe_medium"
+font_ref:	.id "town_quest_trinket_retention"					.font "ubuntu_small"
+
+font_ref:	.id "town_activity_name"							.font "dwarven_axe_medium"
+font_ref:	.id "town_activity_description"						.font "ubuntu_small"
+
+font_ref:	.id "town_currency_amount"							.font "ubuntu_small"
+font_ref:	.id "town_large_currency_amount"					.font "dwarven_axe_large"
+font_ref:	.id "town_free"									    .font "ubuntu_small"
+
+font_ref:	.id "town_activity_log_entry"						.font "ubuntu_small"
+font_ref:	.id "town_activity_log_week_title"   				.font "dwarven_axe_large"
+font_ref:	.id "town_activity_log_week_count"					.font "dwarven_axe_medium"
+font_ref:   .id "town_activity_hero_portrait_name"              .font "dwarven_axe_medium"
+
+font_ref:	.id "town_statue_archive_entry"						.font "ubuntu_small"
+font_ref:   .id "town_statue_quote"                             .font "dwarven_axe_medium"
+font_ref:	.id "town_statue_media_heading"						.font "dwarven_axe_medium"
+
+font_ref:   .id "caretaker_goal_entry"                          .font "ubuntu_small"
+font_ref:   .id "caretaker_goal_type_heading"                   .font "dwarven_axe_large"
+
+font_ref:	.id "town_building_info"							.font "ubuntu_small"
+font_ref:	.id "town_building_upgrade_verbose"					.font "ubuntu_small"
+font_ref:	.id "town_building_upgrade_title"					.font "ubuntu_medium"
+font_ref:	.id "town_building_upgrade_percent"					.font "dwarven_axe_large"
+
+font_ref:	.id "resolve_number"								.font "dwarven_axe_medium"
+
+font_ref:	.id "town_choice_activity"							.font "ubuntu_small"
+
+font_ref:	.id "town_estate_title"								.font "dwarven_axe_large"
+
+font_ref:	.id "town_start_raid"								.font "dwarven_axe_medium"
+
+font_ref:	.id "town_action_banner_name"						.font "dwarven_axe_large"
+font_ref:	.id "town_action_banner_help"						.font "dwarven_axe_medium"
+font_ref:	.id "town_action_verbose_title_text"				.font "ubuntu_medium"
+font_ref:	.id "town_action_verbose_body_text"					.font "ubuntu_small"
+
+font_ref:	.id "town_character_name"							.font "dwarven_axe_large"
+font_ref:	.id "town_character_class"							.font "ubuntu_medium"
+font_ref:	.id "town_character_skill_level"					.font "ubuntu_medium"
+font_ref:	.id "town_character_title"							.font "dwarven_axe_medium"
+
+font_ref:	.id "town_upgrade_tree_title"						.font "ubuntu_medium"
+
+font_ref:	.id "raid_results_quest_title"						.font "dwarven_axe_medium"
+font_ref:	.id "raid_results_quest_result"						.font "dwarven_axe_large"
+font_ref:	.id "raid_results_quest_inventory_title"			.font "dwarven_axe_medium"
+font_ref:	.id "raid_results_party_gold_inventory_title"		.font "dwarven_axe_medium"
+font_ref:	.id "raid_results_party_heirloom_inventory_title"	.font "dwarven_axe_medium"
+font_ref:	.id "raid_results_hero_name"						.font "dwarven_axe_medium"
+font_ref:	.id "raid_results_hero_resolve_from_quest"			.font "ubuntu_small"
+font_ref:	.id "raid_results_gold_popup"						.font "dwarven_axe_large"
+
+font_ref:	.id "confirm_dialog_question"						.font "ubuntu_medium"
+font_ref:	.id "confirm_dialog_answer"							.font "ubuntu_medium"
+
+font_ref:	.id "quirk_name"									.font "ubuntu_small"
+
+font_ref:	.id "equipment_level"								.font "ubuntu_medium"
+
+font_ref:	.id "resistance"									.font "ubuntu_small"
+
+font_ref:	.id "campaign_status_affliction"					.font "ubuntu_small"
+
+font_ref:	.id "raid_quest_info_complete"						.font "dwarven_axe_medium"
+font_ref:	.id "raid_quest_info_name"							.font "dwarven_axe_medium"
+font_ref:	.id "raid_quest_info_goals"							.font "ubuntu_small"
+
+font_ref:	.id "realm_inventory_trinket_sell_description"		.font "ubuntu_medium"
+
+font_ref:	.id "provision_sell_back_info"						.font "ubuntu_medium"
+
+font_ref:	.id "provision_quest_info_dungeon_name"				.font "dwarven_axe_medium"
+font_ref:	.id "provision_quest_info_specs"					.font "ubuntu_small"
+
+font_ref:	.id "raid_loading_screen_title"						.font "dwarven_axe_large"
+font_ref:	.id "raid_loading_screen_tip"						.font "ubuntu_small"
+
+font_ref:	.id "town_screen_building_name"						.font "dwarven_axe_large"
+font_ref:	.id "town_screen_building_description"				.font "ubuntu_medium"
+
+font_ref:	.id "hero_slot_name"								.font "dwarven_axe_medium"
+
+font_ref:   .id "town_graveyard_story"                          .font "ubuntu_small"
+font_ref:   .id "town_graveyard_hero_name"                      .font "dwarven_axe_medium"
+font_ref:   .id "town_graveyard_hero_death_week"                .font "dwarven_axe_medium"
+font_ref:   .id "town_graveyard_death_count"					.font "dwarven_axe_large"
+
+font_ref:	.id "character_panel_position_pips_title"			.font "ubuntu_small"
+font_ref:	.id "character_panel_target_pips_title"				.font "ubuntu_small"
+font_ref:	.id "character_panel_palette_number"				.font "ubuntu_small"
+font_ref:	.id "character_panel_previous_next_tooltip"			.font "ubuntu_small"
+
+font_ref:	.id "roster_full"									.font "dwarven_axe_medium"
+
+font_ref:	.id "front_end_start_screen"						.font "dwarven_axe_large"
+font_ref:	.id "front_end_build_number"						.font "ubuntu_small"
+font_ref:	.id "front_end_save_slot"							.font "dwarven_axe_large"
+font_ref:	.id "front_end_save_area"							.font "ubuntu_small"
+font_ref:	.id "front_end_ticker"								.font "ubuntu_medium"
+font_ref:	.id "front_end_preamble"							.font "ubuntu_medium"
+font_ref:	.id "front_end_campaign"							.font "dwarven_axe_large"
+font_ref:	.id "front_end_controls_element_text"				.font "ubuntu_medium"
+
+font_ref:	.id "loading_screen_continue"						.font "ubuntu_small"
+
+font_ref:	.id "tutorial_popup_title"							.font "dwarven_axe_medium"
+font_ref:	.id "tutorial_popup_description"					.font "ubuntu_small"
+
+font_ref:	.id "journal_popup_title"							.font "dwarven_axe_medium"
+font_ref:	.id "journal_popup_text"							.font "ubuntu_medium"
+font_ref:	.id "journal_popup_count"							.font "dwarven_axe_medium"
+
+font_ref:	.id "menu_base_element"								.font "ubuntu_medium"
+font_ref:	.id "menu_controls_category"						.font "ubuntu_medium"
+font_ref:	.id "menu_controls_element"							.font "ubuntu_small"
+font_ref:	.id "menu_options_element_name"						.font "ubuntu_small"
+font_ref:	.id "menu_options_element_name_tooltip_cant_modify"	.font "ubuntu_small"
+font_ref:	.id "menu_options_element_name_tooltip"				.font "ubuntu_small"
+font_ref:	.id "menu_options_element_control"					.font "ubuntu_small"
+font_ref:	.id "menu_options_require_restart"					.font "ubuntu_small"
+
+font_ref:	.id "loot_take_all_tooltip"					        .font "ubuntu_small"
+font_ref:	.id "loot_take_all_text"					        .font "ubuntu_medium"
+font_ref:	.id "loot_close_tooltip"					        .font "ubuntu_small"
+font_ref:	.id "loot_close_text"   					        .font "ubuntu_medium"
+
+font_ref:	.id "event_hunger_eat_tooltip"		    	        .font "ubuntu_small"
+font_ref:	.id "event_hunger_eat_text" 			            .font "ubuntu_medium"
+font_ref:	.id "event_hunger_starve_tooltip"		    	    .font "ubuntu_small"
+font_ref:	.id "event_hunger_starve_text" 			            .font "ubuntu_medium"
+
+font_ref:	.id "round_display_number"							.font "dwarven_axe_large"
+
+font_ref:	.id "glossary_quote"						        .font "dwarven_axe_medium"
+font_ref:	.id "glossary_term"					                .font "dwarven_axe_medium"
+font_ref:	.id "glossary_term_definition"					    .font "ubuntu_small"
+
+font_ref:   .id "quest_info_camp_bonus_skill_tooltip"           .font "ubuntu_small"
+font_ref:   .id "quest_info_camp_bonus_skill_stats_tooltip"     .font "ubuntu_small"
+
+font_ref:   .id "sanitarium_treatment_header"                   .font "dwarven_axe_medium"
+font_ref:   .id "sanitarium_treatment_entry"                    .font "ubuntu_small"
+
+font_ref:   .id "monster_panel_monster_name"                     .font "dwarven_axe_medium"
+font_ref:   .id "monster_panel_monster_type"                     .font "ubuntu_small"
+font_ref:   .id "monster_panel_monster_stats"                    .font "ubuntu_small"
+font_ref:   .id "monster_panel_hero_attack_stats"                .font "ubuntu_small"
+font_ref:   .id "monster_panel_resistances_title"               .font "dwarven_axe_medium"
+font_ref:   .id "monster_panel_resistances_entry"                .font "ubuntu_small"
+font_ref:   .id "monster_panel_skills_title"                     .font "dwarven_axe_medium"
+font_ref:   .id "monster_panel_skills_entry"                     .font "ubuntu_small"
+font_ref:   .id "monster_panel_hp"                               .font "ubuntu_medium"
+
+font_ref:   .id "quest_complete_tooltip"                         .font "ubuntu_medium"
+font_ref:   .id "quest_complete_text"                            .font "ubuntu_medium"
+
+
+font_ref:   .id "realm_inventory_add_trinket_dialog_heading"     .font "ubuntu_medium"
+font_ref:   .id "realm_inventory_add_trinket_dialog_edit_box"    .font "ubuntu_medium"
+
+font_ref:   .id "stagecoach_add_hero_dialog_heading"             .font "ubuntu_medium"
+font_ref:   .id "stagecoach_add_hero_dialog_edit_box"            .font "ubuntu_medium"
+font_ref:	.id "stagecoach_empty_info_text"					 .font "ubuntu_medium"
+
+font_ref:   .id "credits_category"                               .font "ubuntu_medium"
+font_ref:	.id "credits_entry"					                 .font "ubuntu_small"
+
+font_ref:   .id "credits_level_0"                                    .font "dwarven_axe_large"
+font_ref:   .id "credits_level_1"                                    .font "dwarven_axe_medium"
+font_ref:   .id "credits_level_2"                                    .font "ubuntu_small"
+
+
+font_ref:	.id "subtitle_context_raid"                           .font "dwarven_axe_large"
+font_ref:	.id "subtitle_context_front_end"                      .font "dwarven_axe_large"
+font_ref:	.id "subtitle_context_loading_screen"                 .font "dwarven_axe_large"
+font_ref:	.id "subtitle_context_town"                           .font "dwarven_axe_large"
+font_ref:	.id "subtitle_context_movie"                          .font "dwarven_axe_large"
+font_ref:	.id "subtitle_context_raid_results"                   .font "dwarven_axe_large"
+
+font_ref:	.id "game_over_estate_name"                          .font "dwarven_axe_large"
+font_ref:	.id "game_over_estate_number_of_weeks"               .font "ubuntu_medium"
+font_ref:	.id "game_over_estate_number_of_dead_heroes"         .font "ubuntu_medium"
+font_ref:	.id "game_over_estate_reason"                        .font "dwarven_axe_medium"
+
+font_ref:	.id "town_event_story_title"                         .font "dwarven_axe_medium"
+font_ref:	.id "town_event_story_description"                   .font "ubuntu_medium"
+font_ref:	.id "town_event_info"                                .font "ubuntu_small"
+
+font_ref:   .id "town_heirloom_exchange_title"                   .font "ubuntu_medium"
+font_ref:   .id "town_heirloom_exchange_from_amount"             .font "ubuntu_medium"
+font_ref:   .id "town_heirloom_exchange_to_amount"               .font "ubuntu_medium"
+
+font_ref:   .id "demo_message"                                   .font "dwarven_axe_large"
+font_ref:   .id "help_panel_controls"                            .font "ubuntu_medium"
+font_ref:   .id "controls_panel_text"                            .font "ubuntu_medium"
+
+font_ref:   .id "controls_panel_title"                           .font "dwarven_axe_medium"
+font_ref:   .id "controls_panel_context_title"                   .font "ubuntu_medium"
+font_ref:   .id "controls_panel_button_description"              .font "ubuntu_small"
+font_ref:   .id "controls_panel_context_title_text"              .font "ubuntu_medium"
+
+font_ref:   .id "map_input_preview_pan"                          .font "ubuntu_small"
+font_ref:   .id "map_input_preview_zoom_in"                      .font "ubuntu_small"
+font_ref:   .id "map_input_preview_zoom_out"                     .font "ubuntu_small"
+font_ref:   .id "map_input_preview_reset"                        .font "ubuntu_small"
+
+font_ref:   .id "input_command_input_preview_text_default"       .font "ubuntu_small"
+
+font_ref:   .id "user_generated_content_title_text"              .font "dwarven_axe_medium"
+font_ref:   .id "user_generated_content_sub_title_text"          .font "ubuntu_small"
+font_ref:   .id "user_generated_content_entry_text"              .font "dwarven_axe_medium"
+font_ref:   .id "user_generated_content_entry_tooltip"           .font "ubuntu_small"
+font_ref:   .id "user_generated_content_entry_tooltip_build"     .font "ubuntu_small"
+
+font_ref: .id "game_mode_select_dialog_question"                 .font "dwarven_axe_large"
+font_ref: .id "game_mode_select_dialog_answers"                  .font "ubuntu_medium"
+font_ref: .id "game_mode_select_dialog_tooltip"                  .font "ubuntu_medium"
+
+font_ref: .id "save_slot_ugc_banner_text"                        .font "ubuntu_small"

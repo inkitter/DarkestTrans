@@ -1,0 +1,6 @@
+/.vs/*
+/obj/*
+/packages/Newtonsoft.Json.9.0.1
+/packages/Newtonsoft.Json.10.0.2
+/Debug/*
+/release/Mods/*
