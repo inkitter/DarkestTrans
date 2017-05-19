@@ -180,7 +180,7 @@
     <entry id="str_caretaker_goals_roster_goals_heading"><![CDATA[Roster Goals]]></entry>
     <entry id="str_stress"><![CDATA[{colour_start|stressNOT1}stress{colour_end}]]></entry>
     <entry id="str_new_quirk_colon"><![CDATA[新特质:]]></entry>
-    <entry id="str_new_buff_colon"><![CDATA[New {colour_start|buffNOT1}Buff:{colour_end}]]></entry>
+    <entry id="str_new_buff_colon"><![CDATA[新{colour_start|buffNOT1}增益:{colour_end}]]></entry>
     <entry id="str_gained"><![CDATA[获得{?amount}%d 金币]]></entry>
     <entry id="str_lost"><![CDATA[失去{?amount}%d 金币]]></entry>
     <entry id="str_quirk_removed"><![CDATA[移除特质:]]></entry>

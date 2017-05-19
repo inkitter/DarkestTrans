@@ -28,7 +28,7 @@
     <entry id="buff_stat_tooltip_stress_dmg_received_percent_mode"><![CDATA[%+d%% 转化{colour_start|stress}压力{colour_end}]]></entry>
     <entry id="buff_stat_tooltip_resistance_stun"><![CDATA[%+d%% {colour_start|stun}昏迷{colour_end}抗性]]></entry>
     <entry id="buff_stat_tooltip_resistance_move"><![CDATA[%+d%% {colour_start|move}位移{colour_end}抗性]]></entry>
-    <entry id="buff_stat_tooltip_resistance_poison"><![CDATA[%+d%% {colour_start|blight}服饰{colour_end}抗性]]></entry>
+    <entry id="buff_stat_tooltip_resistance_poison"><![CDATA[%+d%% {colour_start|blight}腐蚀{colour_end}抗性]]></entry>
     <entry id="buff_stat_tooltip_resistance_bleed"><![CDATA[%+d%% {colour_start|bleed}流血{colour_end}抗性]]></entry>
     <entry id="buff_stat_tooltip_resistance_disease"><![CDATA[%+d%% {colour_start|disease}疾病{colour_end} 抗性]]></entry>
     <entry id="buff_stat_tooltip_resistance_debuff"><![CDATA[%+d%% {colour_start|debuff}减益{colour_end}抗性]]></entry>

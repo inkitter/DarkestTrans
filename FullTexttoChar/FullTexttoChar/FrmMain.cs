@@ -14,202 +14,162 @@ namespace FullTexttoChar
         {
             InitializeComponent();
         }
-        Dictionary<char, uint> DictCharToCode = new Dictionary<char, uint>();
+        Dictionary<char, uint> DictAllCode = new Dictionary<char, uint>();
+        Dictionary<char, uint> DictOldCode = new Dictionary<char, uint>();
         Dictionary<char, uint> DictNewCode = new Dictionary<char, uint>();
-        Dictionary<char, uint> CountDup = new Dictionary<char, uint>();
+        
+        Dictionary<char, uint> DictCountDup = new Dictionary<char, uint>();
         GameFolder Gamefolder;
         private void BtnToChar_Click(object sender, EventArgs e)
         {
             TxtOutput.Clear();
             TxtCount.Clear();
-            DictCharToCode.Clear();
-            DictNewCode.Clear();
-            CountDup.Clear();
 
-            DictCharToCode =MakeCharToCodeDict(TxtInput.Text.ToCharArray());      
-            DictNewCode = MakeNewCodeDict();
+            Tuple<Dictionary<char, uint>, Dictionary<char, uint>> tp = Functions.MakeOldCodeDict(TxtInput.Text.ToCharArray());
+            DictOldCode = tp.Item1;
+            DictCountDup = tp.Item2;
 
+            ShowLastDict(DictOldCode);
+        }
+        private void ShowLastDict(Dictionary<char, uint> dict)
+        {
             StringBuilder AllStrTable = new StringBuilder();
             AllStrTable.Clear();
-            foreach(char ch in DictCharToCode.Keys)
+            foreach (char ch in dict.Keys)
             {
                 AllStrTable.Append(ch);
             }
-            TxtOutput.Text = AllStrTable.ToString() + "\r\nCount: " + DictCharToCode.Count;
+            TxtOutput.Text = AllStrTable.ToString() + "\r\nCount: " + dict.Count;
 
             StringBuilder StrCount = new StringBuilder();
-            var order=CountDup.OrderByDescending(x => x.Value).ToDictionary(x => x.Key, x => x.Value);
-            foreach (KeyValuePair<char,uint> ch in order)
+            var order = DictCountDup.OrderByDescending(x => x.Value).ToDictionary(x => x.Key, x => x.Value);
+            foreach (KeyValuePair<char, uint> ch in order)
             {
-                StrCount.Append(ch.Key + "," + ch.Value+"\r\n");
+                StrCount.Append(ch.Key + "," + ch.Value + "\r\n");
             }
             TxtCount.Text = StrCount.ToString();
-
-        }
-        private Dictionary<char, uint> MakeCharToCodeDict(char[] CharArray)
-        {
-            Dictionary<char, uint> dict = new Dictionary<char, uint>();
-            CountDup.Clear();
-            foreach (char ch in CharArray)
-            {
-                uint chcode = Convert.ToUInt32(ch);
-                if (chcode <160) { continue; }
-                if (!dict.ContainsKey(ch))
-                {
-                    dict.Add(ch, chcode);
-                    CountDup.Add(ch,1);
-                }
-                else
-                {
-                    uint ls = CountDup[ch];
-                    CountDup.Remove(ch);
-                    CountDup.Add(ch, ls + 1);
-                }
-            }
-            return dict;
-        }
-        private Dictionary<char, uint> MakeNewCodeDict()
-        {
-            Dictionary<char, uint> dict = new Dictionary<char, uint>();
-            uint StartCode = Convert.ToUInt32(TxtStartCode.Text);
-            if (StartCode <= 127) { StartCode = 128; }
-            foreach (char ch in DictCharToCode.Keys)
-            {
-                if (!dict.ContainsKey(ch))
-                {
-                    dict.Add(ch, StartCode);
-                }
-                StartCode++;
-            }
-            return dict;
         }
 
         private void FrmMain_Load(object sender, EventArgs e)
         {
             LoadGameFolder();
+            RefreshFileList();
+            MakeAllDict();
+        }
+
+        private void MakeAllDict()
+        {
+            StringBuilder str = new StringBuilder();
+            foreach(string file in LstFiles.Items)
+            {
+                str.Append(File.ReadAllText(file));
+            }
+            Tuple<Dictionary<char, uint>, Dictionary<char, uint>> tp = Functions.MakeOldCodeDict(str.ToString().ToCharArray());
+            DictAllCode = tp.Item1;
+            DictCountDup = tp.Item2;
+            DictNewCode = Functions.MakeNewCodeDict(DictAllCode, Convert.ToUInt32(TxtStartCode.Text));
         }
 
         private void LoadGameFolder()
         {
             Gamefolder = new GameFolder(TxtPath.Text);
-            TxtOutput.Text = "Game Folder: " + Gamefolder.GamePath;
+            Log("Game Folder Set: " + Gamefolder.GamePath);
         }
-
-        private void BtnLoadOriginal_Click(object sender, EventArgs e)
+        private void RefreshFileList()
         {
-            TxtInput.Clear();
-
-            if (!Directory.Exists(Gamefolder.OriXMLFolder)) { return; }
+            if (!Directory.Exists(Gamefolder.OriXMLFolder)) { Log("No Original XML Folder"); return; }
             foreach (string file in Directory.GetFiles(Gamefolder.OriXMLFolder))
             {
-                TxtInput.AppendText(File.ReadAllText(file));
+                LstFiles.Items.Add(file);
             }
+            Log("Original XML Loaded");
+        }
+        private void Log(string logtext)
+        {
+            TxtOutput.AppendText("\r\n");
+            TxtOutput.AppendText(logtext);
         }
 
-        private void BtnLoadFile_Click(object sender, EventArgs e)
+        private void BtnLoadSelectedFiles_Click(object sender, EventArgs e)
         {
             TxtInput.Clear();
-            string filepath = Gamefolder.OriXMLFolder + TxtPathFile.Text;
-            if (!File.Exists(filepath)) { return; }
-            TxtInput.AppendText(File.ReadAllText(filepath));
+            List<string> FilesToLoad = new List<string>();
+
+            foreach (var file in LstFiles.SelectedItems)
+            {
+                FilesToLoad.Add(file.ToString());
+            }
+            TxtInput.Text =Functions.LoadFiles(FilesToLoad);
+
+            TxtOutput.Clear();
+            TxtCount.Clear();
+
+            Tuple<Dictionary<char, uint>, Dictionary<char, uint>> tp = Functions.MakeOldCodeDict(TxtInput.Text.ToCharArray());
+            DictOldCode = tp.Item1;
+            DictCountDup = tp.Item2;
+
+            ShowLastDict(DictOldCode);
         }
+        
 
         private void BtnMakeFile_Click(object sender, EventArgs e)
         {
-            if (!ChkSingleFile.Checked)
-            {
-                WriteXMLFolder();
-                WriteFntFolder();
-            }
-            else
-            {
+            WriteXMLFolder();
+            // 编辑XML并写入
 
-            }
+            WriteFntFolder();
+            // 编辑Fnt并写入
         }
         private void WriteXMLFolder()
         {
             if (!Directory.Exists(Gamefolder.OriXMLFolder)) { return; }
-            foreach (string file in Directory.GetFiles(Gamefolder.OriXMLFolder))
+            List<string> FilesToSave = new List<string>();
+            foreach (var file in LstFiles.SelectedItems)
             {
-                File.WriteAllText(Gamefolder.GameXMLFolder+Path.GetFileName(file), MakeSingleFile(file));
-                TxtOutput.AppendText("\r\n" + Gamefolder.GameXMLFolder + Path.GetFileName(file) + " xml Saved");
+                FilesToSave.Add(file.ToString());
             }
+            Functions.WriteXMLFileFolder(Gamefolder.OriXMLFolder, Gamefolder.GameXMLFolder, FilesToSave, DictNewCode,!ChkUseOldCode.Checked);
+            Log("Files saved: " );
         }
         private void WriteFntFolder()
         {
-            if (!Directory.Exists(Gamefolder.OriFontFolder)) { return; }
-            foreach (string file in Directory.GetFiles(Gamefolder.OriFontFolder, "*.fnt"))
+            string OutputFilePath = "";
+            if (LstFiles.SelectedItems.Count == 0) { Log("No File Selected"); return; }
+            // 如果没选择文件则提示
+            if (LstFiles.SelectedItems.Count == 1)
             {
-                string path = Gamefolder.GameFontFolder + Path.GetFileName(file);
-                string wr = MakeFontFile(file);
-                File.WriteAllText(path, wr);
-                TxtOutput.AppendText("\r\n" + path + " fnt Saved");
+                string file = LstFiles.SelectedItem.ToString();
+                OutputFilePath = Gamefolder.GameFontFolder + Path.GetFileNameWithoutExtension(file).Replace(".string_table", "")+".fnt";
             }
-        }
-        private string MakeSingleFile(string FilePath)
-        {
-            char[] FileCharArray = File.ReadAllText(FilePath).ToCharArray();
-            StringBuilder outstr = new StringBuilder() ;
-            for (int i=0; i<FileCharArray.Length; i++)
-            {
-                if (DictNewCode.ContainsKey(FileCharArray[i]))
-                {
-                   outstr.Append( Convert.ToChar(DictNewCode[FileCharArray[i]]));
-                }
-                else
-                {
-                    outstr.Append(FileCharArray[i]);
-                }
-            }
-
-            return outstr.ToString();
-            
-        }
-        private string MakeFontFile(string FilePath)
-        {
-            Dictionary<string, string> DictFontCode = new Dictionary<string, string>();
-            foreach (char ch in DictCharToCode.Keys)
-            {
-                string pre = "char id=";
-                DictFontCode.Add(pre + DictCharToCode[ch].ToString(), pre + DictNewCode[ch].ToString());
-            }
-
-            string[] FileLines = File.ReadAllLines(FilePath);
-            StringBuilder NewFile=new StringBuilder();
-            NewFile.Clear();
-
-            for (int i =0;i<=99; i++)
-            {
-                NewFile.AppendLine(FileLines[i]);
-            }
-
-            foreach(string line in FileLines)
-            {
-                foreach (string key in DictFontCode.Keys)
-                {
-                    if (line.Contains(key))
-                    {
-                        NewFile.AppendLine(line.Replace(key, DictFontCode[key]));
-                    }
-                }
-                
-            }
-            return NewFile.ToString();
-        }
-
-        private void ChkSingleFile_CheckedChanged(object sender, EventArgs e)
-        {
-            if (ChkSingleFile.Checked)
-            {
-                TxtPathFile.Enabled = true;
-                BtnLoadFile.Enabled = true;
-            }
+            // 如果选择了一个文件就用这个文件名
             else
             {
-                TxtPathFile.Enabled = false;
-                BtnLoadFile.Enabled = false;
+                OutputFilePath = Gamefolder.GameFontFolder + "14.fnt";
             }
+            // 如果选择了多个文件就用14这个文件名
+            
+            Log("Output File: " + OutputFilePath);
+            //if (!Directory.Exists(Path.GetDirectoryName(OutputFilePath))) { Log("Original Folder not Found"); return; }
+            if (!File.Exists(Gamefolder.OriFontFile)) { Log("Original fnt File not Found"); return; }
 
-            }
+            Functions.WriteFntFileWithCode(Gamefolder.OriFontFile, OutputFilePath, DictOldCode, DictNewCode,!ChkUseOldCode.Checked);
+        }
+
+        private void BtnSetOutputFolder_Click(object sender, EventArgs e)
+        {
+            LoadGameFolder();
+        }
+
+        private void ChkUseOldCode_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnMakeAllDict_Click(object sender, EventArgs e)
+        {
+            MakeAllDict();
+            ShowLastDict(DictAllCode);
+            Log("New Dict Made");
+        }
     }
 }

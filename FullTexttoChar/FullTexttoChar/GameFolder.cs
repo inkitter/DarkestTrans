@@ -54,7 +54,7 @@ namespace FullTexttoChar
 
         public string OriFontFile
         {
-            get { return oripath + "fonts\\14.fnt"; }
+            get { return oripath + "fonts\\Original.fnt"; }
         }
     }
 }
