@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <language id="english">
-    <entry id="str_quirk_name_tough"><![CDATA[坚韧]]></entry>
-    <entry id="str_quirk_name_fragile"><![CDATA[脆弱]]></entry>
-    <entry id="str_quirk_name_hard_skinned"><![CDATA[坚硬]]></entry>
-    <entry id="str_quirk_name_soft"><![CDATA[弱]]></entry>
+    <entry id="str_quirk_name_tough"><![CDATA[tough]]></entry>
+    <entry id="str_quirk_name_fragile"><![CDATA[fragile]]></entry>
+    <entry id="str_quirk_name_hard_skinned"><![CDATA[hard_skinned]]></entry>
+    <entry id="str_quirk_name_soft"><![CDATA[soft]]></entry>
     <entry id="str_quirk_name_quick_reflexes"><![CDATA[反应快]]></entry>
     <entry id="str_quirk_name_slow_reflexes"><![CDATA[反应慢]]></entry>
     <entry id="str_quirk_name_quickdraw"><![CDATA[快速出鞘]]></entry>
