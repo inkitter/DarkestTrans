@@ -25,7 +25,7 @@
     <entry id="options_category_gameplay"><![CDATA[游戏设置]]></entry>
     <entry id="options_category_other"><![CDATA[其它]]></entry>
     <entry id="menu_options_not_recommended_confirm_dialog"><![CDATA[We recommend leaving this option on for the most authentic experience. Still disable?]]></entry>
-    <entry id="menu_options_require_restart"><![CDATA[Restart the game for these changes to take effect.]]></entry>
+    <entry id="menu_options_require_restart"><![CDATA[重启游戏使这些变化生效.]]></entry>
     <entry id="menu_options_value_seperation_resolution"><![CDATA[x]]></entry>
     <entry id="menu_options_back_confirm_dialog_question"><![CDATA[保存这些更改?]]></entry>
     <entry id="menu_options_back_confirm_dialog_answer_save"><![CDATA[保存]]></entry>

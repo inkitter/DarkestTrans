@@ -497,8 +497,8 @@ Some heroes are better than others at disarming.]]></entry>
     <entry id="map_input_preview_reset"><![CDATA[Reset View]]></entry>
     <entry id="map_input_preview_zoom_in"><![CDATA[Zoom In]]></entry>
     <entry id="map_input_preview_zoom_out"><![CDATA[Zoom Out]]></entry>
-    <entry id="menu_base_element_help"><![CDATA[Help]]></entry>
-    <entry id="menu_base_element_view_help"><![CDATA[Help]]></entry>
+    <entry id="menu_base_element_help"><![CDATA[帮助]]></entry>
+    <entry id="menu_base_element_view_help"><![CDATA[帮助]]></entry>
     <entry id="menu_options_element_controller_vibration"><![CDATA[Vibration]]></entry>
     <entry id="obstacle_tooltip_ancestor_talk_controller"><![CDATA[Speak]]></entry>
     <entry id="obstacle_tooltip_clear_by_hand_controller"><![CDATA[Clear]]></entry>
@@ -558,7 +558,7 @@ Some heroes are better than others at disarming.]]></entry>
     <entry id="str_inventory_title_trinketfortifying_garlic"><![CDATA[Fortifying Garlic]]></entry>
     <entry id="str_inventory_title_trinketethereal_crucifix"><![CDATA[Ethereal Crucifix]]></entry>
     <entry id="str_inventory_title_trinkettempting_goblet"><![CDATA[The Tempting Goblet]]></entry>
-    <entry id="menu_base_element_view_glossary"><![CDATA[Glossary]]></entry>
+    <entry id="menu_base_element_view_glossary"><![CDATA[术语表]]></entry>
     <entry id="town_event_title_stage_coach_bonus_recruits"><![CDATA[A Day Long Awaited]]></entry>
     <entry id="town_event_description_stage_coach_bonus_recruits"><![CDATA[Word of our predicament has spread, and a new crop of aspiring corpses step from the stagecoach...]]></entry>
     <entry id="town_event_info_format_stage_coach_bonus_recruits"><![CDATA[6 more recruits than usual]]></entry>
