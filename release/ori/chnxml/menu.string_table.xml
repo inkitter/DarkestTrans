@@ -30,7 +30,7 @@
     <entry id="menu_options_back_confirm_dialog_question"><![CDATA[保存这些更改?]]></entry>
     <entry id="menu_options_back_confirm_dialog_answer_save"><![CDATA[保存]]></entry>
     <entry id="menu_options_back_confirm_dialog_answer_discard"><![CDATA[放弃]]></entry>
-    <entry id="menu_options_element_fullscreen"><![CDATA[全屏？]]></entry>
+    <entry id="menu_options_element_fullscreen"><![CDATA[全屏?]]></entry>
     <entry id="menu_options_element_monitor_number"><![CDATA[显示器编号]]></entry>
     <entry id="menu_options_element_resolution"><![CDATA[分辨率]]></entry>
     <entry id="menu_options_element_mute"><![CDATA[静音]]></entry>
@@ -39,12 +39,12 @@
     <entry id="menu_options_element_music_volume"><![CDATA[音乐音量]]></entry>
     <entry id="menu_options_element_narration_volume"><![CDATA[叙事音量]]></entry>
     <entry id="menu_options_element_video_volume"><![CDATA[影片音量]]></entry>
-    <entry id="menu_options_element_metrics"><![CDATA[Enable Anonymous Data Collection]]></entry>
-    <entry id="menu_options_element_combat_pivot_camera"><![CDATA[Combat Pivot Camera]]></entry>
-    <entry id="menu_options_element_extra_bark_time"><![CDATA[Extra Bark Time (seconds)]]></entry>
-    <entry id="menu_options_element_bark_dismissal"><![CDATA[Bark Dismissal]]></entry>
+    <entry id="menu_options_element_metrics"><![CDATA[数据收集]]></entry>
+    <entry id="menu_options_element_combat_pivot_camera"><![CDATA[多样化战斗视角]]></entry>
+    <entry id="menu_options_element_extra_bark_time"><![CDATA[对话框停留时间]]></entry>
+    <entry id="menu_options_element_bark_dismissal"><![CDATA[关闭对话框]]></entry>
     <entry id="menu_options_element_blur"><![CDATA[模糊效果]]></entry>
-    <entry id="menu_options_element_debug_output"><![CDATA[Debug Output]]></entry>
+    <entry id="menu_options_element_debug_output"><![CDATA[调试日志]]></entry>
     <entry id="menu_options_element_tutorial"><![CDATA[教程]]></entry>
     <entry id="menu_options_element_subtitles"><![CDATA[字幕]]></entry>
     <entry id="menu_options_element_corpses"><![CDATA[怪物死亡留下尸体]]></entry>
@@ -80,7 +80,7 @@
     <entry id="menu_options_element_roster_sort_party_to_top"><![CDATA[队伍自动排序]]></entry>
     <entry id="menu_options_element_tooltip_roster_sort_party_to_top"><![CDATA[If enabled, active party members always appear at the top of the hero roster in town.]]></entry>
     <entry id="str_media_video"><![CDATA[开场白]]></entry>
-    <entry id="str_media_boss_quests"><![CDATA[The Ancestor's Path]]></entry>
+    <entry id="str_media_boss_quests"><![CDATA[先祖之路]]></entry>
     <entry id="str_plot_kill_necromancer_1_audio_line"><![CDATA[Mastery Over Life and Death]]></entry>
     <entry id="str_plot_kill_necromancer_2_audio_line"><![CDATA[The Visitors]]></entry>
     <entry id="str_plot_kill_necromancer_3_audio_line"><![CDATA[The Dead Reviving The Dead]]></entry>

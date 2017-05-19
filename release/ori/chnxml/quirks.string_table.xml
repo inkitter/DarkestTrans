@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <language id="english">
-    <entry id="str_quirk_name_tough"><![CDATA[Tough]]></entry>
-    <entry id="str_quirk_name_fragile"><![CDATA[Fragile]]></entry>
-    <entry id="str_quirk_name_hard_skinned"><![CDATA[Hard Skinned]]></entry>
-    <entry id="str_quirk_name_soft"><![CDATA[Soft]]></entry>
-    <entry id="str_quirk_name_quick_reflexes"><![CDATA[Quick Reflexes]]></entry>
-    <entry id="str_quirk_name_slow_reflexes"><![CDATA[Slow Reflexes]]></entry>
-    <entry id="str_quirk_name_quickdraw"><![CDATA[Quickdraw]]></entry>
-    <entry id="str_quirk_name_slowdraw"><![CDATA[Slowdraw]]></entry>
-    <entry id="str_quirk_name_natural_swing"><![CDATA[Natural Swing]]></entry>
+    <entry id="str_quirk_name_tough"><![CDATA[坚韧]]></entry>
+    <entry id="str_quirk_name_fragile"><![CDATA[脆弱]]></entry>
+    <entry id="str_quirk_name_hard_skinned"><![CDATA[坚硬]]></entry>
+    <entry id="str_quirk_name_soft"><![CDATA[弱]]></entry>
+    <entry id="str_quirk_name_quick_reflexes"><![CDATA[反应快]]></entry>
+    <entry id="str_quirk_name_slow_reflexes"><![CDATA[反应慢]]></entry>
+    <entry id="str_quirk_name_quickdraw"><![CDATA[快速出鞘]]></entry>
+    <entry id="str_quirk_name_slowdraw"><![CDATA[慢速出鞘]]></entry>
+    <entry id="str_quirk_name_natural_swing"><![CDATA[舞动自然]]></entry>
     <entry id="str_quirk_name_the_yips"><![CDATA[The Yips]]></entry>
-    <entry id="str_quirk_name_natural_eye"><![CDATA[Natural Eye]]></entry>
+    <entry id="str_quirk_name_natural_eye"><![CDATA[自然之眼]]></entry>
     <entry id="str_quirk_name_lazy_eye"><![CDATA[Lazy Eye]]></entry>
     <entry id="str_quirk_name_evasive"><![CDATA[Evasive]]></entry>
     <entry id="str_quirk_name_clumsy"><![CDATA[Clumsy]]></entry>
@@ -245,4 +245,3 @@
     <entry id="str_quirk_description_compulsive"><![CDATA[Suffers intense need to do specific actions.]]></entry>
   </language>
 </root>
-
