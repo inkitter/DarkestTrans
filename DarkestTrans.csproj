@@ -92,6 +92,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataClass.cs" />
     <Compile Include="frmTranslator.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -100,6 +101,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tools.cs" />
     <EmbeddedResource Include="frmTranslator.resx">
       <DependentUpon>frmTranslator.cs</DependentUpon>
     </EmbeddedResource>

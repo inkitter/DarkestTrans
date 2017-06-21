@@ -18,7 +18,6 @@ namespace DarkestTrans
             FunRefresh();
             UserDictInitialize();
             SetToolTip();
-            //ComBOldVersionInitialize();
         }
 
         private void SetToolTip()
@@ -59,6 +58,7 @@ namespace DarkestTrans
 
         List<XMLdata> XMLText;
         Dictionary<string, string> UserDict = new Dictionary<string, string>();
+        Dictionary<string, string> DictJson = new Dictionary<string, string>();
         ToolTip ToolTiptt = new ToolTip();
 
 
@@ -510,6 +510,19 @@ namespace DarkestTrans
         private void BtnReWithDict_Click(object sender, EventArgs e)
         {
             XMLText=XMLTools.ReplaceWithDict(XMLText,UserDict);
+            DfData.Refresh();
+            BtnSave.Enabled = true;
+        }
+
+        private void BtnReadJson_Click(object sender, EventArgs e)
+        {
+            DictJson = XMLTools.MakeJsonDict();
+            TxtAPI.AppendText("json loaded:"+DictJson.Count());
+        }
+
+        private void BtnReplaceWithJson_Click(object sender, EventArgs e)
+        {
+            XMLText = XMLTools.ReplaceWithJson(XMLText, DictJson);
             DfData.Refresh();
             BtnSave.Enabled = true;
         }

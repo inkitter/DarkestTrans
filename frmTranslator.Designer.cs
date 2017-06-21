@@ -52,6 +52,8 @@
             this.ChkTraditionalChinese = new System.Windows.Forms.CheckBox();
             this.TxtFind = new System.Windows.Forms.TextBox();
             this.BtnReWithDict = new System.Windows.Forms.Button();
+            this.BtnReadJson = new System.Windows.Forms.Button();
+            this.BtnReplaceWithJson = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.DfData)).BeginInit();
             this.SuspendLayout();
             // 
@@ -102,7 +104,7 @@
             // 
             this.LabFROM.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.LabFROM.AutoSize = true;
-            this.LabFROM.Location = new System.Drawing.Point(853, 561);
+            this.LabFROM.Location = new System.Drawing.Point(850, 561);
             this.LabFROM.Name = "LabFROM";
             this.LabFROM.Size = new System.Drawing.Size(29, 12);
             this.LabFROM.TabIndex = 6;
@@ -112,7 +114,7 @@
             // 
             this.LabTo.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.LabTo.AutoSize = true;
-            this.LabTo.Location = new System.Drawing.Point(853, 636);
+            this.LabTo.Location = new System.Drawing.Point(849, 636);
             this.LabTo.Name = "LabTo";
             this.LabTo.Size = new System.Drawing.Size(53, 12);
             this.LabTo.TabIndex = 7;
@@ -191,7 +193,7 @@
             // BtnApply
             // 
             this.BtnApply.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.BtnApply.Location = new System.Drawing.Point(853, 658);
+            this.BtnApply.Location = new System.Drawing.Point(848, 651);
             this.BtnApply.Name = "BtnApply";
             this.BtnApply.Size = new System.Drawing.Size(94, 34);
             this.BtnApply.TabIndex = 0;
@@ -213,7 +215,7 @@
             // BtnAPItochnBox
             // 
             this.BtnAPItochnBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.BtnAPItochnBox.Location = new System.Drawing.Point(852, 714);
+            this.BtnAPItochnBox.Location = new System.Drawing.Point(847, 720);
             this.BtnAPItochnBox.Name = "BtnAPItochnBox";
             this.BtnAPItochnBox.Size = new System.Drawing.Size(122, 34);
             this.BtnAPItochnBox.TabIndex = 13;
@@ -249,7 +251,7 @@
             // BtnOpenBrowser
             // 
             this.BtnOpenBrowser.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.BtnOpenBrowser.Location = new System.Drawing.Point(853, 574);
+            this.BtnOpenBrowser.Location = new System.Drawing.Point(848, 576);
             this.BtnOpenBrowser.Name = "BtnOpenBrowser";
             this.BtnOpenBrowser.Size = new System.Drawing.Size(56, 34);
             this.BtnOpenBrowser.TabIndex = 16;
@@ -287,7 +289,7 @@
             this.LabHelp.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.LabHelp.AutoSize = true;
             this.LabHelp.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.LabHelp.Location = new System.Drawing.Point(1049, 695);
+            this.LabHelp.Location = new System.Drawing.Point(1049, 736);
             this.LabHelp.Name = "LabHelp";
             this.LabHelp.Size = new System.Drawing.Size(29, 12);
             this.LabHelp.TabIndex = 33;
@@ -343,11 +345,33 @@
             this.BtnReWithDict.UseVisualStyleBackColor = true;
             this.BtnReWithDict.Click += new System.EventHandler(this.BtnReWithDict_Click);
             // 
+            // BtnReadJson
+            // 
+            this.BtnReadJson.Location = new System.Drawing.Point(961, 669);
+            this.BtnReadJson.Name = "BtnReadJson";
+            this.BtnReadJson.Size = new System.Drawing.Size(118, 23);
+            this.BtnReadJson.TabIndex = 40;
+            this.BtnReadJson.Text = "Read Json";
+            this.BtnReadJson.UseVisualStyleBackColor = true;
+            this.BtnReadJson.Click += new System.EventHandler(this.BtnReadJson_Click);
+            // 
+            // BtnReplaceWithJson
+            // 
+            this.BtnReplaceWithJson.Location = new System.Drawing.Point(960, 694);
+            this.BtnReplaceWithJson.Name = "BtnReplaceWithJson";
+            this.BtnReplaceWithJson.Size = new System.Drawing.Size(118, 23);
+            this.BtnReplaceWithJson.TabIndex = 41;
+            this.BtnReplaceWithJson.Text = "Replace With Json";
+            this.BtnReplaceWithJson.UseVisualStyleBackColor = true;
+            this.BtnReplaceWithJson.Click += new System.EventHandler(this.BtnReplaceWithJson_Click);
+            // 
             // FrmTranslator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1084, 801);
+            this.Controls.Add(this.BtnReplaceWithJson);
+            this.Controls.Add(this.BtnReadJson);
             this.Controls.Add(this.BtnReWithDict);
             this.Controls.Add(this.TxtFind);
             this.Controls.Add(this.ChkTraditionalChinese);
@@ -406,6 +430,8 @@
         private System.Windows.Forms.CheckBox ChkTraditionalChinese;
         private System.Windows.Forms.TextBox TxtFind;
         private System.Windows.Forms.Button BtnReWithDict;
+        private System.Windows.Forms.Button BtnReadJson;
+        private System.Windows.Forms.Button BtnReplaceWithJson;
     }
 }
 
