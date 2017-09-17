@@ -4,5 +4,45 @@
     <entry id="str_mod_source"><![CDATA[Source: %s]]></entry>
     <entry id="str_mod_local_source"><![CDATA[Manual Install]]></entry>
   </language>
+  <language id="french">
+    <entry id="str_mod_source"><![CDATA[Source: %s]]></entry>
+    <entry id="str_mod_local_source"><![CDATA[Manual Install]]></entry>
+  </language>
+  <language id="german">
+    <entry id="str_mod_source"><![CDATA[Source: %s]]></entry>
+    <entry id="str_mod_local_source"><![CDATA[Manual Install]]></entry>
+  </language>
+  <language id="spanish">
+    <entry id="str_mod_source"><![CDATA[Source: %s]]></entry>
+    <entry id="str_mod_local_source"><![CDATA[Manual Install]]></entry>
+  </language>
+  <language id="brazilian">
+    <entry id="str_mod_source"><![CDATA[Source: %s]]></entry>
+    <entry id="str_mod_local_source"><![CDATA[Manual Install]]></entry>
+  </language>
+  <language id="russian">
+    <entry id="str_mod_source"><![CDATA[Source: %s]]></entry>
+    <entry id="str_mod_local_source"><![CDATA[Manual Install]]></entry>
+  </language>
+  <language id="polish">
+    <entry id="str_mod_source"><![CDATA[Source: %s]]></entry>
+    <entry id="str_mod_local_source"><![CDATA[Manual Install]]></entry>
+  </language>
+  <language id="czech">
+    <entry id="str_mod_source"><![CDATA[Source: %s]]></entry>
+    <entry id="str_mod_local_source"><![CDATA[Manual Install]]></entry>
+  </language>
+  <language id="italian">
+    <entry id="str_mod_source"><![CDATA[Source: %s]]></entry>
+    <entry id="str_mod_local_source"><![CDATA[Manual Install]]></entry>
+  </language>
+  <language id="tchinese">
+    <entry id="str_mod_source"><![CDATA[Source: %s]]></entry>
+    <entry id="str_mod_local_source"><![CDATA[Manual Install]]></entry>
+  </language>
+  <language id="schinese">
+    <entry id="str_mod_source"><![CDATA[来源：%s]]></entry>
+    <entry id="str_mod_local_source"><![CDATA[手动安装]]></entry>
+  </language>
 </root>
 
