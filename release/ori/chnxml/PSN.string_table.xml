@@ -1,36 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <language id="english">
-    <entry id="str_controls_room_context"><![CDATA[房间]]></entry>
-    <entry id="str_controls_hallway_context"><![CDATA[过道]]></entry>
-    <entry id="str_controls_combat_context"><![CDATA[战斗]]></entry>
-    <entry id="str_controls_camping_context"><![CDATA[扎营]]></entry>
-    <entry id="str_controls_town_context"><![CDATA[城镇]]></entry>
-    <entry id="str_controls_hero_activity_context"><![CDATA[酒馆，教堂，疗养院]]></entry>
-    <entry id="str_controls_hero_action_context"><![CDATA[铁匠铺，公会]]></entry>
-    <entry id="str_controls_stage_coach_context"><![CDATA[公共马车]]></entry>
-    <entry id="str_controls_nomad_wagon_context"><![CDATA[游牧民货车]]></entry>
-    <entry id="str_controls_quest_select_context"><![CDATA[选择任务]]></entry>
-    <entry id="str_controls_provision_context"><![CDATA[补给中]]></entry>
-    <entry id="str_controls_inventory_context"><![CDATA[库存]]></entry>
-    <entry id="str_controls_panel_title"><![CDATA[控制]]></entry>
-    <entry id="str_controls_panel_prev"><![CDATA[上一页内容]]></entry>
-    <entry id="str_controls_panel_next"><![CDATA[下一页内容]]></entry>
-    <entry id="str_controls_town_stage_coach_context"><![CDATA[驿站]]></entry>
-    <entry id="str_controls_town_blacksmith_context"><![CDATA[铁匠铺]]></entry>
-    <entry id="str_controls_town_guild_context"><![CDATA[公会]]></entry>
-    <entry id="str_controls_town_camping_trainer_context"><![CDATA[野营训练者]]></entry>
-    <entry id="str_controls_town_tavern_context"><![CDATA[客栈]]></entry>
-    <entry id="str_controls_town_abbey_context"><![CDATA[教堂]]></entry>
-    <entry id="str_controls_town_sanitarium_context"><![CDATA[疗养院]]></entry>
-    <entry id="str_controls_town_nomad_wagon_context"><![CDATA[游牧马车]]></entry>
-    <entry id="str_controls_town_quest_select_context"><![CDATA[选择任务]]></entry>
-    <entry id="str_controls_raid_room_context"><![CDATA[房间]]></entry>
-    <entry id="str_controls_raid_hallway_context"><![CDATA[通道]]></entry>
-    <entry id="str_controls_raid_combat_context"><![CDATA[战斗]]></entry>
-    <entry id="str_controls_raid_camping_context"><![CDATA[野营]]></entry>
+    <entry id="str_controls_room_context"><![CDATA[Room]]></entry>
+    <entry id="str_controls_hallway_context"><![CDATA[Hallway]]></entry>
+    <entry id="str_controls_combat_context"><![CDATA[Combat]]></entry>
+    <entry id="str_controls_camping_context"><![CDATA[Camping]]></entry>
+    <entry id="str_controls_town_context"><![CDATA[Hamlet]]></entry>
+    <entry id="str_controls_hero_activity_context"><![CDATA[Tavern, Abbey, Sanitarium]]></entry>
+    <entry id="str_controls_hero_action_context"><![CDATA[Blacksmith, Guild]]></entry>
+    <entry id="str_controls_stage_coach_context"><![CDATA[Stagecoach]]></entry>
+    <entry id="str_controls_nomad_wagon_context"><![CDATA[Nomad Wagon]]></entry>
+    <entry id="str_controls_quest_select_context"><![CDATA[Quest Select]]></entry>
+    <entry id="str_controls_provision_context"><![CDATA[Provisioning]]></entry>
+    <entry id="str_controls_inventory_context"><![CDATA[Inventory]]></entry>
+    <entry id="str_controls_panel_title"><![CDATA[Controls]]></entry>
+    <entry id="str_controls_panel_prev"><![CDATA[Previous Context]]></entry>
+    <entry id="str_controls_panel_next"><![CDATA[Next Context]]></entry>
+    <entry id="str_controls_town_stage_coach_context"><![CDATA[Stage Coach]]></entry>
+    <entry id="str_controls_town_blacksmith_context"><![CDATA[Blacksmith]]></entry>
+    <entry id="str_controls_town_guild_context"><![CDATA[Guild]]></entry>
+    <entry id="str_controls_town_camping_trainer_context"><![CDATA[Camping Trainer]]></entry>
+    <entry id="str_controls_town_tavern_context"><![CDATA[Tavern]]></entry>
+    <entry id="str_controls_town_abbey_context"><![CDATA[Abbey]]></entry>
+    <entry id="str_controls_town_sanitarium_context"><![CDATA[Sanitarium]]></entry>
+    <entry id="str_controls_town_nomad_wagon_context"><![CDATA[Nomad Wagon]]></entry>
+    <entry id="str_controls_town_quest_select_context"><![CDATA[Quest Select]]></entry>
+    <entry id="str_controls_raid_room_context"><![CDATA[Room]]></entry>
+    <entry id="str_controls_raid_hallway_context"><![CDATA[Hallway]]></entry>
+    <entry id="str_controls_raid_combat_context"><![CDATA[Combat]]></entry>
+    <entry id="str_controls_raid_camping_context"><![CDATA[Camping]]></entry>
     <entry id="hallway_start1"><![CDATA[Menu]]></entry>
-    <entry id="[psv]hallway_start2"><![CDATA[放弃任务]]></entry>
+    <entry id="[psv]hallway_start2"><![CDATA[Abandon Quest]]></entry>
     <entry id="hallway_dpad_u"><![CDATA[Inventory/Map]]></entry>
     <entry id="hallway_dpad_d"><![CDATA[Inventory/Map]]></entry>
     <entry id="hallway_dpad_l_alternate_dpad_left_right"><![CDATA[Prev Hero]]></entry>
@@ -41,7 +41,7 @@
     <entry id="hallway_shoulder_l"><![CDATA[(L1) Prev Hero]]></entry>
     <entry id="hallway_shoulder_r"><![CDATA[(R1) Next Hero]]></entry>
     <entry id="hallway_trigger_l"><![CDATA[(L2 HOLD) Status Info]]></entry>
-    <entry id="hallway_trigger_r"><![CDATA[（R2）地图控制]]></entry>
+    <entry id="hallway_trigger_r"><![CDATA[(R2 HOLD) Map Controls]]></entry>
     <entry id="[psv]hallway_shoulder_l"><![CDATA[(rear touch pad left) 
 Prev Hero]]></entry>
     <entry id="[psv]hallway_shoulder_r"><![CDATA[(rear touch pad right) 
@@ -59,7 +59,7 @@ Prev Hero]]></entry>
     <entry id="[psv]hallway_touch_screen_r_rear_touchpad_enabled"><![CDATA[(touchscreen right)
 Next Hero]]></entry>
     <entry id="room_start1"><![CDATA[Menu]]></entry>
-    <entry id="[psv]room_start2"><![CDATA[放弃任务]]></entry>
+    <entry id="[psv]room_start2"><![CDATA[Abandon Quest]]></entry>
     <entry id="room_dpad_u"><![CDATA[Inventory/Map]]></entry>
     <entry id="room_dpad_d"><![CDATA[Inventory/Map]]></entry>
     <entry id="room_dpad_l_alternate_dpad_left_right"><![CDATA[Prev Hero]]></entry>
@@ -72,14 +72,16 @@ Next Hero]]></entry>
     <entry id="room_shoulder_r"><![CDATA[(R1) Next Hero]]></entry>
     <entry id="room_trigger_l"><![CDATA[(L2 HOLD) Status Info]]></entry>
     <entry id="room_trigger_r"><![CDATA[(R2 HOLD) Map Controls]]></entry>
-    <entry id="[psv]room_shoulder_l"><![CDATA[前一个英雄]]></entry>
-    <entry id="[psv]room_shoulder_r"><![CDATA[下一个英雄]]></entry>
+    <entry id="[psv]room_shoulder_l"><![CDATA[(rear touch pad left) 
+Prev Hero]]></entry>
+    <entry id="[psv]room_shoulder_r"><![CDATA[(rear touch pad right) 
+Next Hero]]></entry>
     <entry id="[psv]room_shoulder_l_rear_touchpad_enabled"><![CDATA[(rear touch pad left) 
 Disabled by Option]]></entry>
     <entry id="[psv]room_shoulder_r_rear_touchpad_enabled"><![CDATA[(rear touch pad right)
 Disabled by Option]]></entry>
-    <entry id="[psv]room_trigger_l"><![CDATA[统计信息]]></entry>
-    <entry id="[psv]room_trigger_r"><![CDATA[地图控制]]></entry>
+    <entry id="[psv]room_trigger_l"><![CDATA[(HOLD) Status Info]]></entry>
+    <entry id="[psv]room_trigger_r"><![CDATA[(HOLD) Map Controls]]></entry>
     <entry id="room_tpad_l"><![CDATA[Help]]></entry>
     <entry id="room_tpad_r"><![CDATA[Abandon Quest]]></entry>
     <entry id="[psv]room_touch_screen_l_rear_touchpad_enabled"><![CDATA[(touchscreen left)
@@ -87,7 +89,7 @@ Prev Hero]]></entry>
     <entry id="[psv]room_touch_screen_r_rear_touchpad_enabled"><![CDATA[(touchscreen right)
 Next Hero]]></entry>
     <entry id="combat_start1"><![CDATA[Menu]]></entry>
-    <entry id="[psv]combat_start2"><![CDATA[撤退]]></entry>
+    <entry id="[psv]combat_start2"><![CDATA[Retreat]]></entry>
     <entry id="combat_dpad_u"><![CDATA[Inventory/Map]]></entry>
     <entry id="combat_dpad_d"><![CDATA[Inventory/Map]]></entry>
     <entry id="combat_primary2"><![CDATA[Cancel/Close]]></entry>
@@ -96,7 +98,7 @@ Next Hero]]></entry>
     <entry id="combat_analog_stick_l"><![CDATA[Skill/Target Selection]]></entry>
     <entry id="combat_trigger_l"><![CDATA[(L2 HOLD) Status Info]]></entry>
     <entry id="combat_trigger_r"><![CDATA[(R2 HOLD) Map Controls]]></entry>
-    <entry id="[psv]combat_trigger_l"><![CDATA[状态信息]]></entry>
+    <entry id="[psv]combat_trigger_l"><![CDATA[(HOLD) Status Info]]></entry>
     <entry id="[psv]combat_trigger_r"><![CDATA[(HOLD) Map Controls]]></entry>
     <entry id="combat_tpad_l"><![CDATA[Help]]></entry>
     <entry id="combat_tpad_r"><![CDATA[Retreat]]></entry>
@@ -129,7 +131,7 @@ Prev Hero]]></entry>
     <entry id="[psv]camping_touch_screen_r_rear_touchpad_enabled"><![CDATA[(touchscreen right)
 Next Hero]]></entry>
     <entry id="town_start1"><![CDATA[Menu]]></entry>
-    <entry id="[psv]town_start2"><![CDATA[启程]]></entry>
+    <entry id="[psv]town_start2"><![CDATA[Embark]]></entry>
     <entry id="town_secondary2"><![CDATA[Trinket Inventory]]></entry>
     <entry id="town_primary2"><![CDATA[Cancel/Back]]></entry>
     <entry id="town_primary1"><![CDATA[Enter Building]]></entry>
@@ -142,8 +144,10 @@ Disabled by Option]]></entry>
     <entry id="[psv]town_shoulder_r_rear_touchpad_enabled"><![CDATA[(rear touch pad right)
 Disabled by Option]]></entry>
     <entry id="town_trigger_r"><![CDATA[(R2 HOLD) Roster Focus]]></entry>
-    <entry id="[psv]town_shoulder_l"><![CDATA[城镇事件]]></entry>
-    <entry id="[psv]town_shoulder_r"><![CDATA[活动日志]]></entry>
+    <entry id="[psv]town_shoulder_l"><![CDATA[(rear touch pad left) 
+Town Events]]></entry>
+    <entry id="[psv]town_shoulder_r"><![CDATA[(rear touch pad right)
+Activity Log]]></entry>
     <entry id="[psv]town_trigger_r"><![CDATA[(HOLD) Roster Focus]]></entry>
     <entry id="town_stick_l"><![CDATA[[CLICK] Heirloom Exchange]]></entry>
     <entry id="town_tpad_l"><![CDATA[Help]]></entry>
@@ -204,7 +208,7 @@ Next Hero]]></entry>
     <entry id="[psv]stage_coach_trigger_r"><![CDATA[(HOLD) Roster Focus]]></entry>
     <entry id="stage_coach_tpad_l"><![CDATA[Help]]></entry>
     <entry id="quest_select_start1"><![CDATA[Menu]]></entry>
-    <entry id="[psv]quest_select_start2"><![CDATA[启程]]></entry>
+    <entry id="[psv]quest_select_start2"><![CDATA[Embark]]></entry>
     <entry id="quest_select_primary2"><![CDATA[Cancel/Back]]></entry>
     <entry id="quest_select_primary1"><![CDATA[Place/Remove Hero in Party]]></entry>
     <entry id="quest_select_analog_stick_l"><![CDATA[Select Quest]]></entry>
@@ -213,7 +217,7 @@ Next Hero]]></entry>
     <entry id="quest_select_tpad_l"><![CDATA[Help]]></entry>
     <entry id="quest_select_tpad_r"><![CDATA[Embark]]></entry>
     <entry id="provision_start1"><![CDATA[Menu]]></entry>
-    <entry id="[psv]provision_start2"><![CDATA[启程]]></entry>
+    <entry id="[psv]provision_start2"><![CDATA[Embark]]></entry>
     <entry id="provision_primary2"><![CDATA[Cancel/Back]]></entry>
     <entry id="provision_primary1"><![CDATA[Purchase/Sell Supplies]]></entry>
     <entry id="provision_analog_stick_l"><![CDATA[Select Supplies]]></entry>
@@ -225,18 +229,23 @@ Next Hero]]></entry>
     <entry id="inventory_primary1"><![CDATA[Move or Equip Item]]></entry>
     <entry id="inventory_analog_stick_l"><![CDATA[Select Item]]></entry>
     <entry id="inventory_trigger_l"><![CDATA[(L2 HOLD) Item Info]]></entry>
-    <entry id="[psv]inventory_trigger_l"><![CDATA[（按住）物品详情]]></entry>
-    <entry id="tutorial_popup_embark_title"><![CDATA[启程！]]></entry>
-    <entry id="tutorial_popup_embark_description"><![CDATA[镇上的事情已经安排妥当，是时候着手开始一个任务了！
-点击屏幕底部的{colour_start|notable}【启程】{colour_end} 按钮！]]></entry>
-    <entry id="[ps4]tutorial_popup_embark_description"><![CDATA[镇上的事情已经安排妥当，是时候着手开始一个任务了！
-按下{colour_start|notable}【{colour_end}]]></entry>
-    <entry id="[psv]tutorial_popup_embark_description"><![CDATA[镇上的事情已经安排妥当，是时候着手开始一个任务了！
-按下{colour_start|notable}【开始】{colour_end}！]]></entry>
-    <entry id="tutorial_popup_loot_title"><![CDATA[战利品！]]></entry>
-    <entry id="tutorial_popup_loot_description"><![CDATA[你获取的每件物品都会占据物品栏的空间。
-{colour_start|notable}把鼠标指针移到{colour_end}  物品上会弹出有关它们的细节；在物品栏中也是一样！
-点击 {colour_start|town_activity_log_positive_result}[CIRCLE BUTTON]{colour_end} 来关闭这个窗口。)]]></entry>
+    <entry id="[psv]inventory_trigger_l"><![CDATA[(HOLD) Item Info]]></entry>
+    <entry id="tutorial_popup_embark_title"><![CDATA[Embark!]]></entry>
+    <entry id="tutorial_popup_embark_description"><![CDATA[There isn't much more you can do in town right now. It's time to EMBARK on a quest!
+
+Click on the {colour_start|notable}[EMBARK]{colour_end} button at the buttom of the screen!]]></entry>
+    <entry id="[ps4]tutorial_popup_embark_description"><![CDATA[There isn't much more you can do in town right now. It's time to EMBARK on a quest!
+
+Press {colour_start|notable}[TOUCH PAD RIGHT]{colour_end} to embark!]]></entry>
+    <entry id="[psv]tutorial_popup_embark_description"><![CDATA[There isn't much more you can do in town right now. It's time to EMBARK on a quest!
+
+Press {colour_start|notable}[START]{colour_end}!]]></entry>
+    <entry id="tutorial_popup_loot_title"><![CDATA[Loot!]]></entry>
+    <entry id="tutorial_popup_loot_description"><![CDATA[Each item, if you take it, will occupy space in your inventory.
+
+{colour_start|notable}Mouse over{colour_end} items to show details about them. This works in your inventory, too!
+
+Press {colour_start|town_activity_log_positive_result}[CIRCLE BUTTON]{colour_end} to close this window.)]]></entry>
     <entry id="[ps4]tutorial_popup_loot_description"><![CDATA[Each item, if you take it, will occupy space in your inventory.
 
 Hold {colour_start|notable}[L2] and use [LEFT STICK]{colour_end} to show details about the items available to loot. This works in your inventory, too!
@@ -257,12 +266,12 @@ To see details about any item, hold {colour_start|notable}[L2]{colour_end}. This
 For your first short quest, try bringing at least 8 food and 4 torches.
 
 To see details about any item, hold {colour_start|notable}[L Button]{colour_end}. This works for inventory and loot windows, too!]]></entry>
-    <entry id="tutorial_popup_quest_select_title"><![CDATA[任务和队伍]]></entry>
-    <entry id="tutorial_popup_quest_select_description"><![CDATA[这是你选择任务和和组织4名英雄组成探险队以启程的地方。
+    <entry id="tutorial_popup_quest_select_title"><![CDATA[Quests and Parties]]></entry>
+    <entry id="tutorial_popup_quest_select_description"><![CDATA[This is where you select a quest and form an adventuring party of four heroes to embark on it. 
 
-{colour_start|notable}[点击]{colour_end}任务以检视任务细节。
+{colour_start|notable}[CLICK]{colour_end} on quests to see their details.
 
-{colour_start|notable}[拖动]{colour_end}英雄于屏幕底部的槽位以组成你的队伍并确认默认的队序。]]></entry>
+{colour_start|notable}[DRAG]{colour_end} heroes into slots at the bottom of the screen to form your party and default party order.]]></entry>
     <entry id="[ps4]tutorial_popup_quest_select_description"><![CDATA[This is where you select a quest and form an adventuring party of four heroes to embark on it. 
 
 {colour_start|notable}[SELECT]{colour_end} quests with {colour_start|notable}[LEFT STICK]{colour_end} to see their details.
@@ -273,79 +282,82 @@ Place heroes into slots at the bottom of the screen to form your party by holdin
 Select quests with {colour_start|notable}[LEFT STICK]{colour_end} to see their details.
 
 Place heroes into slots at the bottom of the screen to form your party by holding{colour_start|notable}[R]{colour_end} and using the {colour_start|notable}[CROSS BUTTON]{colour_end}.]]></entry>
-    <entry id="tutorial_popup_stage_coach_description"><![CDATA[你需要{colour_start|notable}招募所有的英雄{colour_end}才能组成4人队伍。
+    <entry id="tutorial_popup_stage_coach_description"><![CDATA[You'll need to {colour_start|notable}recruit all of these heroes{colour_end} to fill out a party of four. 
 
-将他们{colour_start|town_activity_log_positive_result}[拖动至]{colour_end}你的名册。]]></entry>
+{colour_start|town_activity_log_positive_result}[Drag and drop]{colour_end} them into your roster.]]></entry>
     <entry id="[ps4|psv]tutorial_popup_stage_coach_description"><![CDATA[You'll need to {colour_start|notable}recruit all of these heroes{colour_end} to fill out a party of four.
 
 Select each hero with {colour_start|notable}[LEFT STICK] plus [CROSS BUTTON]{colour_end} and then use {colour_start|notable}[LEFT STICK] plus [CROSS BUTTON]{colour_end} again to place the hero in your active roster on the right.]]></entry>
-    <entry id="tutorial_popup_stage_coach2_title"><![CDATA[升级驿站马车网络]]></entry>
-    <entry id="tutorial_popup_stage_coach2_description"><![CDATA[当你在这里时，你可以花费你初始带来的祖产于{colour_start|notable}驿站马车网络的升级上{colour_end}。这将提升未来的可用英雄数量。
+    <entry id="tutorial_popup_stage_coach2_title"><![CDATA[Upgrade the Stage Coach Network]]></entry>
+    <entry id="tutorial_popup_stage_coach2_description"><![CDATA[While you're here, spend some of your starting heirlooms on {colour_start|notable}upgrading the Stagecoach Network{colour_end}. This will increase the number of heroes available here in the future.
 
-要升级的话，点击左侧的{colour_start|town_activity_log_positive_result}[+]{colour_end}，然后点击升级选项。]]></entry>
+To upgrade, click the {colour_start|town_activity_log_positive_result}[+]{colour_end} symbol on the left, and then click the upgrade.]]></entry>
     <entry id="[ps4]tutorial_popup_stage_coach2_description"><![CDATA[While you're here, spend some of your starting heirlooms on {colour_start|notable}upgrading the Stagecoach Network{colour_end}. This will increase the number of heroes available here in the future.
 
 To upgrade, hold {colour_start|town_activity_log_positive_result}[L2]{colour_end} to access the upgrades menu and then use {colour_start|notable}[LEFT STICK] plus [X BUTTON]{colour_end} to purchase upgrades.]]></entry>
     <entry id="[psv]tutorial_popup_stage_coach2_description"><![CDATA[While you're here, spend some of your starting heirlooms on {colour_start|notable}upgrading the Stagecoach Network{colour_end}. This will increase the number of heroes available here in the future.
 
 To upgrade, hold {colour_start|town_activity_log_positive_result}[L BUTTON]{colour_end} to access the upgrades menu and then use {colour_start|notable}[LEFT STICK] plus [X BUTTON]{colour_end} to purchase upgrades.]]></entry>
-    <entry id="[ps4]tutorial_popup_quest_complete_description"><![CDATA[在达成了任务的所有要求之后, 你可以随时选择 {colour_start|notable}返回城镇{colour_end} --按 {colour_start|notable}[触摸板 右键]{colour_end}。你并不需要返回起始房间来结束旅程。  (按 {colour_start|town_activity_log_positive_result}[〇键]{colour_end} 来关闭这个窗口。)]]></entry>
+    <entry id="[ps4]tutorial_popup_quest_complete_description"><![CDATA[After you've completed the requirements of a quest, you have the option to {colour_start|notable}return to town{colour_end} at any time--just press {colour_start|notable}[TOUCH PAD RIGHT]{colour_end}. You don't need to return to the starting room of the dungeon to exit.
+
+(Press {colour_start|town_activity_log_positive_result}[CIRCLE BUTTON]{colour_end} to close this window.)]]></entry>
     <entry id="[psv]tutorial_popup_quest_complete_description"><![CDATA[After you've completed the requirements of a quest, you have the option to {colour_start|notable}return to town{colour_end} at any time--just {colour_start|notable}[press START BUTTON]{colour_end}. You don't need to return to the starting room of the dungeon to exit.
 
 (Press {colour_start|town_activity_log_positive_result}[CIRCLE BUTTON]{colour_end} to close this window.)]]></entry>
-    <entry id="[ps4|psv]tutorial_popup_hero_panel_description"><![CDATA[当一个英雄被选取，按{colour_start|town_activity_log_positive_result}[ □ ]{colour_end} 打开一个详情页来展示英雄的所有{colour_start|notable}怪癖{colour_end}，{colour_start|notable}技能{colour_end}，和{colour_start|notable}抗性{colour_end}。]]></entry>
-    <entry id="[ps4]tutorial_popup_press_h_description"><![CDATA[在游戏中的任何时候，按住 {colour_start|town_activity_log_positive_result}[触摸板左键]{colour_end} 来查看与当前情景关联的帮助。
-在小镇，探险，战斗，扎营或其他时候尝试一下。]]></entry>
-    <entry id="[psv]tutorial_popup_press_h_description"><![CDATA[在游戏中的任何时候，按下 {colour_start|town_activity_log_positive_result}[SELECT BUTTON]{colour_end} 并选择{colour_start|town_activity_log_positive_result}[帮助]{colour_end}来查看与当前情景关联的帮助。
-在小镇，探险，战斗，扎营或其他时候尝试一下。]]></entry>
-    <entry id="[ps4|psv]tutorial_popup_combat_description"><![CDATA[战斗是{colour_start|notable}回合制{colour_end}的。在你英雄的回合，{colour_start|town_activity_log_positive_result}[选择]{colour_end}一个技能图标并{colour_start|town_activity_log_positive_result}[选择]{colour_end}一个目标。
-如果有某个技能你不能选择，这是因为英雄所在的{colour_start|notable}位置不对{colour_end}，或者是{colour_start|notable}没有有效的目标{colour_end}。让技能{colour_start|town_activity_log_positive_result}[高亮]{colour_end}可以查看其详细要求。
-(Press {colour_start|town_activity_log_positive_result}[○]{colour_end} to close this window.)]]></entry>
-    <entry id="[ps4]tutorial_popup_map_nav_description"><![CDATA[你现在正在一个{colour_start|notable}房间{colour_end}里。
+    <entry id="[ps4|psv]tutorial_popup_hero_panel_description"><![CDATA[When a hero is selected, press {colour_start|town_activity_log_positive_result}[SQUARE BUTTON]{colour_end} to bring up a detailed panel showing all of the hero's {colour_start|notable}quirks{colour_end}, {colour_start|notable}skills{colour_end}, and {colour_start|notable}resistances{colour_end}.]]></entry>
+    <entry id="[ps4]tutorial_popup_press_h_description"><![CDATA[On any screen in the game, press {colour_start|town_activity_log_positive_result}[TOUCH PAD LEFT]{colour_end} to see contextual help.
 
-要想移动至另一个房间，在{colour_start|notable}地图{colour_end}上用{colour_start|town_activity_log_positive_result}[右摇杆]{colour_end}选择一个目标房间，然后你将进入{colour_start|notable}走廊{colour_end}。
+Try it while in town, exploring, fighting, camping, and more.]]></entry>
+    <entry id="[psv]tutorial_popup_press_h_description"><![CDATA[On any screen in the game, press {colour_start|town_activity_log_positive_result}[SELECT BUTTON]{colour_end} and choose {colour_start|town_activity_log_positive_result}[HELP]{colour_end} to see contextual help.
 
-（按 {colour_start|town_activity_log_positive_result}[○]{colour_end}关闭窗口。）]]></entry>
-    <entry id="[psv]tutorial_popup_map_nav_description"><![CDATA[你现在正在一个{colour_start|notable}房间{colour_end}里。
+Try it while in town, exploring, fighting, camping, and more.]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_combat_description"><![CDATA[Combat is {colour_start|notable}turn-based{colour_end}. On your hero's turn, {colour_start|town_activity_log_positive_result}[SELECT]{colour_end} a skill icon and then {colour_start|town_activity_log_positive_result}[SELECT]{colour_end} a target. 
 
-要想移动至另一个房间，在{colour_start|notable}地图{colour_end}上用{colour_start|town_activity_log_positive_result}[右摇杆]{colour_end}选择一个目标房间，然后你将进入{colour_start|notable}走廊{colour_end}。
+If you can't select a particular skill, it's because that hero needs to be {colour_start|notable}standing in a different spot{colour_end} or there are {colour_start|notable}no valid targets{colour_end}. {colour_start|town_activity_log_positive_result}[HIGHLIGHT]{colour_end} the skill to see the requirements.]]></entry>
+    <entry id="[ps4]tutorial_popup_map_nav_description"><![CDATA[You are currently in a {colour_start|notable}room{colour_end}.
 
-除此之外，你也可以在触摸屏上用{colour_start|town_activity_log_positive_result}[TAP]{colour_end}来切换目标房间。
-]]></entry>
-    <entry id="[ps4|psv]tutorial_popup_hallway_nav_description"><![CDATA[当你在处在{colour_start|notable}走廊{colour_end}中时，使用{colour_start|town_activity_log_positive_result}[左摇杆]{colour_end}来前进或后退。
+To move towards another room, use {colour_start|town_activity_log_positive_result}[RIGHT STICK]{colour_end} to select a {colour_start|notable}destination room{colour_end} on the {colour_start|notable}map{colour_end}. This will take you to the {colour_start|notable}connecting hallway{colour_end}.
 
-（按{colour_start|town_activity_log_positive_result}[○键]{colour_end}关闭窗口。）]]></entry>
-    <entry id="[ps4|psv]tutorial_popup_curio_description"><![CDATA[在探险时，你会经常找到{colour_start|notable}互动对象{colour_end}。按下{colour_start|town_activity_log_positive_result}[叉叉按钮]{colour_end}来调查它们。在这个帐篷上看一看……
+(Press {colour_start|town_activity_log_positive_result}[CIRCLE BUTTON]{colour_end} to close this window.)]]></entry>
+    <entry id="[psv]tutorial_popup_map_nav_description"><![CDATA[You are currently in a {colour_start|notable}room{colour_end}.
 
-（按下{colour_start|town_activity_log_positive_result}[CIRCLE BUTTON]{colour_end}关闭窗口。）]]></entry>
-    <entry id="[ps4|psv]tutorial_popup_bandage_description"><![CDATA[你的英雄正在{colour_start|pop_text_bleed}流血{colour_end}！
+To move towards another room, use {colour_start|town_activity_log_positive_result}[RIGHT STICK]{colour_end} to select a {colour_start|notable}destination room{colour_end} on the {colour_start|notable}map{colour_end}. This will take you to the {colour_start|notable}connecting hallway{colour_end}.]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_hallway_nav_description"><![CDATA[While in a {colour_start|notable}hallway{colour_end}, use {colour_start|town_activity_log_positive_result}[LEFT STICK]{colour_end} to move forward or backward.
 
-如果你愿意的话，你可以从背包中使用一个{colour_start|notable}绷带{colour_end}来止血。在流血英雄的回合选择绷带并按下{colour_start|town_activity_log_positive_result}[△键]{colour_end}来使用。]]></entry>
-    <entry id="[ps4|psv]tutorial_popup_antivenom_description"><![CDATA[用{colour_start|town_activity_log_positive_result}[左摇杆]{colour_end}以及{colour_start|town_activity_log_positive_result}[△键]{colour_end}选取并使用解毒剂，绷带和草药来分别治疗当前英雄的腐蚀，流血或异常状态。]]></entry>
-    <entry id="[ps4|psv]tutorial_popup_torch_description"><![CDATA[{colour_start|notable}光{colour_end}正在变得暗淡！{colour_start|notable}火炬明亮度会极大影响很多其他游戏机制{colour_end}。越是黑暗的情况下，战斗、探索都会愈加困难，但奖励也会越丰厚。选择包裹中的火炬，按{colour_start|town_activity_log_positive_result}[△键]{colour_end}点燃，以重燃光明。]]></entry>
-    <entry id="[ps4|psv]tutorial_popup_camping_quest_description"><![CDATA[这个任务涉及{colour_start|notable}露营{colour_end}，露营需要{colour_start|notable}柴火{colour_end}。 柴火在这样的任务中将{colour_start|notable}自动给予{colour_end}您。
+(Press {colour_start|town_activity_log_positive_result}[CIRCLE BUTTON]{colour_end} to close this window.)]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_curio_description"><![CDATA[While exploring, you will often find {colour_start|notable}interactive objects{colour_end}. Press {colour_start|town_activity_log_positive_result}[CROSS BUTTON]{colour_end} to investigate them with the active hero. Take a look at this tent...
 
-{colour_start|notable}露营{colour_end}使英雄有机会{colour_start|notable}在地下城中获得恢复{colour_end}。 当您受伤或受到压力，并希望露营时，请在背包中选择柴火，然后按下{colour_start|town_activity_log_positive_result}[△按钮]{colour_end}。]]></entry>
-    <entry id="[ps4|psv]tutorial_popup_disarm_trap_description"><![CDATA[被探索出的{colour_start|trap}陷阱{colour_end}会在接近时{colour_start|notable}显示在地上{colour_end}。靠近{colour_start|trap}陷阱{colour_end}后，选择一个英雄并按下{colour_start|town_activity_log_positive_result}[X按钮]{colour_end}尝试{colour_start|notable}解除它{colour_end}.
+(Press {colour_start|town_activity_log_positive_result}[CIRCLE BUTTON]{colour_end} to close this window.)]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_bandage_description"><![CDATA[Your hero is {colour_start|pop_text_bleed}bleeding{colour_end}!
 
-一些英雄比另一些英雄更擅长解除陷阱。]]></entry>
-    <entry id="[ps4|psv]tutorial_popup_using_doors_description"><![CDATA[站在{colour_start|notable}门{colour_end}前按下{colour_start|town_activity_log_positive_result}[X按钮]{colour_end}可以进入一扇门。]]></entry>
+If you wish, you can use a {colour_start|notable}bandage{colour_end} from inventory to stop the flow. Select the bandage and press {colour_start|town_activity_log_positive_result}[TRIANGLE BUTTON]{colour_end} to use it when it's the injured hero's turn.]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_antivenom_description"><![CDATA[Select and use Anti-Venom, Bandages, or Medicinal Herbs from inventory with {colour_start|town_activity_log_positive_result}[LEFT STICK]{colour_end} and {colour_start|town_activity_log_positive_result}[TRIANGLE BUTTON]{colour_end} to heal BLIGHT, BLEED, or DEBUFFS on the current hero, respectively.]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_torch_description"><![CDATA[The {colour_start|notable}light{colour_end} is fading! The current {colour_start|notable}torch level greatly affects many mechanics{colour_end} in the game. The darker it gets, the harder things get but the better the rewards. Select a torch in inventory and press {colour_start|town_activity_log_positive_result}[TRIANGLE BUTTON]{colour_end} to consume it and boost the light back up.]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_camping_quest_description"><![CDATA[This quest involves {colour_start|notable}Camping{colour_end} and Camping requires {colour_start|notable}firewood{colour_end}. Firewood is {colour_start|notable}given automatically{colour_end} to you on appropriate quests.
+
+{colour_start|notable}Camping{colour_end} gives heroes a chance to {colour_start|notable}recuperate while in the dungeon{colour_end}. When you are wounded or stressed and wish to camp, select firewood in your inventory and press {colour_start|town_activity_log_positive_result}[TRIANGLE BUTTON]{colour_end}.]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_disarm_trap_description"><![CDATA[Scouted {colour_start|trap}traps{colour_end} will be {colour_start|notable}visible on the ground{colour_end} as you approach them. Select a hero and then press {colour_start|town_activity_log_positive_result}[CROSS BUTTON]{colour_end} while near the {colour_start|trap}trap{colour_end} to attempt to {colour_start|notable}disarm it{colour_end}.
+
+When heroes are within range of a scouted trap, the trap icon will show up in their status bars.
+
+Some heroes are better than others at disarming.]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_using_doors_description"><![CDATA[To enter a {colour_start|notable}door{colour_end}, press {colour_start|town_activity_log_positive_result}[CROSS BUTTON]{colour_end} when standing in front of it.]]></entry>
     <entry id="[ps4|psv]tutorial_popup_trinkets_description"><![CDATA[Each hero has slots to equip two items, called {colour_start|notable}trinkets{colour_end}. Just select the trinket in inventory and press {colour_start|notable}[CROSS BUTTON] {colour_end} to equip it. {colour_start|notable}Trinkets{colour_end} generally have a trade-off: something good, something bad. Some are also restricted to one hero class.]]></entry>
     <entry id="[ps4|psv]tutorial_popup_selling_trinkets_description"><![CDATA[You can sell back unwanted trinkets from your Trinket Inventory and make some money. Open the Trinket Inventory with {colour_start|notable}[TRIANGLE BUTTON]{colour_end}, select a trinket you don't want, and then sell it with [SQUARE BUTTON].]]></entry>
     <entry id="[ps4|psv]tutorial_popup_scout_hidden_door_description"><![CDATA[A critical scouting success will sometimes reveal a {colour_start|notable}Secret Room{colour_end}! Advance to the tile marked with a star, and press {colour_start|notable}[CROSS BUTTON]{colour_end} to enter. Fabulous wealth and riches await those equipped with a {colour_start|notable}key{colour_end}...]]></entry>
     <entry id="[ps4]str_help_town_0"><![CDATA[Select a hero with {colour_start|town_activity_log_positive_result}[R2 plus LEFT STICK]{colour_end} and then press {colour_start|town_activity_log_positive_result}[SQUARE BUTTON]{colour_end} to inspect their character sheet. Skills can be selected, clothing color can be changed, and they can be renamed or dismissed permanently.]]></entry>
     <entry id="[psv]str_help_town_0"><![CDATA[Select a hero with {colour_start|town_activity_log_positive_result}[R Button plus LEFT STICK]{colour_end} and then press {colour_start|town_activity_log_positive_result}[SQUARE BUTTON]{colour_end} to inspect their character sheet. Skills can be selected, clothing color can be changed, and they can be renamed or dismissed permanently.]]></entry>
     <entry id="[ps4|psv]str_help_town_1"><![CDATA[Use {colour_start|town_activity_log_positive_result}[L STICK and CROSS BUTTON]{colour_end} to enter buildings.]]></entry>
-    <entry id="[ps4|psv]str_help_town_2"><![CDATA[驿站马车: 招募新的英雄]]></entry>
-    <entry id="[ps4|psv]str_help_town_3"><![CDATA[升级武器和防具]]></entry>
-    <entry id="[ps4|psv]str_help_town_4"><![CDATA[向导：升级作战技能]]></entry>
-    <entry id="[ps4|psv]str_help_town_5"><![CDATA[升级露营技能]]></entry>
-    <entry id="[ps4|psv]str_help_town_6"><![CDATA[酒馆，修道院： 送英雄们进入其内，使得的{colour_start|stressNOT1}压力{colour_end}得以缓解]]></entry>
+    <entry id="[ps4|psv]str_help_town_2"><![CDATA[STAGECOACH: recruit new heroes]]></entry>
+    <entry id="[ps4|psv]str_help_town_3"><![CDATA[BLACKSMITH, GUILD, SURVIVALIST: upgrade hero skills and equipment]]></entry>
+    <entry id="[ps4|psv]str_help_town_4"><![CDATA[TAVERN, ABBEY: send heroes for {colour_start|stressNOT1}stress{colour_end} relief]]></entry>
+    <entry id="[ps4|psv]str_help_town_5"><![CDATA[SANITARIUM: treat heroes' quirks and diseases]]></entry>
+    <entry id="[ps4|psv]str_help_town_6"><![CDATA[NOMAD'S WAGON: purchase rare items]]></entry>
     <entry id="[ps4]str_help_town_7"><![CDATA[Press {colour_start|town_activity_log_positive_result}[TOUCH PAD RIGHT]{colour_end} when ready to {colour_start|town_activity_log_positive_result}EMBARK ON A QUEST{colour_end}.]]></entry>
     <entry id="[psv]str_help_town_7"><![CDATA[Press {colour_start|town_activity_log_positive_result}[START BUTTON]{colour_end} when ready to {colour_start|town_activity_log_positive_result}EMBARK ON A QUEST{colour_end}.]]></entry>
-    <entry id="[ps4]str_help_town_stage_coach_0"><![CDATA[按住 {colour_start|town_activity_log_positive_result}[L2]{colour_end} 访问该建筑的升级选项。]]></entry>
+    <entry id="[ps4]str_help_town_stage_coach_0"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[L2]{colour_end} to access upgrades for this building.]]></entry>
     <entry id="[psv]str_help_town_stage_coach_0"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[L Button]{colour_end} to access upgrades for this building.]]></entry>
-    <entry id="[ps4|psv]str_help_town_stage_coach_1"><![CDATA[当一个英雄被选择，按{colour_start|town_activity_log_positive_result}[ □ ]{colour_end} 来查看他们。]]></entry>
+    <entry id="[ps4|psv]str_help_town_stage_coach_1"><![CDATA[With a hero selected, press {colour_start|town_activity_log_positive_result}[SQUARE BUTTON]{colour_end} to inspect them.]]></entry>
     <entry id="[ps4|psv]str_help_town_stage_coach_2"><![CDATA[Use {colour_start|town_activity_log_positive_result}[CROSS BUTTON]{colour_end} to hire and place new heroes into your roster.]]></entry>
     <entry id="[ps4]str_help_town_blacksmith_0"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[L2]{colour_end} to access upgrades for this building.]]></entry>
     <entry id="[psv]str_help_town_blacksmith_0"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[L Button]{colour_end} to access upgrades for this building.]]></entry>
@@ -365,22 +377,22 @@ To upgrade, hold {colour_start|town_activity_log_positive_result}[L BUTTON]{colo
     <entry id="[ps4|psv]str_help_town_tavern_2"><![CDATA[Some quirks will block a hero from taking part in that activity.]]></entry>
     <entry id="[ps4|psv]str_help_town_tavern_3"><![CDATA[Each activity has different costs, {colour_start|stressNOT1}stress{colour_end} relief values, and possible side-effects. You will have to discover some of them through play.]]></entry>
     <entry id="[ps4|psv]str_help_town_tavern_4"><![CDATA[Committing the hero to the activity will make them unavailable for the next quest.]]></entry>
-    <entry id="[ps4|psv]str_help_town_tavern_5"><![CDATA[您必须升级这个建筑才能解锁更多的活动格子。]]></entry>
+    <entry id="[ps4|psv]str_help_town_tavern_5"><![CDATA[You will need to upgrade the building to unlock additional activity slots.]]></entry>
     <entry id="[ps4|psv]str_help_town_tavern_6"><![CDATA[Select an unoccupied building slot and press {colour_start|town_activity_log_positive_result}[CROSS BUTTON]{colour_end} to eject the hero from the building activity prematurely. You will not be refunded the money spent.]]></entry>
-    <entry id="[ps4]str_help_town_abbey_0"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L2]{colour_end}打开建筑升级界面。]]></entry>
+    <entry id="[ps4]str_help_town_abbey_0"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[L2]{colour_end} to access upgrades for this building.]]></entry>
     <entry id="[psv]str_help_town_abbey_0"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[L Button]{colour_end} to access upgrades for this building.]]></entry>
     <entry id="[ps4|psv]str_help_town_abbey_1"><![CDATA[{colour_start|town_activity_log_positive_result}[Place]{colour_end} a hero from your roster into the appropriate slot and confirm payment with {colour_start|town_activity_log_positive_result}[CROSS BUTTON]{colour_end} to begin a stress-relieving activity.]]></entry>
-    <entry id="[ps4|psv]str_help_town_abbey_2"><![CDATA[有些怪癖会阻止英雄参与这项活动。]]></entry>
-    <entry id="[ps4|psv]str_help_town_abbey_3"><![CDATA[每项活动都有不同的费用和释放{colour_start|stressNOT1}压力{colour_end}效果, 并且可能存在副作用。您在游戏中将发现这些。]]></entry>
-    <entry id="[ps4|psv]str_help_town_abbey_4"><![CDATA[让英雄参与活动将使他们无法在下一个任务中出征。]]></entry>
-    <entry id="[ps4|psv]str_help_town_abbey_5"><![CDATA[您必须升级这个建筑才能解锁更多的活动格子。]]></entry>
+    <entry id="[ps4|psv]str_help_town_abbey_2"><![CDATA[Some quirks will block a hero from taking part in that activity.]]></entry>
+    <entry id="[ps4|psv]str_help_town_abbey_3"><![CDATA[Each activity has different costs, {colour_start|stressNOT1}stress{colour_end} relief values, and possible side-effects. You will have to discover some of them through play.]]></entry>
+    <entry id="[ps4|psv]str_help_town_abbey_4"><![CDATA[Committing the hero to the activity will make them unavailable for the next quest.]]></entry>
+    <entry id="[ps4|psv]str_help_town_abbey_5"><![CDATA[You will need to upgrade the building to unlock additional activity slots.]]></entry>
     <entry id="[ps4|psv]str_help_town_abbey_6"><![CDATA[Select an unoccupied building slot and press {colour_start|town_activity_log_positive_result}[CROSS BUTTON]{colour_end} to eject the hero from the building activity prematurely. You will not be refunded the money spent.]]></entry>
     <entry id="[ps4]str_help_town_sanitarium_0"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[L2]{colour_end} to access upgrades for this building.]]></entry>
     <entry id="[psv]str_help_town_sanitarium_0"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[L Button]{colour_end} to access upgrades for this building.]]></entry>
     <entry id="[ps4|psv]str_help_town_sanitarium_1"><![CDATA[Treating quirks: {colour_start|town_activity_log_positive_result}[Place]{colour_end} a hero into a treatment ward slot and select a positive quirk to reinforce and/or a negative quirk to remove. Severe quirks cost more to remove.]]></entry>
-    <entry id="[ps4|psv]str_help_town_sanitarium_2"><![CDATA[治疗疾病：将英雄 {colour_start|town_activity_log_positive_result}[Place]{colour_end}到病房的空位里，选择需要进行治疗的疾病。有一定几率治疗额外的疾病。 ]]></entry>
+    <entry id="[ps4|psv]str_help_town_sanitarium_2"><![CDATA[Treating diseases: {colour_start|town_activity_log_positive_result}[Place]{colour_end} a hero into a medical ward slot and select a disease to treat. Sometimes extra diseases will also be cured.]]></entry>
     <entry id="[ps4|psv]str_help_town_sanitarium_3"><![CDATA[Committing the hero to treatment will make them unavailable for the next quest.]]></entry>
-    <entry id="[ps4|psv]str_help_town_sanitarium_4"><![CDATA[升级建筑来解锁更多治疗房间]]></entry>
+    <entry id="[ps4|psv]str_help_town_sanitarium_4"><![CDATA[You will need to upgrade the building to unlock additional treatment slots.]]></entry>
     <entry id="[ps4|psv]str_help_town_sanitarium_5"><![CDATA[Select an unoccupied building slot and press {colour_start|town_activity_log_positive_result}[CROSS BUTTON]{colour_end} to eject the hero from the building activity prematurely. You will not be refunded the money spent.]]></entry>
     <entry id="[ps4]str_help_town_nomad_wagon_0"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[L2]{colour_end} to access upgrades for this building.]]></entry>
     <entry id="[psv]str_help_town_nomad_wagon_0"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[L Button]{colour_end} to access upgrades for this building.]]></entry>
@@ -393,7 +405,7 @@ To upgrade, hold {colour_start|town_activity_log_positive_result}[L BUTTON]{colo
     <entry id="[psv]str_help_town_quest_select_4"><![CDATA[Press {colour_start|town_activity_log_positive_result}[START BUTTON]{colour_end} when ready to proceed to Provisioning.]]></entry>
     <entry id="[ps4|psv]str_help_town_provision_0"><![CDATA[{colour_start|town_activity_log_positive_result}[Select]{colour_end} items in the shop and press {colour_start|town_activity_log_positive_result}[CROSS BUTTON]{colour_end} to purchase them for the expedition.]]></entry>
     <entry id="[ps4|psv]str_help_town_provision_1"><![CDATA[At quest end, unused provisions will be discarded without repayment. Buy only as much as you need!]]></entry>
-    <entry id="[ps4|psv]str_help_town_provision_2"><![CDATA[你总会需要带一些食物和火把！每个英雄通常每餐消耗一个食物单位（进行扎营或是经历饥饿事件），在短程任务中你需要至少8个食物。]]></entry>
+    <entry id="[ps4|psv]str_help_town_provision_2"><![CDATA[You'll always want to carry some food and torches! Each hero generally eats 1 food unit per meal (Camping or Hunger event) and even on short quests you'll want at least 8 torches.]]></entry>
     <entry id="[ps4|psv]str_help_raid_room_0"><![CDATA[Use {colour_start|town_activity_log_positive_result}[RIGHT STICK]{colour_end} to choose a new room destination and enter the connecting hallway.]]></entry>
     <entry id="[ps4]str_help_raid_room_1"><![CDATA[Use {colour_start|town_activity_log_positive_result}[R1 and L1]{colour_end} to change active hero.]]></entry>
     <entry id="[psv]str_help_raid_room_1"><![CDATA[Tap {colour_start|town_activity_log_positive_result}[REAR TOUCH PAD]{colour_end} to change active hero.]]></entry>
@@ -427,91 +439,91 @@ To upgrade, hold {colour_start|town_activity_log_positive_result}[L BUTTON]{colo
     <entry id="[ps4|psv]str_help_raid_combat_3"><![CDATA[Press {colour_start|town_activity_log_positive_result}[SQUARE BUTTON]{colour_end} to see a hero's detailed character sheet.]]></entry>
     <entry id="[ps4]str_help_raid_combat_4"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[L2]{colour_end} to view current light level and hero / monster status effects.]]></entry>
     <entry id="[psv]str_help_raid_combat_4"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[L Button]{colour_end} to view gameplay effects like light level and hero status conditions.]]></entry>
-    <entry id="[ps4|psv]str_help_raid_combat_5"><![CDATA[用{colour_start|town_activity_log_positive_result}[△键]{colour_end}选取并使用解毒剂，绷带和草药来分别治疗当前英雄的腐蚀，流血或异常状态。]]></entry>
+    <entry id="[ps4|psv]str_help_raid_combat_5"><![CDATA[Select and use Anti-Venom, Bandages, or Medicinal Herbs from inventory with {colour_start|town_activity_log_positive_result}[TRIANGLE BUTTON]{colour_end} to heal BLIGHT, BLEED, or DEBUFFS on the current hero, respectively.]]></entry>
     <entry id="[ps4|psv]str_help_raid_camping_0"><![CDATA[Use {colour_start|town_activity_log_positive_result}[LEFT STICK]{colour_end} to highlight a meal option and press {colour_start|town_activity_log_positive_result}[CROSS BUTTON]{colour_end} to eat. You are limited by how much food you have in inventory.]]></entry>
     <entry id="[ps4|psv]str_help_raid_camping_1"><![CDATA[Your party has {colour_start|town_activity_log_positive_result}[12 RESPITE POINTS]{colour_end} to spend on using Camping skills.]]></entry>
     <entry id="[ps4]str_help_raid_camping_2"><![CDATA[Use {colour_start|town_activity_log_positive_result}[L1 and R1]{colour_end} to select a hero and then {colour_start|town_activity_log_positive_result}[LEFT STICK and CROSS BUTTON]{colour_end} to use a skill. Some skills require a target to be selected.]]></entry>
     <entry id="[psv]str_help_raid_camping_2"><![CDATA[Use {colour_start|town_activity_log_positive_result}[REAR TOUCH PAD]{colour_end} to select a hero and then {colour_start|town_activity_log_positive_result}[LEFT STICK and CROSS BUTTON]{colour_end} to use a skill. Some skills require a target to be selected.]]></entry>
     <entry id="[ps4|psv]str_help_raid_camping_3"><![CDATA[When done spending RESPITE POINTS, press {colour_start|town_activity_log_positive_result}[TRIANGLE BUTTON]{colour_end} to finish camping.]]></entry>
-    <entry id="[ps4]str_navigate_via_map"><![CDATA[用 [RIGHT STICK] 在地图上选一个目的地房间。]]></entry>
-    <entry id="[ps4]str_reduce_torch_tip"><![CDATA[按住 [ L2 ] 同时按下 [ 〇 键 ] 用来有意的降低火把亮度。]]></entry>
-    <entry id="[ps4]str_snuff_torch_tip"><![CDATA[按住 [ L2 ] 同时反复按下 [ 〇 键 ] 用来完全熄灭火把。]]></entry>
-    <entry id="[ps4|psv]action_select_hero"><![CDATA[在这里放置一个英雄]]></entry>
-    <entry id="[ps4|psv]corrupt_save_confirm_question"><![CDATA[你的存档已经损坏。无法载入领地进度。]]></entry>
-    <entry id="[ps4|psv]menu_options_element_tooltip_bark_dismissal"><![CDATA[请按下 [ X ] 键来忽略英雄的对话气泡。]]></entry>
-    <entry id="[ps4|psv]provision_sell_back_info"><![CDATA[选中一个物品然后按[×键]来退回。]]></entry>
+    <entry id="[ps4]str_navigate_via_map"><![CDATA[Use {colour_start|town_activity_log_positive_result}[RIGHT STICK]{colour_end} to select a destination room on the map.]]></entry>
+    <entry id="[ps4]str_reduce_torch_tip"><![CDATA[Hold [L2] and press [CIRCLE BUTTON] to reduce torchlight.]]></entry>
+    <entry id="[ps4]str_snuff_torch_tip"><![CDATA[Hold [L2] and press [CIRCLE BUTTON] repeatedly to snuff out the torch.]]></entry>
+    <entry id="[ps4|psv]action_select_hero"><![CDATA[Place a hero here.]]></entry>
+    <entry id="[ps4|psv]corrupt_save_confirm_question"><![CDATA[Your save file appears to have been corrupted. Estate cannot be loaded.]]></entry>
+    <entry id="[ps4|psv]menu_options_element_tooltip_bark_dismissal"><![CDATA[Press [CROSS BUTTON] to dismiss hero word balloons.]]></entry>
+    <entry id="[ps4|psv]provision_sell_back_info"><![CDATA[Sell back with [CROSS BUTTON]]]></entry>
     <entry id="input_command_realm_inventory_hold_to_unequip_instruction"><![CDATA[[Hold] Unequip]]></entry>
     <entry id="input_command_realm_inventory_sort_instruction"><![CDATA[Sort]]></entry>
-    <entry id="[ps4|psv]str_discard_item_instructions"><![CDATA[[ 请按住 Δ 键 ] 用来丢弃物品。]]></entry>
-    <entry id="[ps4|psv]str_hero_slot_unlocked_disease_treatment"><![CDATA[选择一个要移除的疾病，然后按[×键]来指派英雄去治疗。]]></entry>
+    <entry id="[ps4|psv]str_discard_item_instructions"><![CDATA[[Hold TRIANGLE BUTTON] to discard an item.]]></entry>
+    <entry id="[ps4|psv]str_hero_slot_unlocked_disease_treatment"><![CDATA[[CROSS BUTTON] to commit hero for treatment.]]></entry>
     <entry id="[ps4|psv]str_hero_slot_unlocked_stagecoach_tt"><![CDATA[Press {colour_start|town_activity_log_positive_result}[CROSS BUTTON]{colour_end} to recruit into roster.]]></entry>
-    <entry id="[ps4|psv]str_hero_slot_unlocked_treatment"><![CDATA[请选择一种需要移除的怪癖，并且按下 [ Δ 键 ] 来决定英雄的治疗。]]></entry>
+    <entry id="[ps4|psv]str_hero_slot_unlocked_treatment"><![CDATA[[CROSS BUTTON] to commit hero for treatment.]]></entry>
     <entry id="[ps4|psv]str_loading_screen_continue"><![CDATA[Press {colour_start|town_activity_log_positive_result}[ANY BUTTON]{colour_end} to Continue]]></entry>
-    <entry id="[ps4|psv]str_save_pre_click"><![CDATA[选择一封信开始……]]></entry>
-    <entry id="[ps4|psv]town_name_realm_inventory"><![CDATA[饰品]]></entry>
+    <entry id="[ps4|psv]str_save_pre_click"><![CDATA[Select the letter to begin...]]></entry>
+    <entry id="[ps4|psv]town_name_realm_inventory"><![CDATA[Trinkets]]></entry>
     <entry id="[psv]str_navigate_via_map"><![CDATA[Use {colour_start|town_activity_log_positive_result}[RIGHT STICK]{colour_end} to select a destination room on the map.]]></entry>
     <entry id="[psv]str_reduce_torch_tip"><![CDATA[Hold [L BUTTON] and press [CIRCLE BUTTON] to reduce torchlight.]]></entry>
     <entry id="[psv]str_snuff_torch_tip"><![CDATA[Hold [L BUTTON] and press [CIRCLE BUTTON] repeatedly to snuff out the torch.]]></entry>
-    <entry id="controller_discard_item_confirm_dialog_no"><![CDATA[不]]></entry>
-    <entry id="controller_discard_item_confirm_dialog_question"><![CDATA[丢弃这件物品么？]]></entry>
-    <entry id="controller_discard_item_confirm_dialog_yes"><![CDATA[是的]]></entry>
-    <entry id="curio_tooltip_pass_controller"><![CDATA[忽略]]></entry>
-    <entry id="dialog_confirm_store_downloaded_estate_in_unused_slot"><![CDATA[要将空白存档用已经下载的进度[%s]覆盖吗？]]></entry>
-    <entry id="dialog_confirm_store_downloaded_estate_in_unused_slot_no"><![CDATA[否]]></entry>
-    <entry id="dialog_confirm_store_downloaded_estate_in_unused_slot_yes"><![CDATA[是]]></entry>
-    <entry id="dialog_confirm_store_downloaded_estate_in_used_slot"><![CDATA[要将本地存档[%s]用已经下载的进度[%s]覆盖吗？]]></entry>
-    <entry id="dialog_confirm_store_downloaded_estate_in_used_slot_no"><![CDATA[否]]></entry>
-    <entry id="dialog_confirm_store_downloaded_estate_in_used_slot_yes"><![CDATA[是]]></entry>
-    <entry id="dialog_msg_cloud_corrupt"><![CDATA[已经下载的进度无法识别。云存储可能已经损坏。]]></entry>
-    <entry id="dialog_msg_cloud_empty"><![CDATA[云端数据不存在]]></entry>
-    <entry id="dialog_try_download_estate"><![CDATA[要尝试将云存储覆盖于此档吗？]]></entry>
-    <entry id="dialog_try_download_estate_no"><![CDATA[否]]></entry>
-    <entry id="dialog_try_download_estate_yes"><![CDATA[是]]></entry>
-    <entry id="dialog_try_upload_estate"><![CDATA[要尝试将领地进度上传云存储吗？]]></entry>
-    <entry id="dialog_try_upload_estate_no"><![CDATA[否]]></entry>
-    <entry id="dialog_try_upload_estate_yes"><![CDATA[是]]></entry>
+    <entry id="controller_discard_item_confirm_dialog_no"><![CDATA[No]]></entry>
+    <entry id="controller_discard_item_confirm_dialog_question"><![CDATA[Discard this item?]]></entry>
+    <entry id="controller_discard_item_confirm_dialog_yes"><![CDATA[Yes]]></entry>
+    <entry id="curio_tooltip_pass_controller"><![CDATA[Ignore]]></entry>
+    <entry id="dialog_confirm_store_downloaded_estate_in_unused_slot"><![CDATA[Replace empty slot with downloaded estate [%s]?]]></entry>
+    <entry id="dialog_confirm_store_downloaded_estate_in_unused_slot_no"><![CDATA[No]]></entry>
+    <entry id="dialog_confirm_store_downloaded_estate_in_unused_slot_yes"><![CDATA[Yes]]></entry>
+    <entry id="dialog_confirm_store_downloaded_estate_in_used_slot"><![CDATA[Replace local slot [%s] with downloaded estate [%s]?]]></entry>
+    <entry id="dialog_confirm_store_downloaded_estate_in_used_slot_no"><![CDATA[No]]></entry>
+    <entry id="dialog_confirm_store_downloaded_estate_in_used_slot_yes"><![CDATA[Yes]]></entry>
+    <entry id="dialog_msg_cloud_corrupt"><![CDATA[Downloaded data is not a recognizable Estate save. Cross-Save storage may be corrupt.]]></entry>
+    <entry id="dialog_msg_cloud_empty"><![CDATA[Cross-Save storage is empty.]]></entry>
+    <entry id="dialog_try_download_estate"><![CDATA[Try to download from Cross-Save to this slot?]]></entry>
+    <entry id="dialog_try_download_estate_no"><![CDATA[No]]></entry>
+    <entry id="dialog_try_download_estate_yes"><![CDATA[Yes]]></entry>
+    <entry id="dialog_try_upload_estate"><![CDATA[Try to upload this estate to Cross-Save?]]></entry>
+    <entry id="dialog_try_upload_estate_no"><![CDATA[No]]></entry>
+    <entry id="dialog_try_upload_estate_yes"><![CDATA[Yes]]></entry>
     <entry id="front_end_controls_element_begin"><![CDATA[Begin]]></entry>
-    <entry id="front_end_controls_element_cancel_name"><![CDATA[取消]]></entry>
-    <entry id="front_end_controls_element_confirm_name"><![CDATA[确认]]></entry>
-    <entry id="front_end_controls_element_delete"><![CDATA[删除领地]]></entry>
-    <entry id="front_end_controls_element_download_empty"><![CDATA[下载云存档]]></entry>
-    <entry id="front_end_controls_element_download_existing"><![CDATA[将领地进度用云存储覆盖]]></entry>
-    <entry id="front_end_controls_element_load"><![CDATA[领地进行]]></entry>
-    <entry id="front_end_controls_element_new_game"><![CDATA[新的领地]]></entry>
-    <entry id="front_end_controls_element_upload"><![CDATA[正在将进度保存至云]]></entry>
-    <entry id="input_command_dungeon_reduce_torch"><![CDATA[熄灭火炬]]></entry>
-    <entry id="input_command_dungeon_use_torch"><![CDATA[使用火炬]]></entry>
-    <entry id="input_command_town_sell_trinket"><![CDATA[出售]]></entry>
-    <entry id="map_input_preview_pan"><![CDATA[视角移动]]></entry>
-    <entry id="map_input_preview_reset"><![CDATA[重置视角]]></entry>
-    <entry id="map_input_preview_zoom_in"><![CDATA[放大]]></entry>
-    <entry id="map_input_preview_zoom_out"><![CDATA[缩小]]></entry>
-    <entry id="menu_base_element_help"><![CDATA[帮助]]></entry>
-    <entry id="menu_base_element_view_help"><![CDATA[帮助]]></entry>
-    <entry id="menu_options_element_controller_vibration"><![CDATA[手柄震动]]></entry>
-    <entry id="obstacle_tooltip_ancestor_talk_controller"><![CDATA[聆听]]></entry>
-    <entry id="obstacle_tooltip_clear_by_hand_controller"><![CDATA[用手清除]]></entry>
-    <entry id="retreat_confirm_battle_controller_no"><![CDATA[否]]></entry>
-    <entry id="retreat_confirm_battle_controller_question"><![CDATA[尝试撤退？]]></entry>
-    <entry id="retreat_confirm_battle_controller_yes"><![CDATA[是]]></entry>
-    <entry id="str_achievement_description_psplat"><![CDATA[获得所有奖杯]]></entry>
-    <entry id="str_achievement_title_psplat"><![CDATA[铁皇冠]]></entry>
-    <entry id="str_continue_raid_controller_text"><![CDATA[保留]]></entry>
-    <entry id="str_curio_tooltip_investigate_controller"><![CDATA[调查]]></entry>
-    <entry id="str_discard_item_confirm"><![CDATA[将这已佩戴的饰品丢弃？]]></entry>
-    <entry id="str_discard_item_confirm_no"><![CDATA[否]]></entry>
-    <entry id="str_discard_item_confirm_yes"><![CDATA[是]]></entry>
-    <entry id="str_overlay_loot_close_controller"><![CDATA[关闭]]></entry>
-    <entry id="str_overlay_loot_take_all_controller"><![CDATA[全部拿走]]></entry>
-    <entry id="str_return_to_controller_text"><![CDATA[哈姆雷特]]></entry>
-    <entry id="str_ui_hunger_choice_eat_controller"><![CDATA[进食]]></entry>
-    <entry id="str_ui_hunger_choice_starve_controller"><![CDATA[挨饿]]></entry>
-    <entry id="str_unequip_all_trinkets_description"><![CDATA[确认卸下英雄身上的所有装备吗？]]></entry>
-    <entry id="str_unequip_all_trinkets_no"><![CDATA[取消]]></entry>
-    <entry id="str_unequip_all_trinkets_yes"><![CDATA[确认]]></entry>
-    <entry id="try_download_waiting_msg"><![CDATA[正在访问云存储……]]></entry>
-    <entry id="try_upload_success_msg"><![CDATA[存档进度成功上传至云存储。]]></entry>
-    <entry id="try_upload_waiting_msg"><![CDATA[正在访问云存储……]]></entry>
+    <entry id="front_end_controls_element_cancel_name"><![CDATA[Cancel]]></entry>
+    <entry id="front_end_controls_element_confirm_name"><![CDATA[Confirm]]></entry>
+    <entry id="front_end_controls_element_delete"><![CDATA[Delete Estate]]></entry>
+    <entry id="front_end_controls_element_download_empty"><![CDATA[Download Cross-Save]]></entry>
+    <entry id="front_end_controls_element_download_existing"><![CDATA[Replace Estate with Cross-Save]]></entry>
+    <entry id="front_end_controls_element_load"><![CDATA[Continue Estate]]></entry>
+    <entry id="front_end_controls_element_new_game"><![CDATA[New Estate]]></entry>
+    <entry id="front_end_controls_element_upload"><![CDATA[Upload Estate to Cross-Save]]></entry>
+    <entry id="input_command_dungeon_reduce_torch"><![CDATA[Snuff Torch]]></entry>
+    <entry id="input_command_dungeon_use_torch"><![CDATA[Use Torch]]></entry>
+    <entry id="input_command_town_sell_trinket"><![CDATA[Sell]]></entry>
+    <entry id="map_input_preview_pan"><![CDATA[Pan]]></entry>
+    <entry id="map_input_preview_reset"><![CDATA[Reset View]]></entry>
+    <entry id="map_input_preview_zoom_in"><![CDATA[Zoom In]]></entry>
+    <entry id="map_input_preview_zoom_out"><![CDATA[Zoom Out]]></entry>
+    <entry id="menu_base_element_help"><![CDATA[Help]]></entry>
+    <entry id="menu_base_element_view_help"><![CDATA[Help]]></entry>
+    <entry id="menu_options_element_controller_vibration"><![CDATA[Vibration]]></entry>
+    <entry id="obstacle_tooltip_ancestor_talk_controller"><![CDATA[Speak]]></entry>
+    <entry id="obstacle_tooltip_clear_by_hand_controller"><![CDATA[Clear]]></entry>
+    <entry id="retreat_confirm_battle_controller_no"><![CDATA[No]]></entry>
+    <entry id="retreat_confirm_battle_controller_question"><![CDATA[Attempt to retreat?]]></entry>
+    <entry id="retreat_confirm_battle_controller_yes"><![CDATA[Yes]]></entry>
+    <entry id="str_achievement_description_psplat"><![CDATA[Collect all trophies]]></entry>
+    <entry id="str_achievement_title_psplat"><![CDATA[The Iron Crown]]></entry>
+    <entry id="str_continue_raid_controller_text"><![CDATA[Remain]]></entry>
+    <entry id="str_curio_tooltip_investigate_controller"><![CDATA[Investigate]]></entry>
+    <entry id="str_discard_item_confirm"><![CDATA[Discard this equipped trinket?]]></entry>
+    <entry id="str_discard_item_confirm_no"><![CDATA[No]]></entry>
+    <entry id="str_discard_item_confirm_yes"><![CDATA[Yes]]></entry>
+    <entry id="str_overlay_loot_close_controller"><![CDATA[Close]]></entry>
+    <entry id="str_overlay_loot_take_all_controller"><![CDATA[Take]]></entry>
+    <entry id="str_return_to_controller_text"><![CDATA[Hamlet]]></entry>
+    <entry id="str_ui_hunger_choice_eat_controller"><![CDATA[Eat]]></entry>
+    <entry id="str_ui_hunger_choice_starve_controller"><![CDATA[Starve]]></entry>
+    <entry id="str_unequip_all_trinkets_description"><![CDATA[Unequip all trinkets on heroes?]]></entry>
+    <entry id="str_unequip_all_trinkets_no"><![CDATA[No]]></entry>
+    <entry id="str_unequip_all_trinkets_yes"><![CDATA[Yes]]></entry>
+    <entry id="try_download_waiting_msg"><![CDATA[Accessing Cross-Save...]]></entry>
+    <entry id="try_upload_success_msg"><![CDATA[Estate successfully uploaded to Cross-Save.]]></entry>
+    <entry id="try_upload_waiting_msg"><![CDATA[Accessing Cross-Save...]]></entry>
     <entry id="input_command_realm_inventory_sell_instruction"><![CDATA[Sell]]></entry>
     <entry id="str_darkest_dungeon_trophies"><![CDATA[Darkest Dungeon Trophies]]></entry>
     <entry id="str_darkest_dungeon_trophy_data"><![CDATA[Trophy Data for Darkest Dungeon]]></entry>
@@ -527,16 +539,16 @@ To upgrade, hold {colour_start|town_activity_log_positive_result}[L BUTTON]{colo
     <entry id="[psv]str_weald_tip"><![CDATA[Hold {colour_start|notable}[L BUTTON]{colour_end} to see details about torchlight, combat status, inventory items, and more!]]></entry>
     <entry id="[psv]str_warrens_tip"><![CDATA[Hold {colour_start|notable}[L BUTTON]{colour_end} to see details about torchlight, combat status, inventory items, and more!]]></entry>
     <entry id="[psv]str_cove_tip"><![CDATA[Hold {colour_start|notable}[L BUTTON]{colour_end} to see details about torchlight, combat status, inventory items, and more!]]></entry>
-    <entry id="[psv]str_town_tip"><![CDATA[Hold {colour_start|notable}[L BUTTON]{colour_end} to see details about torchlight, combat status, inventory items, and more!]]></entry>
-    <entry id="[psv]str_crypts_tip"><![CDATA[Hold {colour_start|notable}[L BUTTON]{colour_end} to see details about torchlight, combat status, inventory items, and more!]]></entry>
-    <entry id="[psv]str_weald_tip"><![CDATA[Hold {colour_start|notable}[L BUTTON]{colour_end} to see details about torchlight, combat status, inventory items, and more!]]></entry>
-    <entry id="[psv]str_warrens_tip"><![CDATA[Hold {colour_start|notable}[L BUTTON]{colour_end} to see details about torchlight, combat status, inventory items, and more!]]></entry>
-    <entry id="[psv]str_cove_tip"><![CDATA[Hold {colour_start|notable}[L BUTTON]{colour_end} to see details about torchlight, combat status, inventory items, and more!]]></entry>
-    <entry id="[ps4]str_town_tip"><![CDATA[Hold {colour_start|notable}[L2]{colour_end} to see details about torchlight, combat status, inventory items, and more!]]></entry>
-    <entry id="[ps4]str_crypts_tip"><![CDATA[Hold {colour_start|notable}[L2]{colour_end} to see details about torchlight, combat status, inventory items, and more!]]></entry>
-    <entry id="[ps4]str_weald_tip"><![CDATA[Hold {colour_start|notable}[L2]{colour_end} to see details about torchlight, combat status, inventory items, and more!]]></entry>
-    <entry id="[ps4]str_warrens_tip"><![CDATA[Hold {colour_start|notable}[L2]{colour_end} to see details about torchlight, combat status, inventory items, and more!]]></entry>
-    <entry id="[ps4]str_cove_tip"><![CDATA[Hold {colour_start|notable}[L2]{colour_end} to see details about torchlight, combat status, inventory items, and more!]]></entry>
+    <entry id="[psv]str_town_tip"><![CDATA[Always return to the Main Menu before quitting Darkest Dungeon, to ensure your progress is saved.]]></entry>
+    <entry id="[psv]str_crypts_tip"><![CDATA[Always return to the Main Menu before quitting Darkest Dungeon, to ensure your progress is saved.]]></entry>
+    <entry id="[psv]str_weald_tip"><![CDATA[Always return to the Main Menu before quitting Darkest Dungeon, to ensure your progress is saved.]]></entry>
+    <entry id="[psv]str_warrens_tip"><![CDATA[Always return to the Main Menu before quitting Darkest Dungeon, to ensure your progress is saved.]]></entry>
+    <entry id="[psv]str_cove_tip"><![CDATA[Always return to the Main Menu before quitting Darkest Dungeon, to ensure your progress is saved.]]></entry>
+    <entry id="[ps4]str_town_tip"><![CDATA[Press {colour_start|notable}[TOUCH PAD LEFT]{colour_end} on any screen to get context-sensitive HELP!]]></entry>
+    <entry id="[ps4]str_crypts_tip"><![CDATA[Press {colour_start|notable}[TOUCH PAD LEFT]{colour_end} on any screen to get context-sensitive HELP!]]></entry>
+    <entry id="[ps4]str_weald_tip"><![CDATA[Press {colour_start|notable}[TOUCH PAD LEFT]{colour_end} on any screen to get context-sensitive HELP!]]></entry>
+    <entry id="[ps4]str_warrens_tip"><![CDATA[Press {colour_start|notable}[TOUCH PAD LEFT]{colour_end} on any screen to get context-sensitive HELP!]]></entry>
+    <entry id="[ps4]str_cove_tip"><![CDATA[Press {colour_start|notable}[TOUCH PAD LEFT]{colour_end} on any screen to get context-sensitive HELP!]]></entry>
     <entry id="[ps4|psv]str_town_tip"><![CDATA[Did you know there is a Glossary in the {colour_start|notable}Options Menu{colour_end}?]]></entry>
     <entry id="[ps4|psv]str_crypts_tip"><![CDATA[Did you know there is a Glossary in the {colour_start|notable}Options Menu{colour_end}?]]></entry>
     <entry id="[ps4|psv]str_weald_tip"><![CDATA[Did you know there is a Glossary in the {colour_start|notable}Options Menu{colour_end}?]]></entry>
@@ -617,6 +629,637 @@ Monsters killed with bleed, blight, or crits leave no corpses at all!]]></entry>
     <entry id="options_category_controls"><![CDATA[Control Options]]></entry>
     <entry id="menu_options_element_rear_touchpad_enabled"><![CDATA[Rear Touch Pad Enabled]]></entry>
     <entry id="menu_options_element_tooltip_rear_touchpad_enabled"><![CDATA[Turning this off disables rear touch pad inputs and uses the front touchscreen instead for the same things. Do this if you find yourself accidentally tapping the rear touch pad.]]></entry>
-    <entry id="[ps4|psv]provision_sell_back_info"><![CDATA[选中一个物品然后按[×键]来退回。]]></entry>
+    <entry id="[ps4|psv]provision_sell_back_info"><![CDATA[Sell back with [CROSS BUTTON]]]></entry>
+  </language>
+  <language id="schinese">
+    <entry id="str_controls_room_context"><![CDATA[房间]]></entry>
+    <entry id="str_controls_hallway_context"><![CDATA[通道]]></entry>
+    <entry id="str_controls_combat_context"><![CDATA[战斗]]></entry>
+    <entry id="str_controls_camping_context"><![CDATA[扎营]]></entry>
+    <entry id="str_controls_town_context"><![CDATA[哈姆雷特镇]]></entry>
+    <entry id="str_controls_hero_activity_context"><![CDATA[酒馆、教堂、疗养院]]></entry>
+    <entry id="str_controls_hero_action_context"><![CDATA[铁匠铺、公会]]></entry>
+    <entry id="str_controls_stage_coach_context"><![CDATA[驿站马车]]></entry>
+    <entry id="str_controls_nomad_wagon_context"><![CDATA[游牧马车]]></entry>
+    <entry id="str_controls_quest_select_context"><![CDATA[任务选择]]></entry>
+    <entry id="str_controls_provision_context"><![CDATA[补给品]]></entry>
+    <entry id="str_controls_inventory_context"><![CDATA[物品栏]]></entry>
+    <entry id="str_controls_panel_title"><![CDATA[控制]]></entry>
+    <entry id="str_controls_panel_prev"><![CDATA[上一项内容]]></entry>
+    <entry id="str_controls_panel_next"><![CDATA[下一项内容]]></entry>
+    <entry id="str_controls_town_stage_coach_context"><![CDATA[驿站马车]]></entry>
+    <entry id="str_controls_town_blacksmith_context"><![CDATA[铁匠铺]]></entry>
+    <entry id="str_controls_town_guild_context"><![CDATA[公会]]></entry>
+    <entry id="str_controls_town_camping_trainer_context"><![CDATA[扎营训练师]]></entry>
+    <entry id="str_controls_town_tavern_context"><![CDATA[酒馆]]></entry>
+    <entry id="str_controls_town_abbey_context"><![CDATA[教堂]]></entry>
+    <entry id="str_controls_town_sanitarium_context"><![CDATA[疗养院]]></entry>
+    <entry id="str_controls_town_nomad_wagon_context"><![CDATA[游牧马车]]></entry>
+    <entry id="str_controls_town_quest_select_context"><![CDATA[任务选择]]></entry>
+    <entry id="str_controls_raid_room_context"><![CDATA[房间]]></entry>
+    <entry id="str_controls_raid_hallway_context"><![CDATA[通道]]></entry>
+    <entry id="str_controls_raid_combat_context"><![CDATA[战斗]]></entry>
+    <entry id="str_controls_raid_camping_context"><![CDATA[扎营]]></entry>
+    <entry id="hallway_start1"><![CDATA[菜单]]></entry>
+    <entry id="[psv]hallway_start2"><![CDATA[放弃任务]]></entry>
+    <entry id="hallway_dpad_u"><![CDATA[物品栏/地图]]></entry>
+    <entry id="hallway_dpad_d"><![CDATA[库存/地图]]></entry>
+    <entry id="hallway_dpad_l_alternate_dpad_left_right"><![CDATA[上一位英雄]]></entry>
+    <entry id="hallway_dpad_r_alternate_dpad_left_right"><![CDATA[下一位英雄]]></entry>
+    <entry id="hallway_primary1"><![CDATA[互动/移动英雄]]></entry>
+    <entry id="hallway_secondary1"><![CDATA[英雄详情]]></entry>
+    <entry id="hallway_analog_stick_l"><![CDATA[移动队伍/选中目标]]></entry>
+    <entry id="hallway_shoulder_l"><![CDATA[（L1）上一位英雄]]></entry>
+    <entry id="hallway_shoulder_r"><![CDATA[（R1）下一位英雄]]></entry>
+    <entry id="hallway_trigger_l"><![CDATA[（按住L2）状态信息]]></entry>
+    <entry id="hallway_trigger_r"><![CDATA[（按住R2）地图控制]]></entry>
+    <entry id="[psv]hallway_shoulder_l"><![CDATA[（背面左触摸面板）
+上一位英雄]]></entry>
+    <entry id="[psv]hallway_shoulder_r"><![CDATA[（背面右触摸面板）
+下一位英雄]]></entry>
+    <entry id="[psv]hallway_shoulder_l_rear_touchpad_enabled"><![CDATA[（背面左触摸面板）
+通过选项禁用]]></entry>
+    <entry id="[psv]hallway_shoulder_r_rear_touchpad_enabled"><![CDATA[（背面右触摸面板）
+通过选项禁用]]></entry>
+    <entry id="[psv]hallway_trigger_l"><![CDATA[（按住）状态信息]]></entry>
+    <entry id="[psv]hallway_trigger_r"><![CDATA[（按住）地图控制]]></entry>
+    <entry id="hallway_tpad_l"><![CDATA[帮助]]></entry>
+    <entry id="hallway_tpad_r"><![CDATA[放弃任务]]></entry>
+    <entry id="[psv]hallway_touch_screen_l_rear_touchpad_enabled"><![CDATA[（左触摸面板）
+上一位英雄]]></entry>
+    <entry id="[psv]hallway_touch_screen_r_rear_touchpad_enabled"><![CDATA[（右触摸面板）
+下一位英雄]]></entry>
+    <entry id="room_start1"><![CDATA[菜单]]></entry>
+    <entry id="[psv]room_start2"><![CDATA[放弃任务]]></entry>
+    <entry id="room_dpad_u"><![CDATA[库存/地图]]></entry>
+    <entry id="room_dpad_d"><![CDATA[库存/地图]]></entry>
+    <entry id="room_dpad_l_alternate_dpad_left_right"><![CDATA[上一位英雄]]></entry>
+    <entry id="room_dpad_r_alternate_dpad_left_right"><![CDATA[下一位英雄]]></entry>
+    <entry id="room_primary1"><![CDATA[互动/移动英雄]]></entry>
+    <entry id="room_secondary1"><![CDATA[英雄详情]]></entry>
+    <entry id="room_analog_stick_l"><![CDATA[移动队伍/选中目标]]></entry>
+    <entry id="room_analog_stick_r"><![CDATA[选择下一个房间]]></entry>
+    <entry id="room_shoulder_l"><![CDATA[（L1）上一位英雄]]></entry>
+    <entry id="room_shoulder_r"><![CDATA[（R1）下一位英雄]]></entry>
+    <entry id="room_trigger_l"><![CDATA[（按住L2）状态信息]]></entry>
+    <entry id="room_trigger_r"><![CDATA[（按住R2）地图控制]]></entry>
+    <entry id="[psv]room_shoulder_l"><![CDATA[（背面左触摸板）
+上一位英雄]]></entry>
+    <entry id="[psv]room_shoulder_r"><![CDATA[（背面右触摸板）
+下一位英雄]]></entry>
+    <entry id="[psv]room_shoulder_l_rear_touchpad_enabled"><![CDATA[（背面左触摸板）
+通过选项禁用]]></entry>
+    <entry id="[psv]room_shoulder_r_rear_touchpad_enabled"><![CDATA[（背面右触摸板）
+通过选项禁用]]></entry>
+    <entry id="[psv]room_trigger_l"><![CDATA[（按住）状态信息]]></entry>
+    <entry id="[psv]room_trigger_r"><![CDATA[（按住）地图控制]]></entry>
+    <entry id="room_tpad_l"><![CDATA[帮助]]></entry>
+    <entry id="room_tpad_r"><![CDATA[放弃任务]]></entry>
+    <entry id="[psv]room_touch_screen_l_rear_touchpad_enabled"><![CDATA[（左触屏）
+上一位英雄]]></entry>
+    <entry id="[psv]room_touch_screen_r_rear_touchpad_enabled"><![CDATA[（右触屏）
+下一位英雄]]></entry>
+    <entry id="combat_start1"><![CDATA[菜单]]></entry>
+    <entry id="[psv]combat_start2"><![CDATA[撤退]]></entry>
+    <entry id="combat_dpad_u"><![CDATA[库存/地图]]></entry>
+    <entry id="combat_dpad_d"><![CDATA[库存/地图]]></entry>
+    <entry id="combat_primary2"><![CDATA[取消/关闭]]></entry>
+    <entry id="combat_primary1"><![CDATA[选择/使用]]></entry>
+    <entry id="combat_secondary1"><![CDATA[英雄详情]]></entry>
+    <entry id="combat_analog_stick_l"><![CDATA[技能/目标选择]]></entry>
+    <entry id="combat_trigger_l"><![CDATA[（按住L2）状态信息]]></entry>
+    <entry id="combat_trigger_r"><![CDATA[（按住R2）地图控制]]></entry>
+    <entry id="[psv]combat_trigger_l"><![CDATA[（按住）状态信息]]></entry>
+    <entry id="[psv]combat_trigger_r"><![CDATA[（按住）地图控制]]></entry>
+    <entry id="combat_tpad_l"><![CDATA[帮助]]></entry>
+    <entry id="combat_tpad_r"><![CDATA[撤退]]></entry>
+    <entry id="camping_start1"><![CDATA[菜单]]></entry>
+    <entry id="camping_dpad_u"><![CDATA[库存/地图]]></entry>
+    <entry id="camping_dpad_d"><![CDATA[库存/地图]]></entry>
+    <entry id="camping_dpad_l_alternate_dpad_left_right"><![CDATA[上一位英雄]]></entry>
+    <entry id="camping_dpad_r_alternate_dpad_left_right"><![CDATA[下一位英雄]]></entry>
+    <entry id="camping_primary2"><![CDATA[取消/关闭]]></entry>
+    <entry id="camping_primary1"><![CDATA[选择/使用]]></entry>
+    <entry id="camping_secondary1"><![CDATA[英雄详情]]></entry>
+    <entry id="camping_analog_stick_l"><![CDATA[技能/目标选择]]></entry>
+    <entry id="camping_shoulder_l"><![CDATA[（L1）上一位英雄]]></entry>
+    <entry id="camping_shoulder_r"><![CDATA[（R1）下一位英雄]]></entry>
+    <entry id="camping_trigger_l"><![CDATA[（按住L2）状态信息]]></entry>
+    <entry id="camping_trigger_r"><![CDATA[（按住R2）地图控制]]></entry>
+    <entry id="[psv]camping_shoulder_l"><![CDATA[（背面左触摸板）
+上一位英雄]]></entry>
+    <entry id="[psv]camping_shoulder_r"><![CDATA[（背面右触摸板）
+下一位英雄]]></entry>
+    <entry id="[psv]camping_shoulder_l_rear_touchpad_enabled"><![CDATA[（背面左触摸板）
+通过选项禁用]]></entry>
+    <entry id="[psv]camping_shoulder_r_rear_touchpad_enabled"><![CDATA[（背面右触摸板）
+通过选项禁用]]></entry>
+    <entry id="[psv]camping_trigger_l"><![CDATA[（按住）状态信息]]></entry>
+    <entry id="[psv]camping_trigger_r"><![CDATA[（按住）地图控制]]></entry>
+    <entry id="camping_tpad_l"><![CDATA[帮助]]></entry>
+    <entry id="[psv]camping_touch_screen_l_rear_touchpad_enabled"><![CDATA[（左触屏）
+上一位英雄]]></entry>
+    <entry id="[psv]camping_touch_screen_r_rear_touchpad_enabled"><![CDATA[（右触屏）
+下一位英雄]]></entry>
+    <entry id="town_start1"><![CDATA[菜单]]></entry>
+    <entry id="[psv]town_start2"><![CDATA[启程]]></entry>
+    <entry id="town_secondary2"><![CDATA[饰品栏]]></entry>
+    <entry id="town_primary2"><![CDATA[取消/返回]]></entry>
+    <entry id="town_primary1"><![CDATA[进入建筑]]></entry>
+    <entry id="town_secondary1"><![CDATA[区域]]></entry>
+    <entry id="town_analog_stick_l"><![CDATA[定位建筑]]></entry>
+    <entry id="town_shoulder_l"><![CDATA[（L1）城镇事件]]></entry>
+    <entry id="town_shoulder_r"><![CDATA[（R1）活动日志]]></entry>
+    <entry id="[psv]town_shoulder_l_rear_touchpad_enabled"><![CDATA[（背面左触摸板）
+通过选项禁用]]></entry>
+    <entry id="[psv]town_shoulder_r_rear_touchpad_enabled"><![CDATA[（背面右触摸板）
+通过选项禁用]]></entry>
+    <entry id="town_trigger_r"><![CDATA[（按住R2）名册聚焦]]></entry>
+    <entry id="[psv]town_shoulder_l"><![CDATA[（背面左触摸面板）
+城镇事件]]></entry>
+    <entry id="[psv]town_shoulder_r"><![CDATA[（背面右触摸面板）
+活动日志]]></entry>
+    <entry id="[psv]town_trigger_r"><![CDATA[（按住）名册聚焦]]></entry>
+    <entry id="town_stick_l"><![CDATA[[点击]祖产交换]]></entry>
+    <entry id="town_tpad_l"><![CDATA[帮助]]></entry>
+    <entry id="town_tpad_r"><![CDATA[启程]]></entry>
+    <entry id="[psv]town_touch_screen_l_rear_touchpad_enabled"><![CDATA[（左触摸面板）
+城镇事件]]></entry>
+    <entry id="[psv]town_touch_screen_r_rear_touchpad_enabled"><![CDATA[（右触摸面板）
+活动日志]]></entry>
+    <entry id="hero_activity_start1"><![CDATA[菜单]]></entry>
+    <entry id="hero_activity_primary2"><![CDATA[取消/后退]]></entry>
+    <entry id="hero_activity_primary1"><![CDATA[放置英雄/确认治疗]]></entry>
+    <entry id="hero_activity_analog_stick_l"><![CDATA[显示栏位/英雄]]></entry>
+    <entry id="hero_activity_trigger_l"><![CDATA[（按住L2）建筑升级]]></entry>
+    <entry id="hero_activity_trigger_r"><![CDATA[（按住R2）名册聚焦]]></entry>
+    <entry id="[psv]hero_activity_trigger_l"><![CDATA[（按住）建筑升级]]></entry>
+    <entry id="[psv]hero_activity_trigger_r"><![CDATA[（按住）名册聚焦]]></entry>
+    <entry id="hero_activity_tpad_l"><![CDATA[帮助]]></entry>
+    <entry id="hero_action_start1"><![CDATA[菜单]]></entry>
+    <entry id="hero_action_primary2"><![CDATA[取消/后退]]></entry>
+    <entry id="hero_action_primary1"><![CDATA[购买升级]]></entry>
+    <entry id="hero_action_analog_stick_l"><![CDATA[显示英雄]]></entry>
+    <entry id="hero_action_shoulder_l"><![CDATA[上一位英雄]]></entry>
+    <entry id="hero_action_shoulder_r"><![CDATA[下一位英雄]]></entry>
+    <entry id="hero_action_trigger_l"><![CDATA[（按住L2）建筑升级]]></entry>
+    <entry id="hero_action_trigger_r"><![CDATA[（按住R2）名册聚焦]]></entry>
+    <entry id="[psv]hero_action_shoulder_l"><![CDATA[（背面左触摸板）
+上一位英雄]]></entry>
+    <entry id="[psv]hero_action_shoulder_r"><![CDATA[（背面右触摸板）
+下一位英雄]]></entry>
+    <entry id="[psv]hero_action_shoulder_l_rear_touchpad_enabled"><![CDATA[（背面左触摸板）
+通过选项禁用]]></entry>
+    <entry id="[psv]hero_action_shoulder_r_rear_touchpad_enabled"><![CDATA[（背面右触摸板）
+通过选项禁用]]></entry>
+    <entry id="[psv]hero_action_trigger_l"><![CDATA[（按住）建筑升级]]></entry>
+    <entry id="[psv]hero_action_trigger_r"><![CDATA[（按住）名册聚焦]]></entry>
+    <entry id="hero_action_tpad_l"><![CDATA[帮助]]></entry>
+    <entry id="[psv]hero_action_touch_screen_l_rear_touchpad_enabled"><![CDATA[（左触摸面板）
+上一位英雄]]></entry>
+    <entry id="[psv]hero_action_touch_screen_r_rear_touchpad_enabled"><![CDATA[（右触摸面板）
+下一位英雄]]></entry>
+    <entry id="nomad_wagon_start1"><![CDATA[菜单]]></entry>
+    <entry id="nomad_wagon_primary2"><![CDATA[取消/后退]]></entry>
+    <entry id="nomad_wagon_primary1"><![CDATA[购买饰品]]></entry>
+    <entry id="nomad_wagon_analog_stick_l"><![CDATA[定位饰品]]></entry>
+    <entry id="nomad_wagon_trigger_l"><![CDATA[（按住L2）建筑升级]]></entry>
+    <entry id="nomad_wagon_trigger_r"><![CDATA[（按住R2）名册聚焦]]></entry>
+    <entry id="[psv]nomad_wagon_trigger_l"><![CDATA[（按住）建筑升级]]></entry>
+    <entry id="[psv]nomad_wagon_trigger_r"><![CDATA[（按住）名册聚焦]]></entry>
+    <entry id="nomad_wagon_tpad_l"><![CDATA[帮助]]></entry>
+    <entry id="stage_coach_start1"><![CDATA[菜单]]></entry>
+    <entry id="stage_coach_primary2"><![CDATA[取消/后退]]></entry>
+    <entry id="stage_coach_primary1"><![CDATA[雇佣新兵/加入名册]]></entry>
+    <entry id="stage_coach_secondary1"><![CDATA[英雄详情]]></entry>
+    <entry id="stage_coach_analog_stick_l"><![CDATA[显示新兵]]></entry>
+    <entry id="stage_coach_trigger_l"><![CDATA[（按住L2）建筑升级]]></entry>
+    <entry id="stage_coach_trigger_r"><![CDATA[（按住R2）名册聚焦]]></entry>
+    <entry id="[psv]stage_coach_trigger_l"><![CDATA[（按住）建筑升级]]></entry>
+    <entry id="[psv]stage_coach_trigger_r"><![CDATA[（按住）名册聚焦]]></entry>
+    <entry id="stage_coach_tpad_l"><![CDATA[帮助]]></entry>
+    <entry id="quest_select_start1"><![CDATA[菜单]]></entry>
+    <entry id="[psv]quest_select_start2"><![CDATA[启程]]></entry>
+    <entry id="quest_select_primary2"><![CDATA[取消/后退]]></entry>
+    <entry id="quest_select_primary1"><![CDATA[放置/移除队伍中的英雄]]></entry>
+    <entry id="quest_select_analog_stick_l"><![CDATA[选择任务]]></entry>
+    <entry id="quest_select_trigger_r"><![CDATA[（按住R2）名册聚焦]]></entry>
+    <entry id="[psv]quest_select_trigger_r"><![CDATA[（按住）名册聚焦]]></entry>
+    <entry id="quest_select_tpad_l"><![CDATA[帮助]]></entry>
+    <entry id="quest_select_tpad_r"><![CDATA[启程]]></entry>
+    <entry id="provision_start1"><![CDATA[菜单]]></entry>
+    <entry id="[psv]provision_start2"><![CDATA[启程]]></entry>
+    <entry id="provision_primary2"><![CDATA[取消/后退]]></entry>
+    <entry id="provision_primary1"><![CDATA[购买/出售物资]]></entry>
+    <entry id="provision_analog_stick_l"><![CDATA[选择物资]]></entry>
+    <entry id="provision_trigger_r"><![CDATA[（按住R2）名册聚焦]]></entry>
+    <entry id="[psv]provision_trigger_r"><![CDATA[（按住）名册聚焦]]></entry>
+    <entry id="provision_tpad_l"><![CDATA[帮助]]></entry>
+    <entry id="provision_tpad_r"><![CDATA[启程]]></entry>
+    <entry id="inventory_secondary2"><![CDATA[使用/（按住）丢弃]]></entry>
+    <entry id="inventory_primary1"><![CDATA[移动或装备物品]]></entry>
+    <entry id="inventory_analog_stick_l"><![CDATA[选择物品]]></entry>
+    <entry id="inventory_trigger_l"><![CDATA[（按住L2）物品详情]]></entry>
+    <entry id="[psv]inventory_trigger_l"><![CDATA[（按住）物品详情]]></entry>
+    <entry id="tutorial_popup_embark_title"><![CDATA[启程！]]></entry>
+    <entry id="tutorial_popup_embark_description"><![CDATA[镇上的事情已经安排妥当，是时候着手开始一项任务了！
+
+点击屏幕底部的{colour_start|notable}[启程]{colour_end}按钮！]]></entry>
+    <entry id="[ps4]tutorial_popup_embark_description"><![CDATA[镇上的事情已经安排妥当，是时候着手开始一项任务了！
+
+按下 {colour_start|notable}[右触摸面板]{colour_end}启程！]]></entry>
+    <entry id="[psv]tutorial_popup_embark_description"><![CDATA[镇上的事情已经安排妥当，是时候着手开始一项任务了！
+
+按下{colour_start|notable}[开始]{colour_end}！]]></entry>
+    <entry id="tutorial_popup_loot_title"><![CDATA[战利品！]]></entry>
+    <entry id="tutorial_popup_loot_description"><![CDATA[你携带的每件物品都将占用物品栏的空间。
+
+{colour_start|notable}按住{colour_end}物品可以查看细节属性。该操作在物品栏中同样有效！
+
+按{colour_start|town_activity_log_positive_result}[圆圈键]{colour_end}可关闭此窗口。）]]></entry>
+    <entry id="[ps4]tutorial_popup_loot_description"><![CDATA[你携带的每件物品都将占用物品栏的空间。
+
+按住{colour_start|notable}[L2]并使用[左操作杆]{colour_end}可以查看细节属性。该操作在物品栏中同样有效！
+
+（按{colour_start|town_activity_log_positive_result}[圆圈键]{colour_end}可关闭此窗口。）]]></entry>
+    <entry id="[psv]tutorial_popup_loot_description"><![CDATA[你携带的每件物品都将占用物品栏的空间。
+
+按住{colour_start|notable}[L键]并使用[左操作杆]{colour_end}可以查看细节属性。该操作在物品栏中同样有效！
+
+（按{colour_start|town_activity_log_positive_result}[圆圈键]{colour_end}可关闭此窗口。）]]></entry>
+    <entry id="[ps4]tutorial_popup_supplies_description"><![CDATA[根据{colour_start|notable}前往的地区{colour_end}、{colour_start|notable}任务持续时间{colour_end}以及你自己的喜好，你需要携带{colour_start|notable}不同的补给品{colour_end}。不过，{colour_start|notable}食物{colour_end}和{colour_start|notable}火把{colour_end}总是必不可少的。
+
+对于你的第一个小任务，请尝试带上最少8份食物和4个火把。
+
+按住{colour_start|notable}[L2]{colour_end}可以查看物品的详细信息。该操作在物品栏和战利品窗口中同样有效！]]></entry>
+    <entry id="[psv]tutorial_popup_supplies_description"><![CDATA[根据{colour_start|notable}前往的地区{colour_end}、{colour_start|notable}任务持续时间{colour_end}以及你自己的喜好，你需要携带{colour_start|notable}不同的补给品{colour_end}。
+
+对于你的第一个小任务，请尝试带上最少8份食物和4个火把。
+
+按住{colour_start|notable}[L键]{colour_end}可以查看物品的详细信息。该操作在物品栏和战利品窗口中同样有效！]]></entry>
+    <entry id="tutorial_popup_quest_select_title"><![CDATA[任务和队伍]]></entry>
+    <entry id="tutorial_popup_quest_select_description"><![CDATA[这是你选择任务和和组织4名英雄组成探险队以启程的地方。
+
+{colour_start|notable}[点击]{colour_end}任务以检视任务细节。
+
+{colour_start|notable}[拖动]{colour_end}英雄于屏幕底部的槽位以组成你的队伍并确认默认的队序。]]></entry>
+    <entry id="[ps4]tutorial_popup_quest_select_description"><![CDATA[这是你选择任务和和组织四名英雄组成探险队以启程的地方。
+
+{colour_start|notable}{colour_start|notable}[左操作杆]{colour_end}[选择]{colour_end}任务以检视任务细节。
+
+按住{colour_start|notable}[R2]{colour_end}并使用{colour_start|notable}[十字键]{colour_end}可放置英雄于屏幕底部的栏位，组成你的队伍。]]></entry>
+    <entry id="[psv]tutorial_popup_quest_select_description"><![CDATA[这是你选择任务和和组织四名英雄组成探险队以启程的地方。
+
+使用{colour_start|notable}[左操作杆]{colour_end}选择任务以查看任务细节。
+
+按住{colour_start|notable}[R]{colour_end}并使用{colour_start|notable}[十字键]{colour_end}可将英雄放置于屏幕底部的栏位中，组成你的队伍。]]></entry>
+    <entry id="tutorial_popup_stage_coach_description"><![CDATA[你需要{colour_start|notable}招募所有的英雄{colour_end}才能组成4人队伍。
+
+将他们{colour_start|town_activity_log_positive_result}[拖动至]{colour_end}你的名册中。]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_stage_coach_description"><![CDATA[你需要{colour_start|notable}招募所有的英雄{colour_end}才能组成4人队伍。
+
+使用{colour_start|notable}[左操作杆]加[十字键]{colour_end}选择每名英雄，然后再次使用{colour_start|notable}[左操作杆]加[十字键]{colour_end}将他们放入你右侧的活动名册中。]]></entry>
+    <entry id="tutorial_popup_stage_coach2_title"><![CDATA[升级驿站马车网络]]></entry>
+    <entry id="tutorial_popup_stage_coach2_description"><![CDATA[当你在这里时，你可以花费你初始带来的祖产于{colour_start|notable}驿站马车网络的升级上{colour_end}。这将提升未来的可用英雄数量。
+
+要升级的话，点击左侧的{colour_start|town_activity_log_positive_result}[+]{colour_end}，然后点击升级选项。]]></entry>
+    <entry id="[ps4]tutorial_popup_stage_coach2_description"><![CDATA[当你在这里时，你可以将初始带来的祖产花费于{colour_start|notable}驿站马车网络的升级上{colour_end}。这将提升未来的可用英雄数量。
+
+要升级的话，按住{colour_start|town_activity_log_positive_result}[L2]{colour_end}访问升级菜单，使用{colour_start|notable}[左操作杆]加[X键]{colour_end}购买升级。]]></entry>
+    <entry id="[psv]tutorial_popup_stage_coach2_description"><![CDATA[当你在这里时，你可以将初始带来的祖产花费于{colour_start|notable}驿站马车网络的升级上{colour_end}。这将提升未来的可用英雄数量。
+
+要升级的话，按住{colour_start|town_activity_log_positive_result}[L键]{colour_end}访问升级菜单，使用{colour_start|notable}[左操作杆]加[X键]{colour_end}购买升级。]]></entry>
+    <entry id="[ps4]tutorial_popup_quest_complete_description"><![CDATA[在你完成一个任务的要求后，你随时都可以{colour_start|notable}[点击右触摸面板]{colour_end}来{colour_start|notable}回到小镇{colour_end}。你不必回到地牢的起始房间来离开地牢。
+
+（点击{colour_start|town_activity_log_positive_result}[圆圈键]{colour_end}可关闭此窗口。）]]></entry>
+    <entry id="[psv]tutorial_popup_quest_complete_description"><![CDATA[在你完成一个任务的要求后，你随时都可以{colour_start|notable}[点击START键]{colour_end}来{colour_start|notable}回到小镇{colour_end}。你不必回到地牢的起始房间来离开地牢。
+
+（点击{colour_start|town_activity_log_positive_result}[圆圈键]{colour_end}可关闭此窗口。）]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_hero_panel_description"><![CDATA[当一名英雄被选中时，按{colour_start|town_activity_log_positive_result}[方块键]{colour_end}来打开其详细面板，显示该英雄的{colour_start|notable}特质{colour_end}、{colour_start|notable}技能{colour_end}和{colour_start|notable}抵抗力{colour_end}。]]></entry>
+    <entry id="[ps4]tutorial_popup_press_h_description"><![CDATA[在游戏中的任何时候，按 {colour_start|town_activity_log_positive_result}[左触摸面板]{colour_end} 来查看与当前情景关联的帮助。
+
+在小镇，探险，战斗，扎营或其他时候尝试一下。]]></entry>
+    <entry id="[psv]tutorial_popup_press_h_description"><![CDATA[在游戏中的任何时候，按{colour_start|town_activity_log_positive_result}[SELECT键]{colour_end}并选择{colour_start|town_activity_log_positive_result}[帮助]{colour_end}来查看与当前情景关联的帮助。
+
+在小镇，探险，战斗，扎营或其他时候尝试一下。]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_combat_description"><![CDATA[战斗是{colour_start|notable}回合制{colour_end}的。在你英雄的回合，{colour_start|town_activity_log_positive_result}[SELECT]{colour_end}一个技能图标并{colour_start|town_activity_log_positive_result}[SELECT]{colour_end}一个目标。
+
+如果有某个技能你不能选择，这是因为英雄所在的{colour_start|notable}位置不对{colour_end}，或者是{colour_start|notable}没有合法的目标{colour_end}。{colour_start|town_activity_log_positive_result}[HIGHLIGHT]{colour_end}在技能上可以查看其详细要求。]]></entry>
+    <entry id="[ps4]tutorial_popup_map_nav_description"><![CDATA[你现在正在一个{colour_start|notable}房间{colour_end}中。
+
+想要移动到另一个房间，可使用{colour_start|town_activity_log_positive_result}[右操作杆]{colour_end}在{colour_start|notable}地图上{colour_end}选择一个{colour_start|notable}目标房间{colour_end}。这会把你带到{colour_start|notable}连接通道{colour_end}中。
+
+（点击{colour_start|town_activity_log_positive_result}[圆圈键]{colour_end}可关闭此窗口。）]]></entry>
+    <entry id="[psv]tutorial_popup_map_nav_description"><![CDATA[你现在正在一个{colour_start|notable}房间{colour_end}中。
+
+想要移动到另一个房间，可使用{colour_start|town_activity_log_positive_result}[右操作杆]{colour_end}在{colour_start|notable}地图上{colour_end}选择一个{colour_start|notable}目标房间{colour_end}。这会把你带到{colour_start|notable}连接通道{colour_end}中。]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_hallway_nav_description"><![CDATA[在{colour_start|notable}通道中{colour_end}，使用{colour_start|town_activity_log_positive_result}[左操作杆]{colour_end}前进或后退。
+
+（点击{colour_start|town_activity_log_positive_result}[圆圈键]{colour_end}可关闭此窗口。）]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_curio_description"><![CDATA[在探险时，你经常会找到{colour_start|notable}互动对象{colour_end}。按下{colour_start|town_activity_log_positive_result}[十字键]{colour_end}与当前活跃英雄一起来调查它们。看一下这顶帐篷……
+
+（点击{colour_start|town_activity_log_positive_result}[圆圈键]{colour_end}可关闭此窗口。）]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_bandage_description"><![CDATA[你的英雄正在{colour_start|pop_text_bleed}流血{colour_end}！
+
+如果你愿意，你可以从物品栏中使用一个{colour_start|notable}绷带{colour_end}来停止流血。在受伤英雄的回合点击{colour_start|town_activity_log_positive_result}[三角键]{colour_end} 使用绷带。]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_antivenom_description"><![CDATA[通过{colour_start|town_activity_log_positive_result}[左操作杆]{colour_end}和{colour_start|town_activity_log_positive_result}[三角键]{colour_end}选择并使用物品栏中的抗毒剂，绷带或草药，可以治愈当前英雄的枯萎，流血或减益状态。]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_torch_description"><![CDATA[{colour_start|notable}光明{colour_end}正在变得暗淡！{colour_start|notable}火炬明亮度会极大影响很多其他游戏机制{colour_end}。越黑暗，战斗、探索会愈加困难，但奖励也越丰厚。按{colour_start|town_activity_log_positive_result}[三角键]{colour_end}选择物品栏中的火炬，用火炬重燃光明。]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_camping_quest_description"><![CDATA[这个任务包含{colour_start|notable}扎营{colour_end}，而扎营需要{colour_start|notable}木柴{colour_end}。木柴在适当的任务中会{colour_start|notable}自动给予{colour_end}你。 
+
+{colour_start|notable}扎营{colour_end}给英雄一个机会{colour_start|notable}在地牢中进行恢复{colour_end}。当你受伤或压力过高 希望扎营时，在你的物品栏中按{colour_start|town_activity_log_positive_result}[三角键]{colour_end}选择木柴。]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_disarm_trap_description"><![CDATA[在你靠近陷阱时，侦查过的{colour_start|trap}陷阱{colour_end}将会{colour_start|notable}显示在地面上{colour_end}。 选择一名英雄，然后在靠近{colour_start|trap}陷阱{colour_end}时按{colour_start|town_activity_log_positive_result}[十字键]{colour_end}可尝试{colour_start|notable}将其解除{colour_end}。
+
+当英雄身处在一个暴露的陷阱范围之内时，陷阱图标将出现在他们的状态栏中。
+
+一些英雄比其他人更善于解除陷阱。]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_using_doors_description"><![CDATA[要进入一扇{colour_start|notable}门{colour_end}时，需在面前按{colour_start|town_activity_log_positive_result}[十字键]{colour_end}。]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_trinkets_description"><![CDATA[每名英雄的栏位都是装备2件{colour_start|notable}饰品{colour_end}。只要在物品栏中选择饰品并按{colour_start|notable}[十字键] {colour_end}就能佩戴它。{colour_start|notable}饰品{colour_end}一般都有平衡：一些好，一些坏。其中一些特定职业才能携带。]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_selling_trinkets_description"><![CDATA[你可以直接将不想要的饰品从饰品栏中卖出并获得一些金钱。按{colour_start|notable}[三角键]{colour_end}打开饰品栏，选择你不想要的饰品，按[方块键]出售。]]></entry>
+    <entry id="[ps4|psv]tutorial_popup_scout_hidden_door_description"><![CDATA[成功进行一次关键侦察将有机会显示{colour_start|notable}秘密房间{colour_end}！前进到以一颗星星作为标志的地方，然后按{colour_start|notable}[十字键]{colour_end}进入房间。巨大的财富等待着那些带着{colour_start|notable}钥匙{colour_end}的人……]]></entry>
+    <entry id="[ps4]str_help_town_0"><![CDATA[{colour_start|town_activity_log_positive_result}[R2+左操作杆]{colour_end}选择英雄，然后按{colour_start|town_activity_log_positive_result}[方块键]{colour_end} 查看他们的角色信息。可以选择技能，改变衣服颜色，重命名或者永久解雇英雄。]]></entry>
+    <entry id="[psv]str_help_town_0"><![CDATA[{colour_start|town_activity_log_positive_result}[R键+左操作杆]{colour_end}选择英雄，然后按{colour_start|town_activity_log_positive_result}[方块键]{colour_end}查看他们的角色信息。可以选择技能，改变衣服颜色，重命名或者永久解雇英雄。]]></entry>
+    <entry id="[ps4|psv]str_help_town_1"><![CDATA[使用{colour_start|town_activity_log_positive_result}[左操作杆和十字键]{colour_end}进入建筑。]]></entry>
+    <entry id="[ps4|psv]str_help_town_2"><![CDATA[驿站马车：招募新的英雄]]></entry>
+    <entry id="[ps4|psv]str_help_town_3"><![CDATA[铁匠铺、公会、生存大师：升级英雄技能和装备]]></entry>
+    <entry id="[ps4|psv]str_help_town_4"><![CDATA[酒馆、修道院：将英雄送入其中可使其缓解{colour_start|stressNOT1}压力{colour_end}]]></entry>
+    <entry id="[ps4|psv]str_help_town_5"><![CDATA[疗养院：治疗英雄的怪癖和疾病]]></entry>
+    <entry id="[ps4|psv]str_help_town_6"><![CDATA[游牧马车：购买稀有物品]]></entry>
+    <entry id="[ps4]str_help_town_7"><![CDATA[准备好之后按{colour_start|town_activity_log_positive_result}[右触摸面板]{colour_end}可以{colour_start|town_activity_log_positive_result}开始任务{colour_end}。]]></entry>
+    <entry id="[psv]str_help_town_7"><![CDATA[准备好之后按{colour_start|town_activity_log_positive_result}[START键]{colour_end}可以{colour_start|town_activity_log_positive_result}开始任务{colour_end}。]]></entry>
+    <entry id="[ps4]str_help_town_stage_coach_0"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L2]{colour_end}可以升级该建筑。]]></entry>
+    <entry id="[psv]str_help_town_stage_coach_0"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L键]{colour_end}可以升级该建筑。]]></entry>
+    <entry id="[ps4|psv]str_help_town_stage_coach_1"><![CDATA[当英雄被选中时，按{colour_start|town_activity_log_positive_result}[方块键]{colour_end}可以查看。]]></entry>
+    <entry id="[ps4|psv]str_help_town_stage_coach_2"><![CDATA[使用{colour_start|town_activity_log_positive_result}[十字键]{colour_end}雇佣并将新英雄加入名册。]]></entry>
+    <entry id="[ps4]str_help_town_blacksmith_0"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L2]{colour_end}可以升级该建筑。]]></entry>
+    <entry id="[psv]str_help_town_blacksmith_0"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L键]{colour_end}可以升级该建筑。]]></entry>
+    <entry id="[ps4|psv]str_help_town_blacksmith_1"><![CDATA[将名册中的英雄{colour_start|town_activity_log_positive_result}[放置]{colour_end}入铁匠铺栏位，可以查看他们的武器和盔甲升级选项。]]></entry>
+    <entry id="[ps4|psv]str_help_town_blacksmith_2"><![CDATA[{colour_start|town_activity_log_positive_result}[选择]{colour_end}升级并按{colour_start|town_activity_log_positive_result}[十字键]{colour_end}来购买他们。你在购买某些英雄的升级之前，可能需要先升级铁匠铺。]]></entry>
+    <entry id="[ps4]str_help_town_guild_0"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L2]{colour_end}可以升级该建筑。]]></entry>
+    <entry id="[psv]str_help_town_guild_0"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L键]{colour_end}可以升级该建筑。]]></entry>
+    <entry id="[ps4|psv]str_help_town_guild_1"><![CDATA[将名册内的英雄{colour_start|town_activity_log_positive_result}[放置]{colour_end}入公会以查看他们的技能升级选项。]]></entry>
+    <entry id="[ps4|psv]str_help_town_guild_2"><![CDATA[{colour_start|town_activity_log_positive_result}[选择]{colour_end} 战斗技能并按{colour_start|town_activity_log_positive_result}[十字键]{colour_end}来购买他们。你在购买某些英雄的升级之前，可能需要先升级公会。]]></entry>
+    <entry id="[ps4]str_help_town_camping_trainer_0"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L2]{colour_end}可以升级该建筑。]]></entry>
+    <entry id="[psv]str_help_town_camping_trainer_0"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L键]{colour_end}可以升级该建筑。]]></entry>
+    <entry id="[ps4|psv]str_help_town_camping_trainer_1"><![CDATA[在名册中的英雄{colour_start|town_activity_log_positive_result}[放置]{colour_end}入生存大师篝火处，查看他们的扎营技能与升级选项。]]></entry>
+    <entry id="[ps4|psv]str_help_town_camping_trainer_2"><![CDATA[{colour_start|town_activity_log_positive_result}[选择]{colour_end}技能或升级并按{colour_start|town_activity_log_positive_result}[十字键]{colour_end}来购买他们。你在购买某些英雄的升级之前，可能需要先升级生存大师篝火。]]></entry>
+    <entry id="[ps4]str_help_town_tavern_0"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L2]{colour_end}可以升级该建筑。]]></entry>
+    <entry id="[psv]str_help_town_tavern_0"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L键]{colour_end}可以升级该建筑。]]></entry>
+    <entry id="[ps4|psv]str_help_town_tavern_1"><![CDATA[将名册中的英雄{colour_start|town_activity_log_positive_result}[放置]{colour_end}入适当的栏位并按{colour_start|town_activity_log_positive_result}[十字键]{colour_end}确认支付，开始缓解压力的活动。]]></entry>
+    <entry id="[ps4|psv]str_help_town_tavern_2"><![CDATA[某些特质会使英雄不能加入某项活动。]]></entry>
+    <entry id="[ps4|psv]str_help_town_tavern_3"><![CDATA[每项活动的花费、{colour_start|stressNOT1}压力{colour_end}缓解量以及可能产生的副作用都有所不同。你需要在游戏过程中发现其中的一些不同之处。]]></entry>
+    <entry id="[ps4|psv]str_help_town_tavern_4"><![CDATA[让英雄参加活动会使其无法进行下一项任务。]]></entry>
+    <entry id="[ps4|psv]str_help_town_tavern_5"><![CDATA[你需要升级建筑来解锁其他活动栏位。]]></entry>
+    <entry id="[ps4|psv]str_help_town_tavern_6"><![CDATA[选择一个空置的建筑栏位并按{colour_start|town_activity_log_positive_result}[十字键]{colour_end}可以将活动位置中的英雄强行撤出。但是你不会获得已花金钱的退款。]]></entry>
+    <entry id="[ps4]str_help_town_abbey_0"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L2]{colour_end}可以升级该建筑。]]></entry>
+    <entry id="[psv]str_help_town_abbey_0"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L键]{colour_end}可以升级该建筑。]]></entry>
+    <entry id="[ps4|psv]str_help_town_abbey_1"><![CDATA[在名册中的英雄{colour_start|town_activity_log_positive_result}[放置]{colour_end}入适当的栏位并按{colour_start|town_activity_log_positive_result}[十字键]{colour_end}确认支付，开始缓解压力的活动。]]></entry>
+    <entry id="[ps4|psv]str_help_town_abbey_2"><![CDATA[某些特质会使英雄不能加入某项活动。]]></entry>
+    <entry id="[ps4|psv]str_help_town_abbey_3"><![CDATA[每项活动的花费、{colour_start|stressNOT1}压力{colour_end}缓解量以及可能产生的副作用都有所不同。你需要在游戏过程中发现其中的一些不同之处。]]></entry>
+    <entry id="[ps4|psv]str_help_town_abbey_4"><![CDATA[让英雄参加活动会使其无法进行下一项任务。]]></entry>
+    <entry id="[ps4|psv]str_help_town_abbey_5"><![CDATA[你需要升级建筑来解锁其他活动栏位。]]></entry>
+    <entry id="[ps4|psv]str_help_town_abbey_6"><![CDATA[选择一个空置的建筑栏位并按{colour_start|town_activity_log_positive_result}[十字键]{colour_end}可以将活动位置中的英雄强行撤出。但是你不会获得已花金钱的退款。]]></entry>
+    <entry id="[ps4]str_help_town_sanitarium_0"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L2]{colour_end}可以升级该建筑。]]></entry>
+    <entry id="[psv]str_help_town_sanitarium_0"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L键]{colour_end}可以升级该建筑。]]></entry>
+    <entry id="[ps4|psv]str_help_town_sanitarium_1"><![CDATA[治疗特质：将英雄{colour_start|town_activity_log_positive_result}[放置]{colour_end}到治疗室的栏位里，选择一个正面特质进行强化或者选择消除一个负面特质，两者可以同时进行。严重的特质需要更多的钱才能消除。]]></entry>
+    <entry id="[ps4|psv]str_help_town_sanitarium_2"><![CDATA[治疗疾病：将英雄{colour_start|town_activity_log_positive_result}[放置]{colour_end}到病房的栏位里，并选择需要治疗的疾病。有时也能治愈其他疾病。]]></entry>
+    <entry id="[ps4|psv]str_help_town_sanitarium_3"><![CDATA[让英雄进行治疗会使其无法进行下一项任务。]]></entry>
+    <entry id="[ps4|psv]str_help_town_sanitarium_4"><![CDATA[你需要升级建筑来解锁更多治疗栏位。]]></entry>
+    <entry id="[ps4|psv]str_help_town_sanitarium_5"><![CDATA[选择一个空置的建筑栏位并按{colour_start|town_activity_log_positive_result}[十字键]{colour_end}可以将活动位置中的英雄强行撤出。但是你不会获得已花金钱的退款。]]></entry>
+    <entry id="[ps4]str_help_town_nomad_wagon_0"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L2]{colour_end}可以升级该建筑。]]></entry>
+    <entry id="[psv]str_help_town_nomad_wagon_0"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L键]{colour_end}可以升级该建筑。]]></entry>
+    <entry id="[ps4|psv]str_help_town_nomad_wagon_1"><![CDATA[{colour_start|town_activity_log_positive_result}[选择]{colour_end}一个物品并按{colour_start|town_activity_log_positive_result}[十字键]{colour_end}购买。]]></entry>
+    <entry id="[ps4|psv]str_help_town_quest_select_0"><![CDATA[{colour_start|town_activity_log_positive_result}[选择]{colour_end}任务并查看。]]></entry>
+    <entry id="[ps4|psv]str_help_town_quest_select_1"><![CDATA[{colour_start|town_activity_log_positive_result}[选择]{colour_end}英雄并按{colour_start|town_activity_log_positive_result}[十字键]{colour_end}将他们加入冒险队伍。]]></entry>
+    <entry id="[ps4|psv]str_help_town_quest_select_2"><![CDATA[英雄在酒馆、教堂或疗养院时将无法被使用。]]></entry>
+    <entry id="[ps4|psv]str_help_town_quest_select_3"><![CDATA[完成任务以推进你对该地区的掌控并开启新的任务类型。]]></entry>
+    <entry id="[ps4]str_help_town_quest_select_4"><![CDATA[准备好之后按{colour_start|town_activity_log_positive_result}[右触摸面板]{colour_end}可以进行配置。]]></entry>
+    <entry id="[psv]str_help_town_quest_select_4"><![CDATA[准备好之后按{colour_start|town_activity_log_positive_result}[START键]{colour_end}可以进行配置。]]></entry>
+    <entry id="[ps4|psv]str_help_town_provision_0"><![CDATA[{colour_start|town_activity_log_positive_result}[选择]{colour_end}补给商店中的物品并按{colour_start|town_activity_log_positive_result}[十字键]{colour_end}购买任务所需的物资给养。]]></entry>
+    <entry id="[ps4|psv]str_help_town_provision_1"><![CDATA[任务结束时，没有使用的互动物品将不会退款。所以只买你需要的东西！]]></entry>
+    <entry id="[ps4|psv]str_help_town_provision_2"><![CDATA[你总会需要带一些食物和火把！每个英雄通常每餐消耗一个食物单位（进行扎营或是经历饥饿事件），在短程任务中你需要至少8个食物。]]></entry>
+    <entry id="[ps4|psv]str_help_raid_room_0"><![CDATA[使用{colour_start|town_activity_log_positive_result}[右操作杆]{colour_end}选择一个新房间并进入连接通道。]]></entry>
+    <entry id="[ps4]str_help_raid_room_1"><![CDATA[使用{colour_start|town_activity_log_positive_result}[R1和L1]{colour_end}更换英雄。]]></entry>
+    <entry id="[psv]str_help_raid_room_1"><![CDATA[使用{colour_start|town_activity_log_positive_result}[背面触摸面板]{colour_end}更换英雄。]]></entry>
+    <entry id="[ps4|psv]str_help_raid_room_2"><![CDATA[使用{colour_start|town_activity_log_positive_result}[向上键和向下键]{colour_end}可以在物品栏和地图间切换。]]></entry>
+    <entry id="[ps4]str_help_raid_room_3"><![CDATA[按{colour_start|town_activity_log_positive_result}[十字键]{colour_end}移动英雄在队伍中的位置。{colour_start|town_activity_log_positive_result}[按住十字键]{colour_end}恢复默认排序。]]></entry>
+    <entry id="[psv]str_help_raid_room_3"><![CDATA[按{colour_start|town_activity_log_positive_result}[十字键]{colour_end}移动英雄在队伍中的位置。]]></entry>
+    <entry id="[ps4|psv]str_help_raid_room_4"><![CDATA[在物品栏中选择木柴（如果你有的话）并按{colour_start|town_activity_log_positive_result}[三角键]{colour_end}开始扎营。]]></entry>
+    <entry id="[ps4]str_help_raid_room_5"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L2]{colour_end}查看游戏效果，比如光明等级和英雄状态。]]></entry>
+    <entry id="[psv]str_help_raid_room_5"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L键]{colour_end}查看游戏信息。]]></entry>
+    <entry id="[ps4]str_help_raid_room_6"><![CDATA[按{colour_start|town_activity_log_positive_result}[右触摸面板]{colour_end}可放弃任务并返回哈姆雷特镇。]]></entry>
+    <entry id="[psv]str_help_raid_room_6"><![CDATA[按{colour_start|town_activity_log_positive_result}[START键]{colour_end}可放弃任务并返回哈姆雷特镇。]]></entry>
+    <entry id="[ps4]str_help_raid_room_7"><![CDATA[按住{colour_start|town_activity_log_positive_result}[R2]{colour_end}可以控制地图。]]></entry>
+    <entry id="[psv]str_help_raid_room_7"><![CDATA[按住{colour_start|town_activity_log_positive_result}[R键]{colour_end}可以控制地图。]]></entry>
+    <entry id="[ps4|psv]str_help_raid_room_8"><![CDATA[按{colour_start|town_activity_log_positive_result}[方块键]{colour_end}查看英雄详细信息。]]></entry>
+    <entry id="[ps4|psv]str_help_raid_hallway_0"><![CDATA[使用{colour_start|town_activity_log_positive_result}[右操作杆]{colour_end}前进或后退。]]></entry>
+    <entry id="[ps4|psv]str_help_raid_hallway_1"><![CDATA[按{colour_start|town_activity_log_positive_result}[十字键]{colour_end}进入门内。]]></entry>
+    <entry id="[ps4|psv]str_help_raid_hallway_2"><![CDATA[使用{colour_start|town_activity_log_positive_result}[向上键和向下键]{colour_end}可以在物品栏和地图间切换。]]></entry>
+    <entry id="[ps4]str_help_raid_hallway_3"><![CDATA[使用{colour_start|town_activity_log_positive_result}[R1和L1]{colour_end}更换英雄。]]></entry>
+    <entry id="[psv]str_help_raid_hallway_3"><![CDATA[使用{colour_start|town_activity_log_positive_result}[背面触屏]{colour_end}更换英雄。]]></entry>
+    <entry id="[ps4]str_help_raid_hallway_4"><![CDATA[按{colour_start|town_activity_log_positive_result}[十字键]{colour_end}移动英雄在队伍中的位置。{colour_start|town_activity_log_positive_result}[按住十字键]{colour_end}恢复默认排序。]]></entry>
+    <entry id="[psv]str_help_raid_hallway_4"><![CDATA[按{colour_start|town_activity_log_positive_result}[十字键]{colour_end}移动英雄在队伍中的位置。]]></entry>
+    <entry id="[ps4]str_help_raid_hallway_5"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L2]{colour_end}查看游戏效果，比如光明等级和英雄状态。]]></entry>
+    <entry id="[psv]str_help_raid_hallway_5"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L键]{colour_end}查看游戏效果，比如光明等级和英雄状态。]]></entry>
+    <entry id="[ps4]str_help_raid_hallway_6"><![CDATA[按住{colour_start|town_activity_log_positive_result}[R2]{colour_end}可以控制地图。]]></entry>
+    <entry id="[psv]str_help_raid_hallway_6"><![CDATA[按住{colour_start|town_activity_log_positive_result}[R键]{colour_end}可以控制地图。]]></entry>
+    <entry id="[ps4]str_help_raid_hallway_7"><![CDATA[按{colour_start|town_activity_log_positive_result}[右触屏]{colour_end}可放弃任务并返回小镇。]]></entry>
+    <entry id="[psv]str_help_raid_hallway_7"><![CDATA[按{colour_start|town_activity_log_positive_result}[START键]{colour_end}可放弃任务并返回小镇。]]></entry>
+    <entry id="[ps4|psv]str_help_raid_combat_0"><![CDATA[在英雄的回合中，使用{colour_start|town_activity_log_positive_result}[左操作杆]{colour_end}和{colour_start|town_activity_log_positive_result}[十字键]{colour_end}选择一个有效战斗技能并选择一个目标。]]></entry>
+    <entry id="[ps4|psv]str_help_raid_combat_1"><![CDATA[每个技能都对英雄的站位与目标敌人有着不同的要求。使用{colour_start|town_activity_log_positive_result}[左操作杆]{colour_end}选择一个技能来查看这些要求。]]></entry>
+    <entry id="[ps4|psv]str_help_raid_combat_2"><![CDATA[当使用{colour_start|town_activity_log_positive_result}[左操作杆]{colour_end}选择一个目标后，你可以看到敌人的数据和英雄的击中几率/当前技能的伤害值。]]></entry>
+    <entry id="[ps4|psv]str_help_raid_combat_3"><![CDATA[按{colour_start|town_activity_log_positive_result}[方块键]{colour_end}查看英雄详细信息。]]></entry>
+    <entry id="[ps4]str_help_raid_combat_4"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L2]{colour_end}查看游戏效果，比如光明等级和英雄状态。]]></entry>
+    <entry id="[psv]str_help_raid_combat_4"><![CDATA[按住{colour_start|town_activity_log_positive_result}[L键]{colour_end}查看游戏效果，比如光明等级和英雄状态。]]></entry>
+    <entry id="[ps4|psv]str_help_raid_combat_5"><![CDATA[按{colour_start|town_activity_log_positive_result}[三角键]{colour_end}选择并使用物品栏中的抗毒剂，绷带或草药，可以治愈当前英雄的枯萎，流血或减益状态。]]></entry>
+    <entry id="[ps4|psv]str_help_raid_camping_0"><![CDATA[使用{colour_start|town_activity_log_positive_result}[左操作杆]{colour_end}选择用餐选项并按{colour_start|town_activity_log_positive_result}[十字键]{colour_end}开始用餐。该数量会以物品栏中食品的剩余量为限制。]]></entry>
+    <entry id="[ps4|psv]str_help_raid_camping_1"><![CDATA[你的队伍有{colour_start|town_activity_log_positive_result}[12扎营点数]{colour_end}来使用营地技能。]]></entry>
+    <entry id="[ps4]str_help_raid_camping_2"><![CDATA[使用{colour_start|town_activity_log_positive_result}[L1和R1]{colour_end}选择一个英雄然后按{colour_start|town_activity_log_positive_result}[左摇杆和十字键]{colour_end}来使用他们的技能。有些技能需要选择目标。]]></entry>
+    <entry id="[psv]str_help_raid_camping_2"><![CDATA[使用{colour_start|town_activity_log_positive_result}[背面触摸面板]{colour_end}选择一个英雄然后按{colour_start|town_activity_log_positive_result}[左操作杆和十字键]{colour_end}来使用他们的技能。有些技能需要选择目标。]]></entry>
+    <entry id="[ps4|psv]str_help_raid_camping_3"><![CDATA[当使用完休整点后，按{colour_start|town_activity_log_positive_result}[三角键]{colour_end}结束扎营。]]></entry>
+    <entry id="[ps4]str_navigate_via_map"><![CDATA[使用{colour_start|town_activity_log_positive_result}[右操作杆]{colour_end} 在地图上选一个目的地房间。]]></entry>
+    <entry id="[ps4]str_reduce_torch_tip"><![CDATA[按住[L2]并按[圆圈键]可降低火炬亮度。]]></entry>
+    <entry id="[ps4]str_snuff_torch_tip"><![CDATA[按住[L2]并反复按[圆圈键]可熄灭火炬。]]></entry>
+    <entry id="[ps4|psv]action_select_hero"><![CDATA[在此处放置一位英雄。]]></entry>
+    <entry id="[ps4|psv]corrupt_save_confirm_question"><![CDATA[你的存档似乎已经损坏。无法载入领地进度。]]></entry>
+    <entry id="[ps4|psv]menu_options_element_tooltip_bark_dismissal"><![CDATA[按[十字键]取消英雄气泡文字。]]></entry>
+    <entry id="[ps4|psv]provision_sell_back_info"><![CDATA[按[十字键]回售]]></entry>
+    <entry id="input_command_realm_inventory_hold_to_unequip_instruction"><![CDATA[[按住]卸下装备]]></entry>
+    <entry id="input_command_realm_inventory_sort_instruction"><![CDATA[分类]]></entry>
+    <entry id="[ps4|psv]str_discard_item_instructions"><![CDATA[[按住三角键]丢弃一个物品]]></entry>
+    <entry id="[ps4|psv]str_hero_slot_unlocked_disease_treatment"><![CDATA[[十字键]选择英雄进行治疗。]]></entry>
+    <entry id="[ps4|psv]str_hero_slot_unlocked_stagecoach_tt"><![CDATA[按{colour_start|town_activity_log_positive_result}[十字键]{colour_end}招募进名册。]]></entry>
+    <entry id="[ps4|psv]str_hero_slot_unlocked_treatment"><![CDATA[[十字键]选择英雄进行治疗。]]></entry>
+    <entry id="[ps4|psv]str_loading_screen_continue"><![CDATA[按{colour_start|town_activity_log_positive_result}[任意键]{colour_end}继续]]></entry>
+    <entry id="[ps4|psv]str_save_pre_click"><![CDATA[选择这封信开始……]]></entry>
+    <entry id="[ps4|psv]town_name_realm_inventory"><![CDATA[饰品]]></entry>
+    <entry id="[psv]str_navigate_via_map"><![CDATA[用{colour_start|town_activity_log_positive_result}[右摇杆]{colour_end}在地图上选择一个目标房间。]]></entry>
+    <entry id="[psv]str_reduce_torch_tip"><![CDATA[按住[L键]并按[圆圈键]可降低火炬亮度。]]></entry>
+    <entry id="[psv]str_snuff_torch_tip"><![CDATA[按住[L键]并按[圆圈键]可熄灭火炬。]]></entry>
+    <entry id="controller_discard_item_confirm_dialog_no"><![CDATA[不]]></entry>
+    <entry id="controller_discard_item_confirm_dialog_question"><![CDATA[丢弃这件物品？]]></entry>
+    <entry id="controller_discard_item_confirm_dialog_yes"><![CDATA[是]]></entry>
+    <entry id="curio_tooltip_pass_controller"><![CDATA[忽略]]></entry>
+    <entry id="dialog_confirm_store_downloaded_estate_in_unused_slot"><![CDATA[要用已经下载的进度[%s]覆盖空白存档吗？]]></entry>
+    <entry id="dialog_confirm_store_downloaded_estate_in_unused_slot_no"><![CDATA[不]]></entry>
+    <entry id="dialog_confirm_store_downloaded_estate_in_unused_slot_yes"><![CDATA[是]]></entry>
+    <entry id="dialog_confirm_store_downloaded_estate_in_used_slot"><![CDATA[要用已经下载的进度[%s]覆盖本地存档[%s]吗？]]></entry>
+    <entry id="dialog_confirm_store_downloaded_estate_in_used_slot_no"><![CDATA[不]]></entry>
+    <entry id="dialog_confirm_store_downloaded_estate_in_used_slot_yes"><![CDATA[是]]></entry>
+    <entry id="dialog_msg_cloud_corrupt"><![CDATA[已经下载的进度无法识别。云存储可能已经损坏。]]></entry>
+    <entry id="dialog_msg_cloud_empty"><![CDATA[云端数据不存在]]></entry>
+    <entry id="dialog_try_download_estate"><![CDATA[要尝试将云存储覆盖于此档吗？]]></entry>
+    <entry id="dialog_try_download_estate_no"><![CDATA[不]]></entry>
+    <entry id="dialog_try_download_estate_yes"><![CDATA[是]]></entry>
+    <entry id="dialog_try_upload_estate"><![CDATA[要尝试将领地进度上传云存储吗？]]></entry>
+    <entry id="dialog_try_upload_estate_no"><![CDATA[不]]></entry>
+    <entry id="dialog_try_upload_estate_yes"><![CDATA[是]]></entry>
+    <entry id="front_end_controls_element_begin"><![CDATA[开始]]></entry>
+    <entry id="front_end_controls_element_cancel_name"><![CDATA[取消]]></entry>
+    <entry id="front_end_controls_element_confirm_name"><![CDATA[确认]]></entry>
+    <entry id="front_end_controls_element_delete"><![CDATA[删除领地]]></entry>
+    <entry id="front_end_controls_element_download_empty"><![CDATA[下载云存储]]></entry>
+    <entry id="front_end_controls_element_download_existing"><![CDATA[将领地进度用云存储覆盖]]></entry>
+    <entry id="front_end_controls_element_load"><![CDATA[继续追寻]]></entry>
+    <entry id="front_end_controls_element_new_game"><![CDATA[新的领地]]></entry>
+    <entry id="front_end_controls_element_upload"><![CDATA[将领地进度上传至云存储]]></entry>
+    <entry id="input_command_dungeon_reduce_torch"><![CDATA[熄灭火炬]]></entry>
+    <entry id="input_command_dungeon_use_torch"><![CDATA[使用火炬]]></entry>
+    <entry id="input_command_town_sell_trinket"><![CDATA[出售]]></entry>
+    <entry id="map_input_preview_pan"><![CDATA[视角移动]]></entry>
+    <entry id="map_input_preview_reset"><![CDATA[重置视角]]></entry>
+    <entry id="map_input_preview_zoom_in"><![CDATA[放大]]></entry>
+    <entry id="map_input_preview_zoom_out"><![CDATA[缩小]]></entry>
+    <entry id="menu_base_element_help"><![CDATA[帮助]]></entry>
+    <entry id="menu_base_element_view_help"><![CDATA[帮助]]></entry>
+    <entry id="menu_options_element_controller_vibration"><![CDATA[手柄震动]]></entry>
+    <entry id="obstacle_tooltip_ancestor_talk_controller"><![CDATA[聆听]]></entry>
+    <entry id="obstacle_tooltip_clear_by_hand_controller"><![CDATA[用手清除]]></entry>
+    <entry id="retreat_confirm_battle_controller_no"><![CDATA[不]]></entry>
+    <entry id="retreat_confirm_battle_controller_question"><![CDATA[尝试撤退？]]></entry>
+    <entry id="retreat_confirm_battle_controller_yes"><![CDATA[是]]></entry>
+    <entry id="str_achievement_description_psplat"><![CDATA[获得所有奖杯]]></entry>
+    <entry id="str_achievement_title_psplat"><![CDATA[铁王冠]]></entry>
+    <entry id="str_continue_raid_controller_text"><![CDATA[保留]]></entry>
+    <entry id="str_curio_tooltip_investigate_controller"><![CDATA[调查]]></entry>
+    <entry id="str_discard_item_confirm"><![CDATA[将这已佩戴的饰品丢弃？]]></entry>
+    <entry id="str_discard_item_confirm_no"><![CDATA[不]]></entry>
+    <entry id="str_discard_item_confirm_yes"><![CDATA[是]]></entry>
+    <entry id="str_overlay_loot_close_controller"><![CDATA[关闭]]></entry>
+    <entry id="str_overlay_loot_take_all_controller"><![CDATA[全部拿走]]></entry>
+    <entry id="str_return_to_controller_text"><![CDATA[小村庄]]></entry>
+    <entry id="str_ui_hunger_choice_eat_controller"><![CDATA[进食]]></entry>
+    <entry id="str_ui_hunger_choice_starve_controller"><![CDATA[挨饿]]></entry>
+    <entry id="str_unequip_all_trinkets_description"><![CDATA[确认卸下英雄身上的所有装备吗？]]></entry>
+    <entry id="str_unequip_all_trinkets_no"><![CDATA[不]]></entry>
+    <entry id="str_unequip_all_trinkets_yes"><![CDATA[是]]></entry>
+    <entry id="try_download_waiting_msg"><![CDATA[正在访问云存储……]]></entry>
+    <entry id="try_upload_success_msg"><![CDATA[存档进度成功上传至云存储。]]></entry>
+    <entry id="try_upload_waiting_msg"><![CDATA[正在访问云存储……]]></entry>
+    <entry id="input_command_realm_inventory_sell_instruction"><![CDATA[出售]]></entry>
+    <entry id="str_darkest_dungeon_trophies"><![CDATA[暗黑地牢奖杯]]></entry>
+    <entry id="str_darkest_dungeon_trophy_data"><![CDATA[暗黑地牢奖杯数据]]></entry>
+    <entry id="str_save_accessing"><![CDATA[读取保存数据……]]></entry>
+    <entry id="str_saving_warning"><![CDATA[保存中……不要关闭游戏]]></entry>
+    <entry id="[ps4]str_town_tip"><![CDATA[按住{colour_start|notable}[L2]{colour_end}查看火炬、战斗状态、物品栏以及更多的详细信息！]]></entry>
+    <entry id="[ps4]str_crypts_tip"><![CDATA[按住{colour_start|notable}[L2]{colour_end}查看火炬，战斗状态，物品栏以及更多的详细信息！]]></entry>
+    <entry id="[ps4]str_weald_tip"><![CDATA[按住{colour_start|notable}[L2]{colour_end}查看火炬，战斗状态，物品栏以及更多的详细信息！]]></entry>
+    <entry id="[ps4]str_warrens_tip"><![CDATA[按住{colour_start|notable}[L2]{colour_end}查看火炬，战斗状态，物品栏以及更多的详细信息！]]></entry>
+    <entry id="[ps4]str_cove_tip"><![CDATA[按住{colour_start|notable}[L2]{colour_end}查看火炬，战斗状态，物品栏以及更多的详细信息！]]></entry>
+    <entry id="[psv]str_town_tip"><![CDATA[按住{colour_start|notable}[L键]{colour_end}查看火炬、战斗状态、物品栏以及更多的详细信息！]]></entry>
+    <entry id="[psv]str_crypts_tip"><![CDATA[按住{colour_start|notable}[L键]{colour_end}查看火炬，战斗状态，物品栏以及更多的详细信息！]]></entry>
+    <entry id="[psv]str_weald_tip"><![CDATA[按住{colour_start|notable}[L键]{colour_end}查看火炬，战斗状态，物品栏以及更多的详细信息！]]></entry>
+    <entry id="[psv]str_warrens_tip"><![CDATA[按住{colour_start|notable}[L键]{colour_end}查看火炬，战斗状态，物品栏以及更多的详细信息！]]></entry>
+    <entry id="[psv]str_cove_tip"><![CDATA[按住{colour_start|notable}[L键]{colour_end}查看火炬，战斗状态，物品栏以及更多的详细信息！]]></entry>
+    <entry id="[psv]str_town_tip"><![CDATA[按住{colour_start|notable}[L键]{colour_end}查看火炬、战斗状态、物品栏以及更多的详细信息！]]></entry>
+    <entry id="[psv]str_crypts_tip"><![CDATA[按住{colour_start|notable}[L键]{colour_end}查看火炬，战斗状态，物品栏以及更多的详细信息！]]></entry>
+    <entry id="[psv]str_weald_tip"><![CDATA[按住{colour_start|notable}[L键]{colour_end}查看火炬，战斗状态，物品栏以及更多的详细信息！]]></entry>
+    <entry id="[psv]str_warrens_tip"><![CDATA[按住{colour_start|notable}[L键]{colour_end}查看火炬，战斗状态，物品栏以及更多的详细信息！]]></entry>
+    <entry id="[psv]str_cove_tip"><![CDATA[按住{colour_start|notable}[L键]{colour_end}查看火炬，战斗状态，物品栏以及更多的详细信息！]]></entry>
+    <entry id="[ps4]str_town_tip"><![CDATA[按住{colour_start|notable}[L2]{colour_end}查看火炬、战斗状态、物品栏以及更多的详细信息！]]></entry>
+    <entry id="[ps4]str_crypts_tip"><![CDATA[按住{colour_start|notable}[L2]{colour_end}查看火炬，战斗状态，物品栏以及更多的详细信息！]]></entry>
+    <entry id="[ps4]str_weald_tip"><![CDATA[按住{colour_start|notable}[L2]{colour_end}查看火炬，战斗状态，物品栏以及更多的详细信息！]]></entry>
+    <entry id="[ps4]str_warrens_tip"><![CDATA[按住{colour_start|notable}[L2]{colour_end}查看火炬，战斗状态，物品栏以及更多的详细信息！]]></entry>
+    <entry id="[ps4]str_cove_tip"><![CDATA[按住{colour_start|notable}[L2]{colour_end}查看火炬，战斗状态，物品栏以及更多的详细信息！]]></entry>
+    <entry id="[ps4|psv]str_town_tip"><![CDATA[你知道在{colour_start|notable}选项菜单{colour_end}中有术语表吗？]]></entry>
+    <entry id="[ps4|psv]str_crypts_tip"><![CDATA[你知道在{colour_start|notable}选项菜单{colour_end}中有术语表吗？]]></entry>
+    <entry id="[ps4|psv]str_weald_tip"><![CDATA[你知道在{colour_start|notable}选项菜单{colour_end}中有术语表吗？]]></entry>
+    <entry id="[ps4|psv]str_warrens_tip"><![CDATA[你知道在{colour_start|notable}选项菜单{colour_end}中有术语表吗？]]></entry>
+    <entry id="[ps4|psv]str_cove_tip"><![CDATA[你知道在{colour_start|notable}选项菜单{colour_end}中有术语表吗？]]></entry>
+    <entry id="str_inventory_title_trinketstone_of_patience"><![CDATA[耐心之石]]></entry>
+    <entry id="str_inventory_title_trinketstone_of_endurance"><![CDATA[忍耐之石]]></entry>
+    <entry id="str_inventory_title_trinketfortifying_garlic"><![CDATA[强力大蒜]]></entry>
+    <entry id="str_inventory_title_trinketethereal_crucifix"><![CDATA[缥缈十字架]]></entry>
+    <entry id="str_inventory_title_trinkettempting_goblet"><![CDATA[诱惑酒杯]]></entry>
+    <entry id="menu_base_element_view_glossary"><![CDATA[术语表]]></entry>
+    <entry id="town_event_title_stage_coach_bonus_recruits"><![CDATA[期待已久的一天]]></entry>
+    <entry id="town_event_description_stage_coach_bonus_recruits"><![CDATA[我们的困境已经蔓延开来，新的一群心怀抱负的尸体从驿站马车中走了出来……]]></entry>
+    <entry id="town_event_info_format_stage_coach_bonus_recruits"><![CDATA[比平常多了6名新兵]]></entry>
+    <entry id="input_command_town_show_character_display"><![CDATA[英雄详情]]></entry>
+    <entry id="str_language_italian"><![CDATA[意大利人]]></entry>
+    <entry id="options_category_debug"><![CDATA[错误信息]]></entry>
+    <entry id="[psv]tutorial_popup_resolve_level_description"><![CDATA[英雄每次成功完成任务时会获得{colour_start|notable}砺炼值{colour_end}。{colour_start|notable}砺炼{colour_end}将反之决定英雄的{colour_start|notable}决心等级{colour_end}。
+
+{colour_start|notable}决心等级{colour_end}不仅反映了英雄的老练娴熟的程度，并且直接作为{colour_start|notable}压力抗性{colour_end}以抵御地牢中遇见的怪异恐惧。
+
+一名低{colour_start|notable}决心等级{colour_end}英雄在尝试更高等级的任务中将很快在难以置信的压力中崩溃。]]></entry>
+    <entry id="[psv]tutorial_popup_death_class_description"><![CDATA[大多数怪物死去时会留下尸骸。尸骸类似一个临时的障碍，它们最终会自己消失。
+
+你可以攻击尸骸来更快的破坏他们，但是更好的选择是使用范围技能，位移技能，甚至是一些英雄特有的清除尸体的技能。
+
+怪物被流血，腐蚀或暴击致死时不会留下尸骸！]]></entry>
+    <entry id="[psv]str_ui_hero_to_hit"><![CDATA[英雄命中率]]></entry>
+    <entry id="[psv]str_ui_hero_crit"><![CDATA[英雄暴击率]]></entry>
+    <entry id="[psv]str_ui_hero_dmg"><![CDATA[英雄伤害]]></entry>
+    <entry id="menu_options_element_gamma"><![CDATA[伽马系数]]></entry>
+    <entry id="[psv]camping_respite_description"><![CDATA[使用扎营技能帮助英雄们。]]></entry>
+    <entry id="input_command_inspect"><![CDATA[调查]]></entry>
+    <entry id="[psv]town_quest_description_kill_boss+3+crypts+kill_necromancer"><![CDATA[在你先祖家中破碎大厅的深处，一个死灵法师正在执行不可描述的仪式……甚至唤起了死者！它必须被制止！]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_swine_prince_1"><![CDATA[一个身心俱残的冒险者告诉你，一只可怕而又无法描述的巨兽被猪人们奉为了他们的王。也许那只是捕风捉影，但是这个威胁不能坐视不管。]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_swine_prince_2"><![CDATA[一个身心俱残的冒险者告诉你，一只可怕而又无法描述的巨兽被猪人们奉为了他们的王。也许那只是捕风捉影，但是这个威胁不能坐视不管。]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_swine_prince_3"><![CDATA[一个身心俱残的冒险者告诉你，一只可怕而又无法描述的巨兽被猪人们奉为了他们的王。也许那只是捕风捉影，但是这个威胁不能坐视不管。]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_prophet_1"><![CDATA[语无伦次的疯子，世界末日的传播者，天启的报信者。无论他是谁，他病态的布道必须被阻止。解决这个“先知”。]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_prophet_2"><![CDATA[语无伦次的疯子，世界末日的传播者，天启的报信者。无论他是谁，他病态的布道必须被阻止。解决这个“先知”。]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_prophet_3"><![CDATA[语无伦次的疯子，世界末日的传播者，天启的报信者。无论他是谁，他病态的布道必须被阻止。解决这个“先知”。]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_formless_flesh_1"><![CDATA[有些东西永远不应“活过来”。清洗先祖疯狂实验的罪行并将这个可憎之物放逐回到它所属的异界深渊。]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_formless_flesh_2"><![CDATA[有些东西永远不应“活过来”。清洗先祖疯狂实验的罪行并将这个可憎之物放逐回到它所属的异界深渊。]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_formless_flesh_3"><![CDATA[有些东西永远不应“活过来”。清洗先祖疯狂实验的罪行并将这个可憎之物放逐回到它所属的异界深渊。]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_drowned_crew_1"><![CDATA[复仇的鬼魂威胁要将我们所辛劳的一切拖入黑暗的深渊。给予他们水手的死亡——一劳永逸！]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_drowned_crew_2"><![CDATA[复仇的鬼魂威胁要将我们所辛劳的一切拖入黑暗的深渊。给予他们水手的死亡——一劳永逸！]]></entry>
+    <entry id="[psv]town_quest_description_plot_kill_drowned_crew_3"><![CDATA[复仇的鬼魂威胁要将我们所辛劳的一切拖入黑暗的深渊。给予他们水手的死亡——一劳永逸！]]></entry>
+    <entry id="[psv]town_quest_description_explore+1+crypts+explore_all_rooms"><![CDATA[在你过世祖辈的疯狂之地内小试牛刀。注意怪物的分布情况，但是不要太过深入。]]></entry>
+    <entry id="[psv]town_quest_description_explore+3+crypts+explore_all_rooms"><![CDATA[末世将至？带好你的补给，深入你那衰败家族的甬道内。绘制一张你的探险地图。]]></entry>
+    <entry id="[psv]town_quest_description_inventory_activate+2+crypts+inventory_activate_corrupted_altar"><![CDATA[这些住在塌陷建筑下的渎神邪物把光明的信标退变成恶魔崇拜的容器。用神圣精髓来净化这些祭坛，以此带回光明。]]></entry>
+    <entry id="[psv]town_quest_description_explore+1+weald+explore_all_rooms"><![CDATA[深入老路的树林中，然后在数十条幽深的小径中选择一条。探索那条小径然后安然无恙的回来。]]></entry>
+    <entry id="[psv]town_quest_description_explore+3+weald+explore_all_rooms"><![CDATA[在被腐化之前，这片荒野就就深不可测了。而现在它就完全是一片黑暗秘密的所在。把补给准备充分，踏上这次探险旅途，尽可能绘出地形全貌。]]></entry>
+    <entry id="[psv]town_quest_description_gather+2+weald+gather_medicines"><![CDATA[很多驾车的人在荒野中走到了他们人生的尽头。一种国王的特效治疗药物最近遗失在荒野中。那些药物将极大的帮助这个染病的哈姆雷特镇。]]></entry>
+    <entry id="[psv]town_quest_description_inventory_activate+2+weald+inventory_activate_infected_corpse"><![CDATA[被腐化侵蚀的尸体散落在老路上，其内包藏着污秽和疾病。来去小镇的旅程因此遍布染病的威胁。使用强力药膏来阻止这些瘟疫。]]></entry>
+    <entry id="[psv]town_quest_description_gather+2+warrens+gather_grain"><![CDATA[这些猪人对食物的欲求更甚于它们的嗜血欲望。下一个冬天迟早会来， 哈姆雷特镇居民最好抓紧塞满他们空空的食物储备间。]]></entry>
+    <entry id="[psv]town_quest_description_gather+2+cove+gather_shipments"><![CDATA[你的先祖曾通过海路船运收到邪术古物。找到这些古物，并把它们存放在镇上的安全点，使其不落入那些恶人邪物手中。]]></entry>
+    <entry id="[psv]resistance_name_stun"><![CDATA[{colour_start|stun}眩晕{colour_end}]]></entry>
+    <entry id="[psv]resistance_name_move"><![CDATA[{colour_start|move}位移{colour_end}]]></entry>
+    <entry id="[psv]resistance_name_bleed"><![CDATA[{colour_start|bleed}流血{colour_end}]]></entry>
+    <entry id="dungeon_name_old_road"><![CDATA[老路]]></entry>
+    <entry id="str_old_road_tip"><![CDATA[驿站马车已被摧毁，管家也离开了，你必须徒步前往哈姆雷特镇。]]></entry>
+    <entry id="input_command_dungeon_check_tooltips_selection"><![CDATA[操作信息]]></entry>
+    <entry id="[ps4|psv]menu_base_element_exit_campaign"><![CDATA[保存并退出]]></entry>
+    <entry id="[ps4|psv]str_preamble_0"><![CDATA[“极暗地牢”是一款在绝境中全力以赴的游戏。任务可能会失败，或是必须放弃。英雄们会阵亡。且当他们一旦死去，就永远离去了。游戏的进度自动保存，因此所有行动的结果都无法回头。]]></entry>
+    <entry id="quirk_announcement_locked"><![CDATA[特殊增援]]></entry>
+    <entry id="quirk_announcement_unlocked (not used)"><![CDATA[不适用]]></entry>
+    <entry id="menu_options_element_hold_required_in_dungeon"><![CDATA[地牢中需长按键]]></entry>
+    <entry id="menu_options_element_tooltip_hold_required_in_dungeon"><![CDATA[在地牢中，交换英雄位置，改变英雄选择或查看人物信息之前，需按住左发射键。如果你经常无意中交换英雄位置，可将它开启。]]></entry>
+    <entry id="[ps4|psv]menu_options_element_tooltip_hold_required_in_dungeon"><![CDATA[在地牢中，交换英雄位置，改变英雄选择或查看人物信息之前，需按住L2键。如果你经常无意中交换英雄位置，可将它开启。]]></entry>
+    <entry id="[ps4]menu_options_element_tooltip_hold_required_in_dungeon"><![CDATA[在地牢中，交换英雄位置，改变英雄选择或查看人物信息之前，需按住L2。如果你经常无意中交换英雄位置，可将它开启。]]></entry>
+    <entry id="[psv]menu_options_element_tooltip_hold_required_in_dungeon"><![CDATA[在地牢中，交换英雄位置，改变英雄选择或查看人物信息之前，需按住L键。如果你经常无意中交换英雄位置，可将它开启。]]></entry>
+    <entry id="[psv]menu_options_element_alternate_dpad_left_right"><![CDATA[地牢中取消背面触控板]]></entry>
+    <entry id="[psv]menu_options_element_tooltip_alternate_dpad_left_right"><![CDATA[在地牢中行走时，使用左键和右键替代背面触摸面板以交换英雄位置。如果你在探索时经常无意中碰到背面触摸面板，可该选项开启。]]></entry>
+    <entry id="[ps4]menu_options_element_alternate_dpad_left_right"><![CDATA[地牢中使用左右键]]></entry>
+    <entry id="[ps4]menu_options_element_tooltip_alternate_dpad_left_right"><![CDATA[在地牢中行走时，使用左键和右键替代L1和L2键以交换英雄位置。]]></entry>
+    <entry id="menu_options_element_left_stick_interact"><![CDATA[将左操作杆向上竖起互动]]></entry>
+    <entry id="[ps4|psv]menu_options_element_left_stick_interact"><![CDATA[将左操作杆向上竖起互动]]></entry>
+    <entry id="[ps4|psv]menu_options_element_tooltip_left_stick_interact"><![CDATA[在地牢中，将左操作杆向上竖起可以进入门内，打开古董，以及类似行为。（此功能与十字键相同）]]></entry>
+    <entry id="options_category_controls"><![CDATA[控制选项]]></entry>
+    <entry id="menu_options_element_rear_touchpad_enabled"><![CDATA[可用背面触摸面板]]></entry>
+    <entry id="menu_options_element_tooltip_rear_touchpad_enabled"><![CDATA[关闭该选项将禁用背面触摸面板，并使用正面触摸面板替代其功能。如果你经常无意中触碰到背面触摸面板，可使用该功能。]]></entry>
+    <entry id="[ps4|psv]provision_sell_back_info"><![CDATA[按[十字键]回售]]></entry>
   </language>
 </root>

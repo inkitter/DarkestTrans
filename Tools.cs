@@ -175,7 +175,12 @@ namespace DarkestTrans
             xdoc.Load(reader);
 
             XmlNode xnRoot = xdoc.SelectSingleNode("root");
-            XmlNode xnEnglish = xnRoot.SelectSingleNode("language");
+            XmlNodeList xnlTest = xnRoot.SelectNodes("language");
+            XmlNode xnEnglish=xnlTest.Item(0);
+            foreach (XmlNode node in xnlTest)
+            { 
+                if (node.Attributes["id"].Value=="english"){ xnEnglish = node; }
+            }
             XmlNodeList xnl = xnEnglish.ChildNodes;
             foreach (XmlNode xn in xnl)
             {
@@ -191,7 +196,11 @@ namespace DarkestTrans
             xdoc.Load(reader);
 
             xnRoot = xdoc.SelectSingleNode("root");
-            xnEnglish = xnRoot.SelectSingleNode("language");
+            xnlTest = xnRoot.SelectNodes("language");
+            foreach (XmlNode node in xnlTest)
+            {
+                if (node.Attributes["id"].Value == "schinese") { xnEnglish = node; }
+            }
             xnl = xnEnglish.ChildNodes;
             foreach (XmlNode xn in xnl)
             {
@@ -210,6 +219,7 @@ namespace DarkestTrans
                 }
             }
             // 将字典读入 List
+            reader.Close();
 
             return lstXMLdata;
         }
@@ -232,13 +242,29 @@ namespace DarkestTrans
 
                 xml.WriteAttributeString("id", data.LabelName);
 
-                xml.WriteCData(data.ContentDest);
+                xml.WriteCData(data.ContentEng);
 
-                xml.WriteEndElement();
+                xml.WriteEndElement(); // entry
 
             }
-            xml.WriteEndElement();
-            xml.WriteEndElement();
+            xml.WriteEndElement(); // language
+
+            xml.WriteStartElement("language");
+            xml.WriteAttributeString("id", "schinese");
+            foreach (XMLdata data in indata)
+            {
+                xml.WriteStartElement("entry");
+
+                xml.WriteAttributeString("id", data.LabelName);
+
+                xml.WriteCData(data.ContentDest);
+
+                xml.WriteEndElement(); // entry
+
+            }
+            xml.WriteEndElement(); // language
+
+            xml.WriteEndElement(); // root
             xml.WriteEndDocument();
             xml.Flush();
             xml.Close();

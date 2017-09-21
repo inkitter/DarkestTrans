@@ -4,4 +4,8 @@
     <entry id="str_mod_source"><![CDATA[Source: %s]]></entry>
     <entry id="str_mod_local_source"><![CDATA[Manual Install]]></entry>
   </language>
+  <language id="schinese">
+    <entry id="str_mod_source"><![CDATA[来源：%s]]></entry>
+    <entry id="str_mod_local_source"><![CDATA[手动安装]]></entry>
+  </language>
 </root>

@@ -1,6 +1,585 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <language id="english">
+    <entry id="hero_class_name_crusader"><![CDATA[Crusader]]></entry>
+    <entry id="hero_class_name_bounty_hunter"><![CDATA[Bounty Hunter]]></entry>
+    <entry id="hero_class_name_vestal"><![CDATA[Vestal]]></entry>
+    <entry id="hero_class_name_plague_doctor"><![CDATA[Plague Doctor]]></entry>
+    <entry id="hero_class_name_grave_robber"><![CDATA[Grave Robber]]></entry>
+    <entry id="hero_class_name_occultist"><![CDATA[Occultist]]></entry>
+    <entry id="hero_class_name_highwayman"><![CDATA[Highwayman]]></entry>
+    <entry id="hero_class_name_hellion"><![CDATA[Hellion]]></entry>
+    <entry id="hero_class_name_jester"><![CDATA[Jester]]></entry>
+    <entry id="hero_class_name_leper"><![CDATA[Leper]]></entry>
+    <entry id="hero_class_name_arbalest"><![CDATA[Arbalest]]></entry>
+    <entry id="hero_class_name_man_at_arms"><![CDATA[Man-at-Arms]]></entry>
+    <entry id="hero_class_name_houndmaster"><![CDATA[Houndmaster]]></entry>
+    <entry id="hero_class_name_abomination"><![CDATA[Abomination]]></entry>
+    <entry id="hero_class_name_antiquarian"><![CDATA[Antiquarian]]></entry>
+    <entry id="hero_class_name_musketeer"><![CDATA[Musketeer]]></entry>
+    <entry id="combat_skill_name_level_format"><![CDATA[%s %d]]></entry>
+    <entry id="combat_skill_name_crusader_smite"><![CDATA[Smite]]></entry>
+    <entry id="combat_skill_name_crusader_zealous_accusation"><![CDATA[Zealous Accusation]]></entry>
+    <entry id="combat_skill_name_crusader_stunning_blow"><![CDATA[Stunning Blow]]></entry>
+    <entry id="combat_skill_name_crusader_bulwark_of_faith"><![CDATA[Bulwark of Faith]]></entry>
+    <entry id="combat_skill_name_crusader_battle_heal"><![CDATA[Battle Heal]]></entry>
+    <entry id="combat_skill_name_crusader_holy_lance"><![CDATA[Holy Lance]]></entry>
+    <entry id="combat_skill_name_crusader_inspiring_cry"><![CDATA[Inspiring Cry]]></entry>
+    <entry id="combat_skill_name_crusader_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_crusader.smite"><![CDATA[Smite]]></entry>
+    <entry id="upgrade_tree_name_crusader.zealous_accusation"><![CDATA[Zealous Accusation]]></entry>
+    <entry id="upgrade_tree_name_crusader.stunning_blow"><![CDATA[Stunning Blow]]></entry>
+    <entry id="upgrade_tree_name_crusader.bulwark_of_faith"><![CDATA[Bulwark of Faith]]></entry>
+    <entry id="upgrade_tree_name_crusader.battle_heal"><![CDATA[Battle Heal]]></entry>
+    <entry id="upgrade_tree_name_crusader.holy_lance"><![CDATA[Holy Lance]]></entry>
+    <entry id="upgrade_tree_name_crusader.inspiring_cry"><![CDATA[Inspiring Cry]]></entry>
+    <entry id="combat_skill_name_factotum_bold_slice"><![CDATA[Bold Slice]]></entry>
+    <entry id="combat_skill_name_factotum_pistol_shot"><![CDATA[Pistol Shot]]></entry>
+    <entry id="combat_skill_name_factotum_point_blank_shot"><![CDATA[Point Blank Shot]]></entry>
+    <entry id="combat_skill_name_factotum_grape_shot_blast"><![CDATA[Grapeshot Blast]]></entry>
+    <entry id="combat_skill_name_factotum_move"><![CDATA[Move]]></entry>
+    <entry id="combat_skill_name_highwayman_wicked_slice"><![CDATA[Wicked Slice]]></entry>
+    <entry id="combat_skill_name_highwayman_pistol_shot"><![CDATA[Pistol Shot]]></entry>
+    <entry id="combat_skill_name_highwayman_point_blank_shot"><![CDATA[Point Blank Shot]]></entry>
+    <entry id="combat_skill_name_highwayman_grape_shot_blast"><![CDATA[Grapeshot Blast]]></entry>
+    <entry id="combat_skill_name_highwayman_take_aim"><![CDATA[Tracking Shot]]></entry>
+    <entry id="combat_skill_name_highwayman_duelist_advance"><![CDATA[Duelist's Advance]]></entry>
+    <entry id="combat_skill_name_highwayman_opened_vein"><![CDATA[Open Vein]]></entry>
+    <entry id="combat_skill_name_highwayman_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_highwayman.wicked_slice"><![CDATA[Wicked Slice]]></entry>
+    <entry id="upgrade_tree_name_highwayman.pistol_shot"><![CDATA[Pistol Shot]]></entry>
+    <entry id="upgrade_tree_name_highwayman.point_blank_shot"><![CDATA[Point Blank Shot]]></entry>
+    <entry id="upgrade_tree_name_highwayman.grape_shot_blast"><![CDATA[Grapeshot Blast]]></entry>
+    <entry id="upgrade_tree_name_highwayman.take_aim"><![CDATA[Take Aim]]></entry>
+    <entry id="upgrade_tree_name_highwayman.duelist_advance"><![CDATA[Duelist's Advance]]></entry>
+    <entry id="upgrade_tree_name_highwayman.opened_vein"><![CDATA[Open Vein]]></entry>
+    <entry id="combat_skill_name_plague_doctor_noxious_blast"><![CDATA[Noxious Blast]]></entry>
+    <entry id="combat_skill_name_plague_doctor_plague_grenade"><![CDATA[Plague Grenade]]></entry>
+    <entry id="combat_skill_name_plague_doctor_blinding_gas"><![CDATA[Blinding Gas]]></entry>
+    <entry id="combat_skill_name_plague_doctor_incision"><![CDATA[Incision]]></entry>
+    <entry id="combat_skill_name_plague_doctor_battlefield_medicine"><![CDATA[Battlefield Medicine]]></entry>
+    <entry id="combat_skill_name_plague_doctor_emboldening_vapours"><![CDATA[Emboldening Vapours]]></entry>
+    <entry id="combat_skill_name_plague_doctor_disorienting_blast"><![CDATA[Disorienting Blast]]></entry>
+    <entry id="combat_skill_name_plague_doctor_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_plague_doctor.noxious_blast"><![CDATA[Noxious Blast]]></entry>
+    <entry id="upgrade_tree_name_plague_doctor.plague_grenade"><![CDATA[Plague Grenade]]></entry>
+    <entry id="upgrade_tree_name_plague_doctor.blinding_gas"><![CDATA[Blinding Gas]]></entry>
+    <entry id="upgrade_tree_name_plague_doctor.incision"><![CDATA[Incision]]></entry>
+    <entry id="upgrade_tree_name_plague_doctor.battlefield_medicine"><![CDATA[Battlefield Medicine]]></entry>
+    <entry id="upgrade_tree_name_plague_doctor.emboldening_vapours"><![CDATA[Emboldening Vapours]]></entry>
+    <entry id="upgrade_tree_name_plague_doctor.disorienting_blast"><![CDATA[Disorienting Blast]]></entry>
+    <entry id="combat_skill_name_vestal_judgement"><![CDATA[Judgement]]></entry>
+    <entry id="combat_skill_name_vestal_mace_bash"><![CDATA[Mace Bash]]></entry>
+    <entry id="combat_skill_name_vestal_dazzling_light"><![CDATA[Dazzling Light]]></entry>
+    <entry id="combat_skill_name_vestal_divine_grace"><![CDATA[Divine Grace]]></entry>
+    <entry id="combat_skill_name_vestal_gods_comfort"><![CDATA[Divine Comfort]]></entry>
+    <entry id="combat_skill_name_vestal_gods_hand"><![CDATA[Hand of Light]]></entry>
+    <entry id="combat_skill_name_vestal_gods_illumination"><![CDATA[Illumination]]></entry>
+    <entry id="combat_skill_name_vestal_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_vestal.judgement"><![CDATA[Judgement]]></entry>
+    <entry id="upgrade_tree_name_vestal.mace_bash"><![CDATA[Mace Bash]]></entry>
+    <entry id="upgrade_tree_name_vestal.dazzling_light"><![CDATA[Dazzling Light]]></entry>
+    <entry id="upgrade_tree_name_vestal.divine_grace"><![CDATA[Divine Grace]]></entry>
+    <entry id="upgrade_tree_name_vestal.gods_comfort"><![CDATA[Divine Comfort]]></entry>
+    <entry id="upgrade_tree_name_vestal.gods_hand"><![CDATA[Hand of Light]]></entry>
+    <entry id="upgrade_tree_name_vestal.gods_illumination"><![CDATA[Illumination]]></entry>
+    <entry id="combat_skill_name_grave_robber_pick"><![CDATA[Pick to the Face]]></entry>
+    <entry id="combat_skill_name_grave_robber_lunge"><![CDATA[Lunge]]></entry>
+    <entry id="combat_skill_name_grave_robber_flashing_daggers"><![CDATA[Flashing Daggers]]></entry>
+    <entry id="combat_skill_name_grave_robber_shadow_fade"><![CDATA[Shadow Fade]]></entry>
+    <entry id="combat_skill_name_grave_robber_thrown_dagger"><![CDATA[Thrown Dagger]]></entry>
+    <entry id="combat_skill_name_grave_robber_poison_dart"><![CDATA[Poison Darts]]></entry>
+    <entry id="combat_skill_name_grave_robber_toxin_trickery"><![CDATA[Toxin Trickery]]></entry>
+    <entry id="combat_skill_name_grave_robber_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_grave_robber.pick"><![CDATA[Pick to the Face]]></entry>
+    <entry id="upgrade_tree_name_grave_robber.lunge"><![CDATA[Lunge]]></entry>
+    <entry id="upgrade_tree_name_grave_robber.flashing_daggers"><![CDATA[Flashing Daggers]]></entry>
+    <entry id="upgrade_tree_name_grave_robber.shadow_fade"><![CDATA[Shadow Fade]]></entry>
+    <entry id="upgrade_tree_name_grave_robber.thrown_dagger"><![CDATA[Thrown Dagger]]></entry>
+    <entry id="upgrade_tree_name_grave_robber.poison_dart"><![CDATA[Poison Darts]]></entry>
+    <entry id="upgrade_tree_name_grave_robber.toxin_trickery"><![CDATA[Toxin Trickery]]></entry>
+    <entry id="combat_skill_name_hellion_wicked_hack"><![CDATA[Wicked Hack]]></entry>
+    <entry id="combat_skill_name_hellion_iron_swan"><![CDATA[Iron Swan]]></entry>
+    <entry id="combat_skill_name_hellion_barbaric_yawp"><![CDATA[Barbaric YAWP!]]></entry>
+    <entry id="combat_skill_name_hellion_if_it_bleeds"><![CDATA[If It Bleeds]]></entry>
+    <entry id="combat_skill_name_hellion_breakthru"><![CDATA[Breakthrough]]></entry>
+    <entry id="combat_skill_name_hellion_adrenaline_rush"><![CDATA[Adrenaline Rush]]></entry>
+    <entry id="combat_skill_name_hellion_bleed_out"><![CDATA[Bleed Out]]></entry>
+    <entry id="combat_skill_name_hellion_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_hellion.wicked_hack"><![CDATA[Wicked Hack]]></entry>
+    <entry id="upgrade_tree_name_hellion.iron_swan"><![CDATA[Iron Swan]]></entry>
+    <entry id="upgrade_tree_name_hellion.barbaric_yawp"><![CDATA[Barbaric YAWP!]]></entry>
+    <entry id="upgrade_tree_name_hellion.if_it_bleeds"><![CDATA[If It Bleeds]]></entry>
+    <entry id="upgrade_tree_name_hellion.breakthru"><![CDATA[Breakthrough]]></entry>
+    <entry id="upgrade_tree_name_hellion.adrenaline_rush"><![CDATA[Adrenaline Rush]]></entry>
+    <entry id="upgrade_tree_name_hellion.bleed_out"><![CDATA[Bleed Out]]></entry>
+    <entry id="combat_skill_name_bounty_hunter_collect_bounty"><![CDATA[Collect Bounty]]></entry>
+    <entry id="combat_skill_name_bounty_hunter_target_tag"><![CDATA[Mark for Death]]></entry>
+    <entry id="combat_skill_name_bounty_hunter_come_hither"><![CDATA[Come Hither]]></entry>
+    <entry id="combat_skill_name_bounty_hunter_uppercut"><![CDATA[Uppercut]]></entry>
+    <entry id="combat_skill_name_bounty_hunter_flashbang"><![CDATA[Flashbang]]></entry>
+    <entry id="combat_skill_name_bounty_hunter_finish_him"><![CDATA[Finish Him]]></entry>
+    <entry id="combat_skill_name_bounty_hunter_hook_and_slice"><![CDATA[Caltrops]]></entry>
+    <entry id="combat_skill_name_bounty_hunter_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_bounty_hunter.collect_bounty"><![CDATA[Collect Bounty]]></entry>
+    <entry id="upgrade_tree_name_bounty_hunter.target_tag"><![CDATA[Mark for Death]]></entry>
+    <entry id="upgrade_tree_name_bounty_hunter.come_hither"><![CDATA[Come Hither]]></entry>
+    <entry id="upgrade_tree_name_bounty_hunter.uppercut"><![CDATA[Uppercut]]></entry>
+    <entry id="upgrade_tree_name_bounty_hunter.flashbang"><![CDATA[Flashbang]]></entry>
+    <entry id="upgrade_tree_name_bounty_hunter.finish_him"><![CDATA[Finish Him]]></entry>
+    <entry id="upgrade_tree_name_bounty_hunter.hook_and_slice"><![CDATA[Maim]]></entry>
+    <entry id="combat_skill_name_occultist_bloodlet"><![CDATA[Sacrificial Stab]]></entry>
+    <entry id="combat_skill_name_occultist_abyssal_artillery"><![CDATA[Abyssal Artillery]]></entry>
+    <entry id="combat_skill_name_occultist_weakening_curse"><![CDATA[Weakening Curse]]></entry>
+    <entry id="combat_skill_name_occultist_wyrd_reconstruction"><![CDATA[Wyrd Reconstruction]]></entry>
+    <entry id="combat_skill_name_occultist_disruptive_curse"><![CDATA[Vulnerability Hex]]></entry>
+    <entry id="combat_skill_name_occultist_hands_from_abyss"><![CDATA[Hands from the Abyss]]></entry>
+    <entry id="combat_skill_name_occultist_daemons_pull"><![CDATA[Daemon's Pull]]></entry>
+    <entry id="combat_skill_name_occultist_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_occultist.bloodlet"><![CDATA[Sacrificial Stab]]></entry>
+    <entry id="upgrade_tree_name_occultist.abyssal_artillery"><![CDATA[Abyssal Artillery]]></entry>
+    <entry id="upgrade_tree_name_occultist.weakening_curse"><![CDATA[Weakening Curse]]></entry>
+    <entry id="upgrade_tree_name_occultist.wyrd_reconstruction"><![CDATA[Wyrd Reconstruction]]></entry>
+    <entry id="upgrade_tree_name_occultist.disruptive_curse"><![CDATA[Vulnerability Hex]]></entry>
+    <entry id="upgrade_tree_name_occultist.hands_from_abyss"><![CDATA[Hands from the Abyss]]></entry>
+    <entry id="upgrade_tree_name_occultist.daemons_pull"><![CDATA[Daemon's Pull]]></entry>
+    <entry id="combat_skill_name_jester_dirk_stab"><![CDATA[Dirk Stab]]></entry>
+    <entry id="combat_skill_name_jester_harvest"><![CDATA[Harvest]]></entry>
+    <entry id="combat_skill_name_jester_heroic_end"><![CDATA[Finale]]></entry>
+    <entry id="combat_skill_name_jester_inspiring_tune"><![CDATA[Inspiring Tune]]></entry>
+    <entry id="combat_skill_name_jester_slice_off"><![CDATA[Slice Off]]></entry>
+    <entry id="combat_skill_name_jester_battle_ballad"><![CDATA[Battle Ballad]]></entry>
+    <entry id="combat_skill_name_jester_solo"><![CDATA[Solo]]></entry>
+    <entry id="combat_skill_name_jester_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_jester.dirk_stab"><![CDATA[Dirk Stab]]></entry>
+    <entry id="upgrade_tree_name_jester.harvest"><![CDATA[Harvest]]></entry>
+    <entry id="upgrade_tree_name_jester.heroic_end"><![CDATA[Finale]]></entry>
+    <entry id="upgrade_tree_name_jester.inspiring_tune"><![CDATA[Inspiring Tune]]></entry>
+    <entry id="upgrade_tree_name_jester.slice_off"><![CDATA[Slice Off]]></entry>
+    <entry id="upgrade_tree_name_jester.battle_ballad"><![CDATA[Battle Ballad]]></entry>
+    <entry id="upgrade_tree_name_jester.solo"><![CDATA[Solo]]></entry>
+    <entry id="combat_skill_name_leper_chop"><![CDATA[Chop]]></entry>
+    <entry id="combat_skill_name_leper_hew"><![CDATA[Hew]]></entry>
+    <entry id="combat_skill_name_leper_focus"><![CDATA[Purge]]></entry>
+    <entry id="combat_skill_name_leper_revenge"><![CDATA[Revenge]]></entry>
+    <entry id="combat_skill_name_leper_solemnity"><![CDATA[Solemnity]]></entry>
+    <entry id="combat_skill_name_leper_withstand"><![CDATA[Withstand]]></entry>
+    <entry id="combat_skill_name_leper_intimidate"><![CDATA[Intimidate]]></entry>
+    <entry id="combat_skill_name_leper_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_leper.chop"><![CDATA[Chop]]></entry>
+    <entry id="upgrade_tree_name_leper.hew"><![CDATA[Hew]]></entry>
+    <entry id="upgrade_tree_name_leper.focus"><![CDATA[Purge]]></entry>
+    <entry id="upgrade_tree_name_leper.revenge"><![CDATA[Revenge]]></entry>
+    <entry id="upgrade_tree_name_leper.solemnity"><![CDATA[Solemnity]]></entry>
+    <entry id="upgrade_tree_name_leper.withstand"><![CDATA[Withstand]]></entry>
+    <entry id="upgrade_tree_name_leper.intimidate"><![CDATA[Intimidate]]></entry>
+    <entry id="combat_skill_name_arbalest_sniper_shot"><![CDATA[Sniper Shot]]></entry>
+    <entry id="combat_skill_name_arbalest_suppressing_fire"><![CDATA[Suppressing Fire]]></entry>
+    <entry id="combat_skill_name_arbalest_sniper_mark"><![CDATA[Sniper's Mark]]></entry>
+    <entry id="combat_skill_name_arbalest_bola"><![CDATA[Bola]]></entry>
+    <entry id="combat_skill_name_arbalest_blindfire"><![CDATA[Blindfire]]></entry>
+    <entry id="combat_skill_name_arbalest_battlefield_bandage"><![CDATA[Battlefield Bandage]]></entry>
+    <entry id="combat_skill_name_arbalest_flare"><![CDATA[Rallying Flare]]></entry>
+    <entry id="combat_skill_name_arbalest_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_arbalest.sniper_shot"><![CDATA[Sniper Shot]]></entry>
+    <entry id="upgrade_tree_name_arbalest.suppressing_fire"><![CDATA[Suppressing Fire]]></entry>
+    <entry id="upgrade_tree_name_arbalest.sniper_mark"><![CDATA[Sniper's Mark]]></entry>
+    <entry id="upgrade_tree_name_arbalest.bola"><![CDATA[Bola]]></entry>
+    <entry id="upgrade_tree_name_arbalest.blindfire"><![CDATA[Blindfire]]></entry>
+    <entry id="upgrade_tree_name_arbalest.battlefield_bandage"><![CDATA[Battlefield Bandage]]></entry>
+    <entry id="upgrade_tree_name_arbalest.flare"><![CDATA[Rallying Flare]]></entry>
+    <entry id="combat_skill_name_man_at_arms_crush"><![CDATA[Crush]]></entry>
+    <entry id="combat_skill_name_man_at_arms_rampart"><![CDATA[Rampart]]></entry>
+    <entry id="combat_skill_name_man_at_arms_bellow"><![CDATA[Bellow]]></entry>
+    <entry id="combat_skill_name_man_at_arms_defender"><![CDATA[Defender]]></entry>
+    <entry id="combat_skill_name_man_at_arms_retribution"><![CDATA[Retribution]]></entry>
+    <entry id="combat_skill_name_man_at_arms_command"><![CDATA[Command]]></entry>
+    <entry id="combat_skill_name_man_at_arms_bolster"><![CDATA[Bolster]]></entry>
+    <entry id="combat_skill_name_man_at_arms_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_man_at_arms.crush"><![CDATA[Crush]]></entry>
+    <entry id="upgrade_tree_name_man_at_arms.rampart"><![CDATA[Rampart]]></entry>
+    <entry id="upgrade_tree_name_man_at_arms.bellow"><![CDATA[Bellow]]></entry>
+    <entry id="upgrade_tree_name_man_at_arms.defender"><![CDATA[Defender]]></entry>
+    <entry id="upgrade_tree_name_man_at_arms.retribution"><![CDATA[Retribution]]></entry>
+    <entry id="upgrade_tree_name_man_at_arms.command"><![CDATA[Command]]></entry>
+    <entry id="upgrade_tree_name_man_at_arms.bolster"><![CDATA[Bolster]]></entry>
+    <entry id="combat_skill_name_houndmaster_hounds_rush"><![CDATA[Hound's Rush]]></entry>
+    <entry id="combat_skill_name_houndmaster_hounds_harry"><![CDATA[Hound's Harry]]></entry>
+    <entry id="combat_skill_name_houndmaster_whistle"><![CDATA[Target Whistle]]></entry>
+    <entry id="combat_skill_name_houndmaster_howl"><![CDATA[Cry Havoc]]></entry>
+    <entry id="combat_skill_name_houndmaster_guard_dog"><![CDATA[Guard Dog]]></entry>
+    <entry id="combat_skill_name_houndmaster_lick_wounds"><![CDATA[Lick Wounds]]></entry>
+    <entry id="combat_skill_name_houndmaster_blackjack"><![CDATA[Blackjack]]></entry>
+    <entry id="combat_skill_name_houndmaster_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_houndmaster.hounds_rush"><![CDATA[Hound's Rush]]></entry>
+    <entry id="upgrade_tree_name_houndmaster.hounds_harry"><![CDATA[Hound's Harry]]></entry>
+    <entry id="upgrade_tree_name_houndmaster.whistle"><![CDATA[Target Whistle]]></entry>
+    <entry id="upgrade_tree_name_houndmaster.howl"><![CDATA[Cry Havoc]]></entry>
+    <entry id="upgrade_tree_name_houndmaster.guard_dog"><![CDATA[Guard Dog]]></entry>
+    <entry id="upgrade_tree_name_houndmaster.lick_wounds"><![CDATA[Lick Wounds]]></entry>
+    <entry id="upgrade_tree_name_houndmaster.blackjack"><![CDATA[Blackjack]]></entry>
+    <entry id="combat_skill_name_abomination_transform"><![CDATA[Transform]]></entry>
+    <entry id="combat_skill_name_abomination_manacles"><![CDATA[Manacles]]></entry>
+    <entry id="combat_skill_name_abomination_vomit"><![CDATA[Beast's Bile]]></entry>
+    <entry id="combat_skill_name_abomination_absolution"><![CDATA[Absolution]]></entry>
+    <entry id="combat_skill_name_abomination_rake"><![CDATA[Rake]]></entry>
+    <entry id="combat_skill_name_abomination_rage"><![CDATA[Rage]]></entry>
+    <entry id="combat_skill_name_abomination_slam"><![CDATA[Slam]]></entry>
+    <entry id="combat_skill_name_abomination_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_abomination.transform"><![CDATA[Transform]]></entry>
+    <entry id="upgrade_tree_name_abomination.manacles"><![CDATA[Manacles]]></entry>
+    <entry id="upgrade_tree_name_abomination.vomit"><![CDATA[Beast's Bile]]></entry>
+    <entry id="upgrade_tree_name_abomination.absolution"><![CDATA[Absolution]]></entry>
+    <entry id="upgrade_tree_name_abomination.rake"><![CDATA[Rake]]></entry>
+    <entry id="upgrade_tree_name_abomination.rage"><![CDATA[Rage]]></entry>
+    <entry id="upgrade_tree_name_abomination.slam"><![CDATA[Slam]]></entry>
+    <entry id="combat_skill_name_antiquarian_kris_stab"><![CDATA[Nervous Stab]]></entry>
+    <entry id="combat_skill_name_antiquarian_festering_vapours"><![CDATA[Festering Vapours]]></entry>
+    <entry id="combat_skill_name_antiquarian_cower"><![CDATA[Get Down!]]></entry>
+    <entry id="combat_skill_name_antiquarian_flashpowder"><![CDATA[Flashpowder]]></entry>
+    <entry id="combat_skill_name_antiquarian_fortifying_vapours"><![CDATA[Fortifying Vapours]]></entry>
+    <entry id="combat_skill_name_antiquarian_invigorating_vapours"><![CDATA[Invigorating Vapours]]></entry>
+    <entry id="combat_skill_name_antiquarian_protect_me"><![CDATA[Protect Me]]></entry>
+    <entry id="combat_skill_name_antiquarian_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_antiquarian.kris_stab"><![CDATA[Nervous Stab]]></entry>
+    <entry id="upgrade_tree_name_antiquarian.festering_vapours"><![CDATA[Festering Vapours]]></entry>
+    <entry id="upgrade_tree_name_antiquarian.cower"><![CDATA[Get Down!]]></entry>
+    <entry id="upgrade_tree_name_antiquarian.flashpowder"><![CDATA[Flashpowder]]></entry>
+    <entry id="upgrade_tree_name_antiquarian.fortifying_vapours"><![CDATA[Fortifying Vapours]]></entry>
+    <entry id="upgrade_tree_name_antiquarian.invigorating_vapours"><![CDATA[Invigorating Vapours]]></entry>
+    <entry id="upgrade_tree_name_antiquarian.protect_me"><![CDATA[Protect Me]]></entry>
+    <entry id="combat_skill_name_musketeer_aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="combat_skill_name_musketeer_call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_buckshot"><![CDATA[Buckshot]]></entry>
+    <entry id="combat_skill_name_musketeer_sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[Patch Up]]></entry>
+    <entry id="combat_skill_name_musketeer_skeet_shot"><![CDATA[Skeet Shot]]></entry>
+    <entry id="combat_skill_name_musketeer_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_musketeer.aimed_shot"><![CDATA[Aimed Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.smokescreen"><![CDATA[Smokescreen]]></entry>
+    <entry id="upgrade_tree_name_musketeer.call_the_shot"><![CDATA[Call the Shot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.buckshot"><![CDATA[Buckshot]]></entry>
+    <entry id="upgrade_tree_name_musketeer.sidearm"><![CDATA[Sidearm]]></entry>
+    <entry id="upgrade_tree_name_musketeer.patch_up"><![CDATA[Patch Up]]></entry>
+    <entry id="upgrade_tree_name_musketeer.skeet_shot"><![CDATA[Skeet Shot]]></entry>
+    <entry id="camping_skill_name_encourage"><![CDATA[ENCOURAGE]]></entry>
+    <entry id="camping_skill_name_first_aid"><![CDATA[WOUND CARE]]></entry>
+    <entry id="camping_skill_name_pep_talk"><![CDATA[PEP TALK]]></entry>
+    <entry id="camping_skill_name_hobby"><![CDATA[HOBBY]]></entry>
+    <entry id="camping_skill_name_how_its_done"><![CDATA[THIS IS HOW WE DO IT]]></entry>
+    <entry id="camping_skill_name_bear_traps"><![CDATA[BEAR TRAPS]]></entry>
+    <entry id="camping_skill_name_tracking"><![CDATA[TRACKING]]></entry>
+    <entry id="camping_skill_name_planned_takedown"><![CDATA[PLANNED TAKEDOWN]]></entry>
+    <entry id="camping_skill_name_scout_ahead"><![CDATA[SCOUT AHEAD]]></entry>
+    <entry id="camping_skill_name_unshakeable_leader"><![CDATA[UNSHAKEABLE LEADER]]></entry>
+    <entry id="camping_skill_name_stand_tall"><![CDATA[STAND TALL]]></entry>
+    <entry id="camping_skill_name_zealous_speech"><![CDATA[ZEALOUS SPEECH]]></entry>
+    <entry id="camping_skill_name_zealous_vigil"><![CDATA[ZEALOUS VIGIL]]></entry>
+    <entry id="camping_skill_name_forage"><![CDATA[SNUFF BOX]]></entry>
+    <entry id="camping_skill_name_gallows_humor"><![CDATA[GALLOWS HUMOR]]></entry>
+    <entry id="camping_skill_name_night_steps"><![CDATA[NIGHT MOVES]]></entry>
+    <entry id="camping_skill_name_pilfer"><![CDATA[PILFER]]></entry>
+    <entry id="camping_skill_name_battle_trance"><![CDATA[BATTLE TRANCE]]></entry>
+    <entry id="camping_skill_name_revel"><![CDATA[REVEL]]></entry>
+    <entry id="camping_skill_name_reject_the_gods"><![CDATA[REJECT THE GODS]]></entry>
+    <entry id="camping_skill_name_sharpen_spear"><![CDATA[SHARPEN SPEAR]]></entry>
+    <entry id="camping_skill_name_uncatchable"><![CDATA[UNPARALLELED FINESSE]]></entry>
+    <entry id="camping_skill_name_clean_guns"><![CDATA[CLEAN GUNS]]></entry>
+    <entry id="camping_skill_name_perimeter_alarms"><![CDATA[PERIMITER ALARMS]]></entry>
+    <entry id="camping_skill_name_bandits_sense"><![CDATA[BANDIT'S SENSE]]></entry>
+    <entry id="camping_skill_name_abandon_hope"><![CDATA[ABANDON HOPE]]></entry>
+    <entry id="camping_skill_name_dark_ritual"><![CDATA[DARK RITUAL]]></entry>
+    <entry id="camping_skill_name_dark_strength"><![CDATA[DARK STRENGTH]]></entry>
+    <entry id="camping_skill_name_unspeakable_commune"><![CDATA[UNSPEAKABLE COMMUNE]]></entry>
+    <entry id="camping_skill_name_experimental_vapours"><![CDATA[EXPERIMENTAL VAPOURS]]></entry>
+    <entry id="camping_skill_name_leeches"><![CDATA[LEECHES]]></entry>
+    <entry id="camping_skill_name_let_the_mask_down"><![CDATA[LET THE MASK DOWN]]></entry>
+    <entry id="camping_skill_name_self_medicate"><![CDATA[SELF-MEDICATE]]></entry>
+    <entry id="camping_skill_name_bless"><![CDATA[BLESS]]></entry>
+    <entry id="camping_skill_name_chant"><![CDATA[CHANT]]></entry>
+    <entry id="camping_skill_name_pray"><![CDATA[PRAY]]></entry>
+    <entry id="camping_skill_name_sanctuary"><![CDATA[SANCTUARY]]></entry>
+    <entry id="camping_skill_name_turn_back_time"><![CDATA[TURN BACK TIME]]></entry>
+    <entry id="camping_skill_name_every_rose"><![CDATA[EVERY ROSE HAS ITS THORN]]></entry>
+    <entry id="camping_skill_name_tigers_eye"><![CDATA[TIGER'S EYE]]></entry>
+    <entry id="camping_skill_name_mockery"><![CDATA[MOCKERY]]></entry>
+    <entry id="camping_skill_name_bloody_shroud"><![CDATA[BLOODY SHROUD]]></entry>
+    <entry id="camping_skill_name_reflection"><![CDATA[REFLECTION]]></entry>
+    <entry id="camping_skill_name_quarantine"><![CDATA[QUARANTINE]]></entry>
+    <entry id="camping_skill_name_preventative_medicine"><![CDATA[THE CURE]]></entry>
+    <entry id="camping_skill_name_field_dressing"><![CDATA[FIELD DRESSING]]></entry>
+    <entry id="camping_skill_name_marching_plan"><![CDATA[MARCHING PLAN]]></entry>
+    <entry id="camping_skill_name_restring_crossbow"><![CDATA[RESTRING CROSSBOW]]></entry>
+    <entry id="camping_skill_name_triage"><![CDATA[TRIAGE]]></entry>
+    <entry id="camping_skill_name_maintain_equipment"><![CDATA[MAINTAIN EQUIPMENT]]></entry>
+    <entry id="camping_skill_name_tactics"><![CDATA[TACTICS]]></entry>
+    <entry id="camping_skill_name_instruction"><![CDATA[INSTRUCTION]]></entry>
+    <entry id="camping_skill_name_weapons_practice"><![CDATA[WEAPONS PRACTICE]]></entry>
+    <entry id="camping_skill_name_hounds_watch"><![CDATA[HOUND'S WATCH]]></entry>
+    <entry id="camping_skill_name_therapy_dog"><![CDATA[THERAPY DOG]]></entry>
+    <entry id="camping_skill_name_pet_the_hound"><![CDATA[MAN'S BEST FRIEND]]></entry>
+    <entry id="camping_skill_name_release_the_hound"><![CDATA[RELEASE THE HOUND]]></entry>
+    <entry id="camping_skill_name_anger_management"><![CDATA[ANGER MANAGEMENT]]></entry>
+    <entry id="camping_skill_name_psych_up"><![CDATA[PSYCH UP]]></entry>
+    <entry id="camping_skill_name_eldritch_blood"><![CDATA[ELDRITCH BLOOD]]></entry>
+    <entry id="camping_skill_name_the_quickening"><![CDATA[THE QUICKENING]]></entry>
+    <entry id="camping_skill_name_supply"><![CDATA[Resupply]]></entry>
+    <entry id="camping_skill_name_trinket_scrounge"><![CDATA[Trinket Scrounge]]></entry>
+    <entry id="camping_skill_name_strange_powders"><![CDATA[Strange Powders]]></entry>
+    <entry id="camping_skill_name_curious_incantation"><![CDATA[Curious Incantation]]></entry>
+    <entry id="camping_skill_name_clean_musket"><![CDATA[CLEAN MUSKET]]></entry>
+    <entry id="crusader_weapon_0"><![CDATA[Battered Longsword]]></entry>
+    <entry id="crusader_weapon_1"><![CDATA[Longsword]]></entry>
+    <entry id="crusader_weapon_2"><![CDATA[Questing Sword]]></entry>
+    <entry id="crusader_weapon_3"><![CDATA[Greatsword]]></entry>
+    <entry id="crusader_weapon_4"><![CDATA["The Long Crusade"]]></entry>
+    <entry id="upgrade_tree_name_crusader.weapon"><![CDATA[Greatsword]]></entry>
+    <entry id="highwayman_weapon_0"><![CDATA[Flintlock, Rusty Blade]]></entry>
+    <entry id="highwayman_weapon_1"><![CDATA[Versatile Pistol & Blade]]></entry>
+    <entry id="highwayman_weapon_2"><![CDATA[Polished Pistol & Blade]]></entry>
+    <entry id="highwayman_weapon_3"><![CDATA[Fluted Pistol, Sharpened Edge]]></entry>
+    <entry id="highwayman_weapon_4"><![CDATA["Thunder & Lightning"]]></entry>
+    <entry id="upgrade_tree_name_highwayman.weapon"><![CDATA[Pistol & Blade]]></entry>
+    <entry id="occultist_weapon_0"><![CDATA[Battered Skull]]></entry>
+    <entry id="occultist_weapon_1"><![CDATA[Bleached Skull]]></entry>
+    <entry id="occultist_weapon_2"><![CDATA[Fine Skull]]></entry>
+    <entry id="occultist_weapon_3"><![CDATA[Scholar's Skull]]></entry>
+    <entry id="occultist_weapon_4"><![CDATA["The Mentor's Skull"]]></entry>
+    <entry id="upgrade_tree_name_occultist.weapon"><![CDATA[Skull]]></entry>
+    <entry id="plague_doctor_weapon_0"><![CDATA[Crude Sachets]]></entry>
+    <entry id="plague_doctor_weapon_1"><![CDATA[Crafted Sachets]]></entry>
+    <entry id="plague_doctor_weapon_2"><![CDATA[Diseased Grenades]]></entry>
+    <entry id="plague_doctor_weapon_3"><![CDATA[Toxic Grenades]]></entry>
+    <entry id="plague_doctor_weapon_4"><![CDATA["The Bubonic Herald"]]></entry>
+    <entry id="upgrade_tree_name_plague_doctor.weapon"><![CDATA[Grenades]]></entry>
+    <entry id="vestal_weapon_0"><![CDATA[Rusted Mace]]></entry>
+    <entry id="vestal_weapon_1"><![CDATA[Steady Mace]]></entry>
+    <entry id="vestal_weapon_2"><![CDATA[Stalwart Mace]]></entry>
+    <entry id="vestal_weapon_3"><![CDATA[Gilded Mace]]></entry>
+    <entry id="vestal_weapon_4"><![CDATA["The Hand of Light"]]></entry>
+    <entry id="upgrade_tree_name_vestal.weapon"><![CDATA[Mace]]></entry>
+    <entry id="grave_robber_weapon_0"><![CDATA[Stolen Pick & Knives]]></entry>
+    <entry id="grave_robber_weapon_1"><![CDATA[Reliable Pick & Knives]]></entry>
+    <entry id="grave_robber_weapon_2"><![CDATA[Balanced Pick & Knives]]></entry>
+    <entry id="grave_robber_weapon_3"><![CDATA[Exceptional Pick & Knives]]></entry>
+    <entry id="grave_robber_weapon_4"><![CDATA["The Razor's Edge"]]></entry>
+    <entry id="upgrade_tree_name_grave_robber.weapon"><![CDATA[Pick & Knives]]></entry>
+    <entry id="hellion_weapon_0"><![CDATA[Primitive Glaive]]></entry>
+    <entry id="hellion_weapon_1"><![CDATA[Reinforced Glaive]]></entry>
+    <entry id="hellion_weapon_2"><![CDATA[Resilient Glaive]]></entry>
+    <entry id="hellion_weapon_3"><![CDATA[Battle-Tested Glaive]]></entry>
+    <entry id="hellion_weapon_4"><![CDATA["The Wolf's Tooth"]]></entry>
+    <entry id="upgrade_tree_name_hellion.weapon"><![CDATA[Glaive]]></entry>
+    <entry id="bounty_hunter_weapon_0"><![CDATA[Abandoned Axe]]></entry>
+    <entry id="bounty_hunter_weapon_1"><![CDATA[Refurbished Axe]]></entry>
+    <entry id="bounty_hunter_weapon_2"><![CDATA[Fine Axe]]></entry>
+    <entry id="bounty_hunter_weapon_3"><![CDATA[Professional's Axe]]></entry>
+    <entry id="bounty_hunter_weapon_4"><![CDATA["The Widowmaker"]]></entry>
+    <entry id="upgrade_tree_name_bounty_hunter.weapon"><![CDATA[Axe]]></entry>
+    <entry id="jester_weapon_0"><![CDATA[Worn Sickle, Untuned Lute]]></entry>
+    <entry id="jester_weapon_1"><![CDATA[Reclaimed Sickle & Lute]]></entry>
+    <entry id="jester_weapon_2"><![CDATA[Sharpened Sickle, Restrung Lute]]></entry>
+    <entry id="jester_weapon_3"><![CDATA[Masterwork Sickle, Fine Lute]]></entry>
+    <entry id="jester_weapon_4"><![CDATA["Slash & Solo"]]></entry>
+    <entry id="upgrade_tree_name_jester.weapon"><![CDATA[Sickle and Lute]]></entry>
+    <entry id="leper_weapon_0"><![CDATA[Rusted Executioner's Sword]]></entry>
+    <entry id="leper_weapon_1"><![CDATA[Heavy Executioner's Sword]]></entry>
+    <entry id="leper_weapon_2"><![CDATA[Sharpened Executioner's Sword]]></entry>
+    <entry id="leper_weapon_3"><![CDATA[Masterful Executioner's Sword]]></entry>
+    <entry id="leper_weapon_4"><![CDATA["The Broken Blade"]]></entry>
+    <entry id="upgrade_tree_name_leper.weapon"><![CDATA[Executioner's Sword]]></entry>
+    <entry id="arbalest_weapon_0"><![CDATA[Crude Crossbow]]></entry>
+    <entry id="arbalest_weapon_1"><![CDATA[Reinforced Crossbow]]></entry>
+    <entry id="arbalest_weapon_2"><![CDATA[Heavy Crossbow]]></entry>
+    <entry id="arbalest_weapon_3"><![CDATA[Veteran's Crossbow]]></entry>
+    <entry id="arbalest_weapon_4"><![CDATA["Millicent"]]></entry>
+    <entry id="upgrade_tree_name_arbalest.weapon"><![CDATA[Arbalest]]></entry>
+    <entry id="man_at_arms_weapon_0"><![CDATA[Footman's Mace]]></entry>
+    <entry id="man_at_arms_weapon_1"><![CDATA[Private's Mace]]></entry>
+    <entry id="man_at_arms_weapon_2"><![CDATA[Sergeant Major's Mace]]></entry>
+    <entry id="man_at_arms_weapon_3"><![CDATA[Master Sergeant's Mace]]></entry>
+    <entry id="man_at_arms_weapon_4"><![CDATA["Bludgeon"]]></entry>
+    <entry id="upgrade_tree_name_man_at_arms.weapon"><![CDATA[Mace]]></entry>
+    <entry id="houndmaster_weapon_0"><![CDATA[Crude Cudgel, Frayed Collar]]></entry>
+    <entry id="houndmaster_weapon_1"><![CDATA[Sturdy Cudgel, Rope Collar]]></entry>
+    <entry id="houndmaster_weapon_2"><![CDATA[Fine Cudgel, Leather Collar]]></entry>
+    <entry id="houndmaster_weapon_3"><![CDATA[Studded Cudgel & Collar]]></entry>
+    <entry id="houndmaster_weapon_4"><![CDATA["Lawbringer"]]></entry>
+    <entry id="upgrade_tree_name_houndmaster.weapon"><![CDATA[Cudgel & Collar]]></entry>
+    <entry id="abomination_weapon_0"><![CDATA[Incubating Mutation]]></entry>
+    <entry id="abomination_weapon_1"><![CDATA[Progressive Mutation]]></entry>
+    <entry id="abomination_weapon_2"><![CDATA[Aggressive Mutation]]></entry>
+    <entry id="abomination_weapon_3"><![CDATA[Malignant Mutation]]></entry>
+    <entry id="abomination_weapon_4"><![CDATA["Damnation's Gift"]]></entry>
+    <entry id="upgrade_tree_name_abomination.weapon"><![CDATA[Mutation]]></entry>
+    <entry id="antiquarian_weapon_0"><![CDATA[Makeshift Censer]]></entry>
+    <entry id="antiquarian_weapon_1"><![CDATA[Pungent Censer]]></entry>
+    <entry id="antiquarian_weapon_2"><![CDATA[Ordained Censer]]></entry>
+    <entry id="antiquarian_weapon_3"><![CDATA[Ceremonial Censer]]></entry>
+    <entry id="antiquarian_weapon_4"><![CDATA["The Sarcophagus"]]></entry>
+    <entry id="upgrade_tree_name_antiquarian.weapon"><![CDATA[Censer]]></entry>
+    <entry id="musketeer_weapon_0"><![CDATA[Shoddy Musket]]></entry>
+    <entry id="musketeer_weapon_1"><![CDATA[Reliable Musket]]></entry>
+    <entry id="musketeer_weapon_2"><![CDATA[Balanced Musket]]></entry>
+    <entry id="musketeer_weapon_3"><![CDATA[Marksman's Musket]]></entry>
+    <entry id="musketeer_weapon_4"><![CDATA["Trueshot"]]></entry>
+    <entry id="upgrade_tree_name_musketeer.weapon"><![CDATA[Musket]]></entry>
+    <entry id="crusader_armour_0"><![CDATA[Rusty Hauberk]]></entry>
+    <entry id="crusader_armour_1"><![CDATA[Chainmail]]></entry>
+    <entry id="crusader_armour_2"><![CDATA[Chain and Plate]]></entry>
+    <entry id="crusader_armour_3"><![CDATA[Plate]]></entry>
+    <entry id="crusader_armour_4"><![CDATA["Zealous Conviction"]]></entry>
+    <entry id="upgrade_tree_name_crusader.armour"><![CDATA[Chain and Plate]]></entry>
+    <entry id="highwayman_armour_0"><![CDATA[Worn Overcoat]]></entry>
+    <entry id="highwayman_armour_1"><![CDATA[Durable Overcoat]]></entry>
+    <entry id="highwayman_armour_2"><![CDATA[Padded Overcoat]]></entry>
+    <entry id="highwayman_armour_3"><![CDATA[Bandit's Overcoat]]></entry>
+    <entry id="highwayman_armour_4"><![CDATA["The Uncatchable"]]></entry>
+    <entry id="upgrade_tree_name_highwayman.armour"><![CDATA[Bandit's Overcoat]]></entry>
+    <entry id="occultist_armour_0"><![CDATA[Tattered Robes]]></entry>
+    <entry id="occultist_armour_1"><![CDATA[Scholar's Robes]]></entry>
+    <entry id="occultist_armour_2"><![CDATA[Academic's Robes]]></entry>
+    <entry id="occultist_armour_3"><![CDATA[Antiquarian's Robes]]></entry>
+    <entry id="occultist_armour_4"><![CDATA["Dark Inquisition"]]></entry>
+    <entry id="upgrade_tree_name_occultist.armour"><![CDATA[Robes]]></entry>
+    <entry id="vestal_armour_0"><![CDATA[Worn Cloth and Plate]]></entry>
+    <entry id="vestal_armour_1"><![CDATA[Light Cloth and Plate]]></entry>
+    <entry id="vestal_armour_2"><![CDATA[Fine Cloth, Hammered Plate]]></entry>
+    <entry id="vestal_armour_3"><![CDATA[Silk Robes, Hardened Plate]]></entry>
+    <entry id="vestal_armour_4"><![CDATA["The Blessed Bulwark"]]></entry>
+    <entry id="upgrade_tree_name_vestal.armour"><![CDATA[Silk and Plate]]></entry>
+    <entry id="hellion_armour_0"><![CDATA[Worn Leather, Tattered Furs]]></entry>
+    <entry id="hellion_armour_1"><![CDATA[Restitched Leather & Furs]]></entry>
+    <entry id="hellion_armour_2"><![CDATA[Fresh Leather & Furs]]></entry>
+    <entry id="hellion_armour_3"><![CDATA[Master-Sewn Leather & Furs]]></entry>
+    <entry id="hellion_armour_4"><![CDATA["The Wolf's Pelt"]]></entry>
+    <entry id="upgrade_tree_name_hellion.armour"><![CDATA[Leather and Furs]]></entry>
+    <entry id="grave_robber_armour_0"><![CDATA[Pilfered Jacket]]></entry>
+    <entry id="grave_robber_armour_1"><![CDATA[Patched Jacket]]></entry>
+    <entry id="grave_robber_armour_2"><![CDATA[Fine Jacket]]></entry>
+    <entry id="grave_robber_armour_3"><![CDATA[Formal Jacket]]></entry>
+    <entry id="grave_robber_armour_4"><![CDATA["Shadowlace"]]></entry>
+    <entry id="upgrade_tree_name_grave_robber.armour"><![CDATA[Pilfered Jacket]]></entry>
+    <entry id="bounty_hunter_armour_0"><![CDATA[Rigid Leathers]]></entry>
+    <entry id="bounty_hunter_armour_1"><![CDATA[Buckled Leathers]]></entry>
+    <entry id="bounty_hunter_armour_2"><![CDATA[Reinforced Leathers]]></entry>
+    <entry id="bounty_hunter_armour_3"><![CDATA[Scale and Leathers]]></entry>
+    <entry id="bounty_hunter_armour_4"><![CDATA["Death's Head"]]></entry>
+    <entry id="upgrade_tree_name_bounty_hunter.armour"><![CDATA[Rigid Leathers]]></entry>
+    <entry id="plague_doctor_armour_0"><![CDATA[Attendant's Robes]]></entry>
+    <entry id="plague_doctor_armour_1"><![CDATA[Intern's Robes]]></entry>
+    <entry id="plague_doctor_armour_2"><![CDATA[Doctor's Robes]]></entry>
+    <entry id="plague_doctor_armour_3"><![CDATA[Surgeon's Robes]]></entry>
+    <entry id="plague_doctor_armour_4"><![CDATA["The Malignant Mantle"]]></entry>
+    <entry id="upgrade_tree_name_plague_doctor.armour"><![CDATA[Doctor's Robes]]></entry>
+    <entry id="jester_armour_0"><![CDATA[Motley Garb]]></entry>
+    <entry id="jester_armour_1"><![CDATA[Mocking Garb]]></entry>
+    <entry id="jester_armour_2"><![CDATA[Padded Garb]]></entry>
+    <entry id="jester_armour_3"><![CDATA[Armored Garb]]></entry>
+    <entry id="jester_armour_4"><![CDATA["The Cruelest Crown"]]></entry>
+    <entry id="upgrade_tree_name_jester.armour"><![CDATA[Motley Garb]]></entry>
+    <entry id="leper_armour_0"><![CDATA[Battered Chestplate]]></entry>
+    <entry id="leper_armour_1"><![CDATA[Reforged Chestplate]]></entry>
+    <entry id="leper_armour_2"><![CDATA[Reinforced Chestplate]]></entry>
+    <entry id="leper_armour_3"><![CDATA[Bronzed Chestplate]]></entry>
+    <entry id="leper_armour_4"><![CDATA["Indomitable"]]></entry>
+    <entry id="upgrade_tree_name_leper.armour"><![CDATA[Bronzed Chestplate]]></entry>
+    <entry id="arbalest_armour_0"><![CDATA[Second-Hand Plate]]></entry>
+    <entry id="arbalest_armour_1"><![CDATA[Pawned Plate]]></entry>
+    <entry id="arbalest_armour_2"><![CDATA[Reliable Plate]]></entry>
+    <entry id="arbalest_armour_3"><![CDATA[Refined Plate]]></entry>
+    <entry id="arbalest_armour_4"><![CDATA["Survivor"]]></entry>
+    <entry id="upgrade_tree_name_arbalest.armour"><![CDATA[Plate Armor]]></entry>
+    <entry id="man_at_arms_armour_0"><![CDATA[Shoddy Splint]]></entry>
+    <entry id="man_at_arms_armour_1"><![CDATA[Military-Issue Armor]]></entry>
+    <entry id="man_at_arms_armour_2"><![CDATA[Sergeant Major's Plate]]></entry>
+    <entry id="man_at_arms_armour_3"><![CDATA[Master Sergeant's Plate]]></entry>
+    <entry id="man_at_arms_armour_4"><![CDATA["The Bulwark"]]></entry>
+    <entry id="upgrade_tree_name_man_at_arms.armour"><![CDATA[Plate Mail]]></entry>
+    <entry id="houndmaster_armour_0"><![CDATA[Ragged Leather Vest]]></entry>
+    <entry id="houndmaster_armour_1"><![CDATA[Stitched Leather Vest]]></entry>
+    <entry id="houndmaster_armour_2"><![CDATA[Resilient Leather Vest]]></entry>
+    <entry id="houndmaster_armour_3"><![CDATA[Splinted Leather Vest]]></entry>
+    <entry id="houndmaster_armour_4"><![CDATA["Gendarme's Pride"]]></entry>
+    <entry id="upgrade_tree_name_houndmaster.armour"><![CDATA[Leather Vest]]></entry>
+    <entry id="abomination_armour_0"><![CDATA[Rusted Chains]]></entry>
+    <entry id="abomination_armour_1"><![CDATA[Iron Chains]]></entry>
+    <entry id="abomination_armour_2"><![CDATA[Steel Chains]]></entry>
+    <entry id="abomination_armour_3"><![CDATA[Hellforged Chains]]></entry>
+    <entry id="abomination_armour_4"><![CDATA["Inhuman Bondage"]]></entry>
+    <entry id="upgrade_tree_name_abomination.armour"><![CDATA[Chains]]></entry>
+    <entry id="antiquarian_armour_0"><![CDATA[Rucksack & Baubles]]></entry>
+    <entry id="antiquarian_armour_1"><![CDATA[Pouches & Curiosities]]></entry>
+    <entry id="antiquarian_armour_2"><![CDATA[Sturdy Satchel & Oddities]]></entry>
+    <entry id="antiquarian_armour_3"><![CDATA[Expedition Pack & Relics]]></entry>
+    <entry id="antiquarian_armour_4"><![CDATA["Timurik's Bottomless Bag"]]></entry>
+    <entry id="upgrade_tree_name_antiquarian.armour"><![CDATA[Pouches & Curiosities]]></entry>
+    <entry id="musketeer_armour_0"><![CDATA[Participant's Vest & Cloak]]></entry>
+    <entry id="musketeer_armour_1"><![CDATA[Competitor's Vest & Cloak]]></entry>
+    <entry id="musketeer_armour_2"><![CDATA[Finalist's Vest & Cloak]]></entry>
+    <entry id="musketeer_armour_3"><![CDATA[Medalist's Vest & Cloak]]></entry>
+    <entry id="musketeer_armour_4"><![CDATA["The Champion's Regalia"]]></entry>
+    <entry id="upgrade_tree_name_musketeer.armour"><![CDATA[Vest & Cloak]]></entry>
+    <entry id="action_verbose_body_guild_bounty_hunter"><![CDATA[A brutally efficient single-target executioner and crowd control specialist. For the Bounty Hunter, planning is key - mark targets for bonus damage or look for opportunties to capitalize on a stunned foe. He can also wreak havoc on an enemy party's order using his grappling hook, flashbangs and powerful uppercut.]]></entry>
+    <entry id="action_verbose_body_guild_crusader"><![CDATA[Battle-hardened and stalwart, the Crusader has held the front lines in a hundred holy wars. He either attacks foes head-on with righteous fury, or embraces a melee support role by leveraging his powerful defensive buffs & off-heals.]]></entry>
+    <entry id="action_verbose_body_guild_grave_robber"><![CDATA[The Grave Robber is a versatile and nimble combatant, moving back and forth through the ranks with ease. She strikes without warning and retreats to the shadows, continuing her assault at range. If her throwing daggers and poison darts aren't getting the job done, she can return to the melee, buffed and slinging her pickaxe!]]></entry>
+    <entry id="action_verbose_body_guild_hellion"><![CDATA[Wild, unpredictable, and utterly ruthless, the Hellion thrills to the spilling of blood! Her massive glaive affords her impressive reach in combat, while its razor sharp edge leaves lasting wounds on enemies. Certain skills leave her exhausted, however, and she may occasionally need to take a turn to recharge her adrenaline before entering the fray once again.]]></entry>
+    <entry id="action_verbose_body_guild_highwayman"><![CDATA[A rogue, a thug and a thief, the Highwayman has honed his skills with dirk and flintlock to devastating effect. Whether at range or in a melee, he is equally effective at dispatching his foes. Be it a grapeshot area-of-effect, or single target bleed, the Highwayman's skills focus solely on dealing damage in a variety of ways.]]></entry>
+    <entry id="action_verbose_body_guild_occultist"><![CDATA[A lifetime of scholarly inquest into ancient and forbidden lore has opened the Occultist's mind to the powers of the void. Debilitating curses and maddeningly impossible support skills are his specialty. The void, however, is an unpredictable power, and consequently skills' effectiveness can vary dramatically, and usually come at a cost of light, or stress.]]></entry>
+    <entry id="action_verbose_body_guild_plague_doctor"><![CDATA[A doctor, researcher and alchemist who prefers to hang back, eating away at her foes with stacking damage-over-time abilties like toxic clouds & plague-filled grenades. She is equally effective in a support role, blinding and confusing foes while enhancing a party's survival with damage-increasing tonics, and remedies for bleed and blight effects.]]></entry>
+    <entry id="action_verbose_body_guild_vestal"><![CDATA[The warrior nun channels her zeal for battle into healing abilities, holy judgements and dazzling explosions of light. A strong backbone to any party, the Vestal can also hold her own on the front like with a powerful mace bash and close-quarters condemnations.]]></entry>
+    <entry id="action_verbose_body_guild_jester"><![CDATA[Combat is a power-ballad - a slow build up, and a grand finale! On the offense, the Jester leaps to and fro in a bloody cacophony, positioning himself for a glorious end in the front ranks! Alternatively, he can hang back, delivering chilling melodies and unsettling riffs that terrorize his foes, and give strength to his allies.]]></entry>
+    <entry id="action_verbose_body_guild_leper"><![CDATA[A ruined man, a warrior, and a poet. The Leper is most effective when given a turn to focus himself before raising his massive blade. When he swings, it is all or nothing - crushing blows and massive damage or the empty whistling of a glancing blow. He is entirely self-sufficient, drawing strength from his life of trauma, and able to channel it into heals, protection, or unrelenting fury.]]></entry>
+    <entry id="action_verbose_body_guild_arbalest"><![CDATA[A runaway turned soldier, the Arbalest is the definitive backline fighter. Able to rain suppressing fire down on the enemy, snipe high profile targets and apply powerfully effective first-aid, she is a rallying point, a turret, a beacon in the dark.]]></entry>
+    <entry id="action_verbose_body_guild_man_at_arms"><![CDATA[The Man-at-Arms is a seasoned veteran of combat, and has been rewarded for his toil with haunting guilt and stoic resilience in equal measure. Immovable, commanding, and focused, the Man-at-Arms breaks down enemy lines with his mace, buckler, and furious battle cries.]]></entry>
+    <entry id="action_verbose_body_guild_houndmaster"><![CDATA[A tough and uncommonly compassionate ex-lawman, the Houndmaster and his faithful Wolfhound work in tandem to bring down their enemies and protect the innocent. Together they stalk the back ranks, bursting forth in a flurry of harrying bleeds, gnashing teeth, and stunning blows. Should the tide of battle turn, the pair can support an ailing party by protecting the weak, and rallying the stressed.]]></entry>
+    <entry id="action_verbose_body_guild_abomination"><![CDATA[Beaten, branded and imprisoned for untold decades, this furtive vagrant hides a terrible secret. The eldritch poison coursing through his veins has given him unspeakable power, at a terrible cost. As his form changes, so too does his role in combat!]]></entry>
+    <entry id="action_verbose_body_guild_antiquarian"><![CDATA[A scholar, researcher, and keen archaeologist, The Antiquarian is not well suited for combat. She is, however, an expert in self-preservation - by making herself scarce in a fight, or demanding an ally protect her, she ensures her survival. If direct combat is unavoidable, The Antiquarian can use her fulminating censer to heal and invigorate allies... and to toxify attackers.]]></entry>
+    <entry id="action_verbose_body_guild_musketeer"><![CDATA[A competitive sharpshooter with little practical experience, the Musketeer excels when enemies remain at a distance. Her unerring eye and practiced reloading makes her a dependable damage dealer, and her smokescreen, first aid, and skeet shot provide some supportive utility to the party.]]></entry>
+    <entry id="action_verbose_body_blacksmith_bounty_hunter"><![CDATA[The Bounty Hunter favors a hand-axe and grappling hook, a pairing that allows him to ensnare and execute his quarry with professional efficiency. His tough leather and scale armor grants decent protection, without sacrificing mobility.]]></entry>
+    <entry id="action_verbose_body_blacksmith_crusader"><![CDATA[The Crusader wears heavy plate mail and wields a longsword. While affording him excellent protection and damage, his armor restricts movement, and his sword cannot be swung effectively in the back ranks.]]></entry>
+    <entry id="action_verbose_body_blacksmith_grave_robber"><![CDATA[A light coat is all the Graverobber will wear, she favours mobility and dexterity over protection. Concealed within her garment are razor sharp throwing daggers, and buckled to her back - a pickaxe!]]></entry>
+    <entry id="action_verbose_body_blacksmith_hellion"><![CDATA[Crude leather and furs may offer little protection, but the Hellion lives to bear the scars of battle proudly. Her priority is wreaking havoc with her massive glaive and bathing in the blood of her adversaries.]]></entry>
+    <entry id="action_verbose_body_blacksmith_highwayman"><![CDATA[The Highwayman's reinforced overcoat will dull a knife-strike, but he relies more on evasion than damage mitigation. His flintlock and short sword afford him great versatility; he is never out of position, or caught unawares.]]></entry>
+    <entry id="action_verbose_body_blacksmith_occultist"><![CDATA[Scholarly robes, better suited to the library than the harsh realities of adventuring, are all the Occultist has brought with him. His rituals and chants require deft movements of hand and finger, so better he be unencumbered that he may channel the power of his morbid fetish: the polished skull of a dead man.]]></entry>
+    <entry id="action_verbose_body_blacksmith_plague_doctor"><![CDATA[The Plague Doctor wears only light cloth - intent on remaining as far from melee combat as possible. From a distance she lobs toxic sachets that can blind, disorient, and eat away at her foes.]]></entry>
+    <entry id="action_verbose_body_blacksmith_vestal"><![CDATA[Blessed plate mail encases the Vestal as she delivers terrible violence and healing comfort in equal measure. A mace in one hand, and holy book in the other - a study in contrasts, and all the more effective for it!]]></entry>
+    <entry id="action_verbose_body_blacksmith_jester"><![CDATA[Clad only in mildewed cloth, the Jester makes a mockery of battle. Only a fool would underestimate the vicious bloodletting power of his sharpened sickle, or the discordant throng of his lute.]]></entry>
+    <entry id="action_verbose_body_blacksmith_leper"><![CDATA[Heavy and restricting, the Leper's bronzed cuirass can absorb all manner of punishing blow. His massive sword is slow to swing, but delivers crushing damage to anyone caught in its unstoppable arc.]]></entry>
+    <entry id="action_verbose_body_blacksmith_arbalest"><![CDATA[The Arbalest takes her name from the massive crossbow she carries into battle. Able to decimate enemies at range with a dizzying array of ammunition, she wears medium plate for increased protection against the volleys she knows are coming...]]></entry>
+    <entry id="action_verbose_body_blacksmith_man_at_arms"><![CDATA[Clad in the heaviest plate, the Man-at-Arms is a mace-wielding wrecking ball! Quick to react and adapt, he is most effective leading the charge, protecting his companions with his unbreakable shield.]]></entry>
+    <entry id="action_verbose_body_blacksmith_houndmaster"><![CDATA[Still clad in his worn Gendarme's uniform, the Houndmaster's focus is on evasion over mitigation. His cudgel is an effecive stunning tool, but it is the Hound who delivers the pair's most crippling blows, especially when he's been fed an invigorating snack!]]></entry>
+    <entry id="action_verbose_body_blacksmith_abomination"><![CDATA[Protected by cursed chains and a thick, leathery hide, the Abomination can withstand the pressures of frontline combat as well as any plated footman. His terrible claws are each the size of daggers, and his progressive mutation manifests in unspeakable strength, speed, and a profusion of bile.]]></entry>
+    <entry id="action_verbose_body_blacksmith_antiquarian"><![CDATA[The Antiquarian wears no armor to speak of, instead relying on the power of the innumerable ancient charms and relics she has collected in her travels. Her eye for rarities is enhanced by the unsettling properties of her censer's vapours, which can offer some utility to the party in ...problematic encounters.]]></entry>
+    <entry id="action_verbose_body_blacksmith_musketeer"><![CDATA[Although outwardly inconspicuous, the Musketeer's regalia is reinforced with hardened leather underarmor, allowing her to sustain a considerable amount of focus fire. Her Musket's variable ammunition and trusty sidearm allow her to deal debilitating damage at range.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_crusader"><![CDATA[Righteousness and conviction inspire compelling speeches around the campfire! In the face of mounting stress, the Crusader is a leader, standing tall and refusing to break. His unshakable belief can assuage companions' fears, reassuring them that despite the hardships they will most certainly endure, all will be well in the end.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_grave_robber"><![CDATA[The Grave Robber is restless, and prefers to wander while the party camps, always on the lookout for trinkets and baubles. She may reluctantly confess to pilfering an item in the Hamlet prior to departure, or entertain those with a similarly morbid sense of humour with a biting and ironic wit.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_hellion"><![CDATA[At camp, the Hellion mutters blasphemies and sharpens her blade, eager to put it to use against the enemy hordes. Raucous and untamed, she is a study in contrasts - sitting stoically preparing for battle, or pealing with the unhinged laughter of the damned.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_highwayman"><![CDATA[The Highwayman relishes cynical preparedness and off-color jokes around the campfire. A life spent running and hiding has taught him the tenuous benefit of perimeter alarms, and late-night investigations into the encroaching shadows.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_occultist"><![CDATA[At rest, the Occultist will attempt communion with the dark and impossible forces of the void in an effort to strengthen himself and the party. Such efforts are frequently taxing, however, exacting a toll in darkness and stress.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_plague_doctor"><![CDATA[The Plague Doctor makes use of experimental remedies and risky healing practices to cure her companions' ailments, and restore their vigor. Eager to prove the effectiveness of her latest untested concotion, she will inject herself - blindly faithful in its beneficial results.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_vestal"><![CDATA[Prayers, chants, and blessings bring peace and solace to the Vestal and her party. She can improve a companion's combat prowess, or instead focus on reducing the group's stress, and making the campsite a safe place for a good night's rest.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_leper"><![CDATA[A loner and an outcast, the Leper will tend to shun the others in his group, preferring instead to mend his own dying body at the expense of the horror such an undertaking brings forth. In order to reduce his stress, the Leper can remove his mask, but such a thing is sure to unsettle his companions.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_jester"><![CDATA[The Jester shines in the flickering light of the campfire, bringing his lute and unerring wit to bear against the fears and stress his companions suffer. He can inspire greater combat prowess, or raise the group's spirits at the cost of singling out a target for his acrimonious scandalizing.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_arbalest"><![CDATA[As on the battlefield, so too at camp. The Arbalest splits her time at rest, providing expert first aid care, and preparing for the next leg of the journey with optimized marching plans and a fresh, taut bowstring.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_man_at_arms"><![CDATA[The Man-at-Arms seeks to either practice his strict training regimen himself, or teach it to his companions. Dexterity, damage and unerring accuracy await those fortified enough to endure his lessons.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_houndmaster"><![CDATA[A clever lawman knows the value of preparedness and information. To this end, the Houndmaster can send his Wolfhound to scout ahead, or put him on watch to ensure a good night's rest. If spirits are low, the dog's affectionate companionship can soften the heart, and ease the mind.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_abomination"><![CDATA[The Abomination spends his restful moments lost in the myriad symptoms of his condition. Pulse-pounding self-buffs provide opportunities for even greater effectiveness in the next melee, while concentrating on suppressing his terrible impulses can alleviate some of the party's apprehension.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_antiquarian"><![CDATA[A researcher never rests! The Antiquarian surveys the campsite, obtaining supply items and even trinkets that the party may have overlooked. Her peculiar utterances and strange powders have been known to put minds at ease, and strengthen corporeal hardiness.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_musketeer"><![CDATA[The Musketeer understands that her's is a delicate instrument, and must be properly maintained if it to be relied upon in the heat of battle! She is equally adept and providing first aid to her companions, if only to keep them between her and her targets.]]></entry>
+    <entry id="building_verbose_abbey"><![CDATA[Upgrading the Abbey increases the types of stress treatments and their effectiveness.]]></entry>
+    <entry id="building_verbose_blacksmith"><![CDATA[Upgrading the Blacksmith allows for purchasing better weapons and armor, and at reduced costs.]]></entry>
+    <entry id="building_verbose_camping_trainer"><![CDATA[Upgrading the Survivalist increases the available Camping skills and reduces their learning cost.]]></entry>
+    <entry id="building_verbose_graveyard"><![CDATA[The Graveyard cannot be upgraded.]]></entry>
+    <entry id="building_verbose_guild"><![CDATA[Upgrading the Guild allows for training of advanced ranks in hero skills.]]></entry>
+    <entry id="building_verbose_nomad_wagon"><![CDATA[Upgrading the Nomad Wagon improves the trinket purchase selection and reduces their cost.]]></entry>
+    <entry id="building_verbose_sanitarium"><![CDATA[Upgrading the Sanitarium allows for more quirk treatment slots and reduces treatment cost.]]></entry>
+    <entry id="building_verbose_stage_coach"><![CDATA[Upgrading the Stagecoach increases the available heroes for hire each week or increases your roster size.]]></entry>
+    <entry id="building_verbose_tavern"><![CDATA[Upgrading the Tavern increases the types of stress treatments and their effectiveness.]]></entry>
+    <entry id="str_bark_clean_musket"><![CDATA[Honed and polished, you'll fire true now, my love.]]></entry>
+  </language>
+  <language id="schinese">
     <entry id="hero_class_name_crusader"><![CDATA[十字军]]></entry>
     <entry id="hero_class_name_bounty_hunter"><![CDATA[赏金猎人]]></entry>
     <entry id="hero_class_name_vestal"><![CDATA[修女]]></entry>
@@ -10,7 +589,7 @@
     <entry id="hero_class_name_highwayman"><![CDATA[强盗]]></entry>
     <entry id="hero_class_name_hellion"><![CDATA[恶人]]></entry>
     <entry id="hero_class_name_jester"><![CDATA[小丑]]></entry>
-    <entry id="hero_class_name_leper"><![CDATA[麻风剑客]]></entry>
+    <entry id="hero_class_name_leper"><![CDATA[麻风病人]]></entry>
     <entry id="hero_class_name_arbalest"><![CDATA[弩手]]></entry>
     <entry id="hero_class_name_man_at_arms"><![CDATA[重装战士]]></entry>
     <entry id="hero_class_name_houndmaster"><![CDATA[驯犬师]]></entry>
@@ -36,60 +615,60 @@
     <entry id="combat_skill_name_factotum_bold_slice"><![CDATA[英勇切割]]></entry>
     <entry id="combat_skill_name_factotum_pistol_shot"><![CDATA[手枪射击]]></entry>
     <entry id="combat_skill_name_factotum_point_blank_shot"><![CDATA[抵近射击]]></entry>
-    <entry id="combat_skill_name_factotum_grape_shot_blast"><![CDATA[霰弹爆击]]></entry>
+    <entry id="combat_skill_name_factotum_grape_shot_blast"><![CDATA[霰弹暴击]]></entry>
     <entry id="combat_skill_name_factotum_move"><![CDATA[移动]]></entry>
     <entry id="combat_skill_name_highwayman_wicked_slice"><![CDATA[邪恶切割]]></entry>
     <entry id="combat_skill_name_highwayman_pistol_shot"><![CDATA[手枪射击]]></entry>
     <entry id="combat_skill_name_highwayman_point_blank_shot"><![CDATA[抵近射击]]></entry>
-    <entry id="combat_skill_name_highwayman_grape_shot_blast"><![CDATA[霰弹爆击]]></entry>
+    <entry id="combat_skill_name_highwayman_grape_shot_blast"><![CDATA[霰弹暴击]]></entry>
     <entry id="combat_skill_name_highwayman_take_aim"><![CDATA[追踪射击]]></entry>
-    <entry id="combat_skill_name_highwayman_duelist_advance"><![CDATA[决斗者的冲刺]]></entry>
+    <entry id="combat_skill_name_highwayman_duelist_advance"><![CDATA[决斗者的进击]]></entry>
     <entry id="combat_skill_name_highwayman_opened_vein"><![CDATA[切开血管]]></entry>
     <entry id="combat_skill_name_highwayman_move"><![CDATA[移动]]></entry>
     <entry id="upgrade_tree_name_highwayman.wicked_slice"><![CDATA[邪恶切割]]></entry>
     <entry id="upgrade_tree_name_highwayman.pistol_shot"><![CDATA[手枪射击]]></entry>
     <entry id="upgrade_tree_name_highwayman.point_blank_shot"><![CDATA[抵近射击]]></entry>
     <entry id="upgrade_tree_name_highwayman.grape_shot_blast"><![CDATA[霰弹爆击]]></entry>
-    <entry id="upgrade_tree_name_highwayman.take_aim"><![CDATA[追踪射击]]></entry>
+    <entry id="upgrade_tree_name_highwayman.take_aim"><![CDATA[瞄准]]></entry>
     <entry id="upgrade_tree_name_highwayman.duelist_advance"><![CDATA[决斗者的冲刺]]></entry>
     <entry id="upgrade_tree_name_highwayman.opened_vein"><![CDATA[切开血管]]></entry>
-    <entry id="combat_skill_name_plague_doctor_noxious_blast"><![CDATA[毒性冲击]]></entry>
+    <entry id="combat_skill_name_plague_doctor_noxious_blast"><![CDATA[毒性暴击]]></entry>
     <entry id="combat_skill_name_plague_doctor_plague_grenade"><![CDATA[瘟疫手雷]]></entry>
     <entry id="combat_skill_name_plague_doctor_blinding_gas"><![CDATA[致盲气体]]></entry>
     <entry id="combat_skill_name_plague_doctor_incision"><![CDATA[切开]]></entry>
     <entry id="combat_skill_name_plague_doctor_battlefield_medicine"><![CDATA[战地药疗]]></entry>
     <entry id="combat_skill_name_plague_doctor_emboldening_vapours"><![CDATA[壮胆蒸汽]]></entry>
-    <entry id="combat_skill_name_plague_doctor_disorienting_blast"><![CDATA[迷惑冲击]]></entry>
+    <entry id="combat_skill_name_plague_doctor_disorienting_blast"><![CDATA[迷惑暴击]]></entry>
     <entry id="combat_skill_name_plague_doctor_move"><![CDATA[移动]]></entry>
-    <entry id="upgrade_tree_name_plague_doctor.noxious_blast"><![CDATA[毒性冲击]]></entry>
+    <entry id="upgrade_tree_name_plague_doctor.noxious_blast"><![CDATA[毒性暴击]]></entry>
     <entry id="upgrade_tree_name_plague_doctor.plague_grenade"><![CDATA[瘟疫手雷]]></entry>
     <entry id="upgrade_tree_name_plague_doctor.blinding_gas"><![CDATA[致盲气体]]></entry>
     <entry id="upgrade_tree_name_plague_doctor.incision"><![CDATA[切开]]></entry>
     <entry id="upgrade_tree_name_plague_doctor.battlefield_medicine"><![CDATA[战地药疗]]></entry>
     <entry id="upgrade_tree_name_plague_doctor.emboldening_vapours"><![CDATA[壮胆蒸汽]]></entry>
-    <entry id="upgrade_tree_name_plague_doctor.disorienting_blast"><![CDATA[迷惑冲击]]></entry>
+    <entry id="upgrade_tree_name_plague_doctor.disorienting_blast"><![CDATA[迷惑暴击]]></entry>
     <entry id="combat_skill_name_vestal_judgement"><![CDATA[裁决]]></entry>
-    <entry id="combat_skill_name_vestal_mace_bash"><![CDATA[锤击]]></entry>
-    <entry id="combat_skill_name_vestal_dazzling_light"><![CDATA[炫目圣光]]></entry>
+    <entry id="combat_skill_name_vestal_mace_bash"><![CDATA[钉锤痛击]]></entry>
+    <entry id="combat_skill_name_vestal_dazzling_light"><![CDATA[炫目光线]]></entry>
     <entry id="combat_skill_name_vestal_divine_grace"><![CDATA[神圣恩惠]]></entry>
     <entry id="combat_skill_name_vestal_gods_comfort"><![CDATA[神圣抚慰]]></entry>
-    <entry id="combat_skill_name_vestal_gods_hand"><![CDATA[圣光之手]]></entry>
-    <entry id="combat_skill_name_vestal_gods_illumination"><![CDATA[强光]]></entry>
+    <entry id="combat_skill_name_vestal_gods_hand"><![CDATA[光之手]]></entry>
+    <entry id="combat_skill_name_vestal_gods_illumination"><![CDATA[照明]]></entry>
     <entry id="combat_skill_name_vestal_move"><![CDATA[移动]]></entry>
     <entry id="upgrade_tree_name_vestal.judgement"><![CDATA[裁决]]></entry>
-    <entry id="upgrade_tree_name_vestal.mace_bash"><![CDATA[锤击]]></entry>
-    <entry id="upgrade_tree_name_vestal.dazzling_light"><![CDATA[炫目圣光]]></entry>
+    <entry id="upgrade_tree_name_vestal.mace_bash"><![CDATA[钉锤痛击]]></entry>
+    <entry id="upgrade_tree_name_vestal.dazzling_light"><![CDATA[炫目光线]]></entry>
     <entry id="upgrade_tree_name_vestal.divine_grace"><![CDATA[神圣恩惠]]></entry>
     <entry id="upgrade_tree_name_vestal.gods_comfort"><![CDATA[神圣抚慰]]></entry>
-    <entry id="upgrade_tree_name_vestal.gods_hand"><![CDATA[圣光之手]]></entry>
-    <entry id="upgrade_tree_name_vestal.gods_illumination"><![CDATA[强光]]></entry>
+    <entry id="upgrade_tree_name_vestal.gods_hand"><![CDATA[光之手]]></entry>
+    <entry id="upgrade_tree_name_vestal.gods_illumination"><![CDATA[照明]]></entry>
     <entry id="combat_skill_name_grave_robber_pick"><![CDATA[劈头盖脸]]></entry>
     <entry id="combat_skill_name_grave_robber_lunge"><![CDATA[跃进]]></entry>
     <entry id="combat_skill_name_grave_robber_flashing_daggers"><![CDATA[闪光匕首]]></entry>
     <entry id="combat_skill_name_grave_robber_shadow_fade"><![CDATA[影遁]]></entry>
     <entry id="combat_skill_name_grave_robber_thrown_dagger"><![CDATA[投掷匕首]]></entry>
     <entry id="combat_skill_name_grave_robber_poison_dart"><![CDATA[毒镖]]></entry>
-    <entry id="combat_skill_name_grave_robber_toxin_trickery"><![CDATA[预谋]]></entry>
+    <entry id="combat_skill_name_grave_robber_toxin_trickery"><![CDATA[毒素诡计]]></entry>
     <entry id="combat_skill_name_grave_robber_move"><![CDATA[移动]]></entry>
     <entry id="upgrade_tree_name_grave_robber.pick"><![CDATA[劈头盖脸]]></entry>
     <entry id="upgrade_tree_name_grave_robber.lunge"><![CDATA[跃进]]></entry>
@@ -127,11 +706,11 @@
     <entry id="upgrade_tree_name_bounty_hunter.uppercut"><![CDATA[上勾拳]]></entry>
     <entry id="upgrade_tree_name_bounty_hunter.flashbang"><![CDATA[闪光弹]]></entry>
     <entry id="upgrade_tree_name_bounty_hunter.finish_him"><![CDATA[了结他]]></entry>
-    <entry id="upgrade_tree_name_bounty_hunter.hook_and_slice"><![CDATA[绳钩切削]]></entry>
+    <entry id="upgrade_tree_name_bounty_hunter.hook_and_slice"><![CDATA[重伤残害]]></entry>
     <entry id="combat_skill_name_occultist_bloodlet"><![CDATA[献祭刺击]]></entry>
     <entry id="combat_skill_name_occultist_abyssal_artillery"><![CDATA[深渊炮击]]></entry>
     <entry id="combat_skill_name_occultist_weakening_curse"><![CDATA[虚弱诅咒]]></entry>
-    <entry id="combat_skill_name_occultist_wyrd_reconstruction"><![CDATA[命运重构]]></entry>
+    <entry id="combat_skill_name_occultist_wyrd_reconstruction"><![CDATA[Wyrd重组]]></entry>
     <entry id="combat_skill_name_occultist_disruptive_curse"><![CDATA[弱点法术]]></entry>
     <entry id="combat_skill_name_occultist_hands_from_abyss"><![CDATA[深渊之手]]></entry>
     <entry id="combat_skill_name_occultist_daemons_pull"><![CDATA[恶魔牵引]]></entry>
@@ -139,7 +718,7 @@
     <entry id="upgrade_tree_name_occultist.bloodlet"><![CDATA[献祭刺击]]></entry>
     <entry id="upgrade_tree_name_occultist.abyssal_artillery"><![CDATA[深渊炮击]]></entry>
     <entry id="upgrade_tree_name_occultist.weakening_curse"><![CDATA[虚弱诅咒]]></entry>
-    <entry id="upgrade_tree_name_occultist.wyrd_reconstruction"><![CDATA[命运重构 ]]></entry>
+    <entry id="upgrade_tree_name_occultist.wyrd_reconstruction"><![CDATA[命运重构]]></entry>
     <entry id="upgrade_tree_name_occultist.disruptive_curse"><![CDATA[弱点诅咒]]></entry>
     <entry id="upgrade_tree_name_occultist.hands_from_abyss"><![CDATA[深渊之手]]></entry>
     <entry id="upgrade_tree_name_occultist.daemons_pull"><![CDATA[神之一拉]]></entry>
@@ -176,7 +755,7 @@
     <entry id="combat_skill_name_arbalest_sniper_shot"><![CDATA[狙击]]></entry>
     <entry id="combat_skill_name_arbalest_suppressing_fire"><![CDATA[压制射击]]></entry>
     <entry id="combat_skill_name_arbalest_sniper_mark"><![CDATA[狙击手印记]]></entry>
-    <entry id="combat_skill_name_arbalest_bola"><![CDATA[套牛绳球]]></entry>
+    <entry id="combat_skill_name_arbalest_bola"><![CDATA[绳球]]></entry>
     <entry id="combat_skill_name_arbalest_blindfire"><![CDATA[盲射]]></entry>
     <entry id="combat_skill_name_arbalest_battlefield_bandage"><![CDATA[战场包扎]]></entry>
     <entry id="combat_skill_name_arbalest_flare"><![CDATA[照明弹]]></entry>
@@ -204,12 +783,12 @@
     <entry id="upgrade_tree_name_man_at_arms.command"><![CDATA[指挥]]></entry>
     <entry id="upgrade_tree_name_man_at_arms.bolster"><![CDATA[支援]]></entry>
     <entry id="combat_skill_name_houndmaster_hounds_rush"><![CDATA[猎犬冲锋]]></entry>
-    <entry id="combat_skill_name_houndmaster_hounds_harry"><![CDATA[猎犬游击]]></entry>
+    <entry id="combat_skill_name_houndmaster_hounds_harry"><![CDATA[猎犬掠夺]]></entry>
     <entry id="combat_skill_name_houndmaster_whistle"><![CDATA[目标口哨]]></entry>
     <entry id="combat_skill_name_houndmaster_howl"><![CDATA[振奋嚎叫]]></entry>
-    <entry id="combat_skill_name_houndmaster_guard_dog"><![CDATA[猎犬守卫]]></entry>
+    <entry id="combat_skill_name_houndmaster_guard_dog"><![CDATA[守卫犬]]></entry>
     <entry id="combat_skill_name_houndmaster_lick_wounds"><![CDATA[舔舐伤口]]></entry>
-    <entry id="combat_skill_name_houndmaster_blackjack"><![CDATA[棍击]]></entry>
+    <entry id="combat_skill_name_houndmaster_blackjack"><![CDATA[金属棍]]></entry>
     <entry id="combat_skill_name_houndmaster_move"><![CDATA[移动]]></entry>
     <entry id="upgrade_tree_name_houndmaster.hounds_rush"><![CDATA[猎犬冲锋]]></entry>
     <entry id="upgrade_tree_name_houndmaster.hounds_harry"><![CDATA[猎犬游击]]></entry>
@@ -217,14 +796,14 @@
     <entry id="upgrade_tree_name_houndmaster.howl"><![CDATA[振奋嚎叫]]></entry>
     <entry id="upgrade_tree_name_houndmaster.guard_dog"><![CDATA[猎犬守卫]]></entry>
     <entry id="upgrade_tree_name_houndmaster.lick_wounds"><![CDATA[舔舐伤口]]></entry>
-    <entry id="upgrade_tree_name_houndmaster.blackjack"><![CDATA[棍击]]></entry>
+    <entry id="upgrade_tree_name_houndmaster.blackjack"><![CDATA[短棍]]></entry>
     <entry id="combat_skill_name_abomination_transform"><![CDATA[变身]]></entry>
-    <entry id="combat_skill_name_abomination_manacles"><![CDATA[锁链晕击]]></entry>
-    <entry id="combat_skill_name_abomination_vomit"><![CDATA[猛兽胆汁]]></entry>
+    <entry id="combat_skill_name_abomination_manacles"><![CDATA[镣铐]]></entry>
+    <entry id="combat_skill_name_abomination_vomit"><![CDATA[猛兽的怒气]]></entry>
     <entry id="combat_skill_name_abomination_absolution"><![CDATA[赦免]]></entry>
     <entry id="combat_skill_name_abomination_rake"><![CDATA[割裂]]></entry>
     <entry id="combat_skill_name_abomination_rage"><![CDATA[狂暴]]></entry>
-    <entry id="combat_skill_name_abomination_slam"><![CDATA[头锤猛击]]></entry>
+    <entry id="combat_skill_name_abomination_slam"><![CDATA[猛击]]></entry>
     <entry id="combat_skill_name_abomination_move"><![CDATA[移动]]></entry>
     <entry id="upgrade_tree_name_abomination.transform"><![CDATA[变身]]></entry>
     <entry id="upgrade_tree_name_abomination.manacles"><![CDATA[锁链晕击]]></entry>
@@ -244,7 +823,7 @@
     <entry id="upgrade_tree_name_antiquarian.kris_stab"><![CDATA[紧张刺击]]></entry>
     <entry id="upgrade_tree_name_antiquarian.festering_vapours"><![CDATA[溃烂蒸汽]]></entry>
     <entry id="upgrade_tree_name_antiquarian.cower"><![CDATA[爬下！]]></entry>
-    <entry id="upgrade_tree_name_antiquarian.flashpowder"><![CDATA[闪光粉末]]></entry>
+    <entry id="upgrade_tree_name_antiquarian.flashpowder"><![CDATA[闪光粉]]></entry>
     <entry id="upgrade_tree_name_antiquarian.fortifying_vapours"><![CDATA[强健蒸汽]]></entry>
     <entry id="upgrade_tree_name_antiquarian.invigorating_vapours"><![CDATA[提神蒸汽]]></entry>
     <entry id="upgrade_tree_name_antiquarian.protect_me"><![CDATA[保护我]]></entry>
@@ -252,8 +831,8 @@
     <entry id="combat_skill_name_musketeer_smokescreen"><![CDATA[烟幕弹]]></entry>
     <entry id="combat_skill_name_musketeer_call_the_shot"><![CDATA[射击命令]]></entry>
     <entry id="combat_skill_name_musketeer_buckshot"><![CDATA[猎兽铅弹]]></entry>
-    <entry id="combat_skill_name_musketeer_sidearm"><![CDATA[副手枪击]]></entry>
-    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[包扎]]></entry>
+    <entry id="combat_skill_name_musketeer_sidearm"><![CDATA[随身武器]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[修补]]></entry>
     <entry id="combat_skill_name_musketeer_skeet_shot"><![CDATA[照明弹]]></entry>
     <entry id="combat_skill_name_musketeer_move"><![CDATA[挪步]]></entry>
     <entry id="upgrade_tree_name_musketeer.aimed_shot"><![CDATA[瞄准射击]]></entry>
@@ -267,10 +846,10 @@
     <entry id="camping_skill_name_first_aid"><![CDATA[处理伤口]]></entry>
     <entry id="camping_skill_name_pep_talk"><![CDATA[打气谈话]]></entry>
     <entry id="camping_skill_name_hobby"><![CDATA[爱好]]></entry>
-    <entry id="camping_skill_name_how_its_done"><![CDATA[这就是我们做事的方法]]></entry>
+    <entry id="camping_skill_name_how_its_done"><![CDATA[我们就是这样做的]]></entry>
     <entry id="camping_skill_name_bear_traps"><![CDATA[捕兽陷阱]]></entry>
     <entry id="camping_skill_name_tracking"><![CDATA[追踪]]></entry>
-    <entry id="camping_skill_name_planned_takedown"><![CDATA[设计击倒]]></entry>
+    <entry id="camping_skill_name_planned_takedown"><![CDATA[计划性击倒]]></entry>
     <entry id="camping_skill_name_scout_ahead"><![CDATA[先头侦察]]></entry>
     <entry id="camping_skill_name_unshakeable_leader"><![CDATA[坚定领袖]]></entry>
     <entry id="camping_skill_name_stand_tall"><![CDATA[巍然屹立]]></entry>
@@ -281,7 +860,7 @@
     <entry id="camping_skill_name_night_steps"><![CDATA[夜间行动]]></entry>
     <entry id="camping_skill_name_pilfer"><![CDATA[偷窃]]></entry>
     <entry id="camping_skill_name_battle_trance"><![CDATA[战斗专注]]></entry>
-    <entry id="camping_skill_name_revel"><![CDATA[啤酒狂欢]]></entry>
+    <entry id="camping_skill_name_revel"><![CDATA[狂欢]]></entry>
     <entry id="camping_skill_name_reject_the_gods"><![CDATA[拒绝诸神]]></entry>
     <entry id="camping_skill_name_sharpen_spear"><![CDATA[打磨武器]]></entry>
     <entry id="camping_skill_name_uncatchable"><![CDATA[机敏无双]]></entry>
@@ -301,28 +880,28 @@
     <entry id="camping_skill_name_pray"><![CDATA[祈祷]]></entry>
     <entry id="camping_skill_name_sanctuary"><![CDATA[圣域]]></entry>
     <entry id="camping_skill_name_turn_back_time"><![CDATA[回溯时光]]></entry>
-    <entry id="camping_skill_name_every_rose"><![CDATA[玫瑰有刺]]></entry>
+    <entry id="camping_skill_name_every_rose"><![CDATA[玫瑰皆有刺]]></entry>
     <entry id="camping_skill_name_tigers_eye"><![CDATA[猛虎之眼]]></entry>
     <entry id="camping_skill_name_mockery"><![CDATA[嘲弄]]></entry>
     <entry id="camping_skill_name_bloody_shroud"><![CDATA[血色寿衣]]></entry>
     <entry id="camping_skill_name_reflection"><![CDATA[沉思]]></entry>
     <entry id="camping_skill_name_quarantine"><![CDATA[隔离]]></entry>
     <entry id="camping_skill_name_preventative_medicine"><![CDATA[痊愈]]></entry>
-    <entry id="camping_skill_name_field_dressing"><![CDATA[战地急救包]]></entry>
+    <entry id="camping_skill_name_field_dressing"><![CDATA[战地绷带]]></entry>
     <entry id="camping_skill_name_marching_plan"><![CDATA[行军计划]]></entry>
-    <entry id="camping_skill_name_restring_crossbow"><![CDATA[给弩重新拉弦]]></entry>
+    <entry id="camping_skill_name_restring_crossbow"><![CDATA[为弩重新拉弦]]></entry>
     <entry id="camping_skill_name_triage"><![CDATA[群体治疗]]></entry>
     <entry id="camping_skill_name_maintain_equipment"><![CDATA[维护装备]]></entry>
     <entry id="camping_skill_name_tactics"><![CDATA[战术]]></entry>
     <entry id="camping_skill_name_instruction"><![CDATA[指令]]></entry>
     <entry id="camping_skill_name_weapons_practice"><![CDATA[武器练习]]></entry>
     <entry id="camping_skill_name_hounds_watch"><![CDATA[猎犬守望]]></entry>
-    <entry id="camping_skill_name_therapy_dog"><![CDATA[疗法狗]]></entry>
+    <entry id="camping_skill_name_therapy_dog"><![CDATA[治疗犬]]></entry>
     <entry id="camping_skill_name_pet_the_hound"><![CDATA[人类最好的朋友]]></entry>
-    <entry id="camping_skill_name_release_the_hound"><![CDATA[释放猎犬]]></entry>
+    <entry id="camping_skill_name_release_the_hound"><![CDATA[放出猎犬]]></entry>
     <entry id="camping_skill_name_anger_management"><![CDATA[控制怒气]]></entry>
     <entry id="camping_skill_name_psych_up"><![CDATA[集中精神]]></entry>
-    <entry id="camping_skill_name_eldritch_blood"><![CDATA[可怖之血]]></entry>
+    <entry id="camping_skill_name_eldritch_blood"><![CDATA[恐怖之血]]></entry>
     <entry id="camping_skill_name_the_quickening"><![CDATA[加速]]></entry>
     <entry id="camping_skill_name_supply"><![CDATA[再补给]]></entry>
     <entry id="camping_skill_name_trinket_scrounge"><![CDATA[饰品鉴查]]></entry>
@@ -331,31 +910,31 @@
     <entry id="camping_skill_name_clean_musket"><![CDATA[清洁枪支]]></entry>
     <entry id="crusader_weapon_0"><![CDATA[破旧长剑]]></entry>
     <entry id="crusader_weapon_1"><![CDATA[长剑]]></entry>
-    <entry id="crusader_weapon_2"><![CDATA[远征之剑]]></entry>
+    <entry id="crusader_weapon_2"><![CDATA[探寻之剑]]></entry>
     <entry id="crusader_weapon_3"><![CDATA[巨剑]]></entry>
     <entry id="crusader_weapon_4"><![CDATA[“漫长圣战”]]></entry>
-    <entry id="upgrade_tree_name_crusader.weapon"><![CDATA[剑]]></entry>
+    <entry id="upgrade_tree_name_crusader.weapon"><![CDATA[巨剑]]></entry>
     <entry id="highwayman_weapon_0"><![CDATA[燧发枪，生锈的刀]]></entry>
-    <entry id="highwayman_weapon_1"><![CDATA[灵活的枪和刀]]></entry>
+    <entry id="highwayman_weapon_1"><![CDATA[万能的枪和刀]]></entry>
     <entry id="highwayman_weapon_2"><![CDATA[抛光过的枪和刀]]></entry>
     <entry id="highwayman_weapon_3"><![CDATA[凹槽手枪，尖锐刀锋]]></entry>
     <entry id="highwayman_weapon_4"><![CDATA[“电闪与雷鸣”]]></entry>
     <entry id="upgrade_tree_name_highwayman.weapon"><![CDATA[手枪和刀]]></entry>
     <entry id="occultist_weapon_0"><![CDATA[残缺头骨]]></entry>
-    <entry id="occultist_weapon_1"><![CDATA[浆白头骨]]></entry>
+    <entry id="occultist_weapon_1"><![CDATA[漂白头骨]]></entry>
     <entry id="occultist_weapon_2"><![CDATA[精致头骨]]></entry>
     <entry id="occultist_weapon_3"><![CDATA[学者头骨]]></entry>
     <entry id="occultist_weapon_4"><![CDATA[“导师的头骨”]]></entry>
     <entry id="upgrade_tree_name_occultist.weapon"><![CDATA[头骨]]></entry>
-    <entry id="plague_doctor_weapon_0"><![CDATA[原油的香囊]]></entry>
-    <entry id="plague_doctor_weapon_1"><![CDATA[精致的香囊]]></entry>
+    <entry id="plague_doctor_weapon_0"><![CDATA[天然香囊]]></entry>
+    <entry id="plague_doctor_weapon_1"><![CDATA[精致香囊]]></entry>
     <entry id="plague_doctor_weapon_2"><![CDATA[染病炸弹]]></entry>
     <entry id="plague_doctor_weapon_3"><![CDATA[染毒炸弹]]></entry>
-    <entry id="plague_doctor_weapon_4"><![CDATA["淋巴先驱者" ]]></entry>
+    <entry id="plague_doctor_weapon_4"><![CDATA["淋巴先驱者"]]></entry>
     <entry id="upgrade_tree_name_plague_doctor.weapon"><![CDATA[炸弹]]></entry>
     <entry id="vestal_weapon_0"><![CDATA[生锈战锤]]></entry>
     <entry id="vestal_weapon_1"><![CDATA[可靠战锤]]></entry>
-    <entry id="vestal_weapon_2"><![CDATA[坚实战锤]]></entry>
+    <entry id="vestal_weapon_2"><![CDATA[勇猛战锤]]></entry>
     <entry id="vestal_weapon_3"><![CDATA[镀金战锤]]></entry>
     <entry id="vestal_weapon_4"><![CDATA[“圣光之手”]]></entry>
     <entry id="upgrade_tree_name_vestal.weapon"><![CDATA[战锤]]></entry>
@@ -363,7 +942,7 @@
     <entry id="grave_robber_weapon_1"><![CDATA[可靠的镐和刀]]></entry>
     <entry id="grave_robber_weapon_2"><![CDATA[平衡的镐和刀]]></entry>
     <entry id="grave_robber_weapon_3"><![CDATA[出色的镐和刀]]></entry>
-    <entry id="grave_robber_weapon_4"><![CDATA[ "锐锋剃刀"]]></entry>
+    <entry id="grave_robber_weapon_4"><![CDATA["锐锋剃刀"]]></entry>
     <entry id="upgrade_tree_name_grave_robber.weapon"><![CDATA[镐和刀]]></entry>
     <entry id="hellion_weapon_0"><![CDATA[粗制长柄刀]]></entry>
     <entry id="hellion_weapon_1"><![CDATA[强化长柄刀]]></entry>
@@ -373,7 +952,7 @@
     <entry id="upgrade_tree_name_hellion.weapon"><![CDATA[长柄刀]]></entry>
     <entry id="bounty_hunter_weapon_0"><![CDATA[遗弃的战斧]]></entry>
     <entry id="bounty_hunter_weapon_1"><![CDATA[翻新的战斧]]></entry>
-    <entry id="bounty_hunter_weapon_2"><![CDATA[优良的战斧]]></entry>
+    <entry id="bounty_hunter_weapon_2"><![CDATA[精良战斧]]></entry>
     <entry id="bounty_hunter_weapon_3"><![CDATA[专家战斧]]></entry>
     <entry id="bounty_hunter_weapon_4"><![CDATA[“寡妇制造者”]]></entry>
     <entry id="upgrade_tree_name_bounty_hunter.weapon"><![CDATA[战斧]]></entry>
@@ -387,7 +966,7 @@
     <entry id="leper_weapon_1"><![CDATA[沉重斩首剑]]></entry>
     <entry id="leper_weapon_2"><![CDATA[锋利斩首剑]]></entry>
     <entry id="leper_weapon_3"><![CDATA[精制斩首剑]]></entry>
-    <entry id="leper_weapon_4"><![CDATA[“残剑”]]></entry>
+    <entry id="leper_weapon_4"><![CDATA[“断剑”]]></entry>
     <entry id="upgrade_tree_name_leper.weapon"><![CDATA[斩首剑]]></entry>
     <entry id="arbalest_weapon_0"><![CDATA[粗制弩]]></entry>
     <entry id="arbalest_weapon_1"><![CDATA[强化弩]]></entry>
@@ -401,19 +980,19 @@
     <entry id="man_at_arms_weapon_3"><![CDATA[士官长战锤]]></entry>
     <entry id="man_at_arms_weapon_4"><![CDATA[“雷霆”]]></entry>
     <entry id="upgrade_tree_name_man_at_arms.weapon"><![CDATA[战锤]]></entry>
-    <entry id="houndmaster_weapon_0"><![CDATA[粗糙短棍和破损项圈]]></entry>
-    <entry id="houndmaster_weapon_1"><![CDATA[坚固短棍和绳环项圈]]></entry>
-    <entry id="houndmaster_weapon_2"><![CDATA[精良短棍和皮革项圈]]></entry>
-    <entry id="houndmaster_weapon_3"><![CDATA[镶钉短棍和镶钉项圈]]></entry>
-    <entry id="houndmaster_weapon_4"><![CDATA["执法者"]]></entry>
+    <entry id="houndmaster_weapon_0"><![CDATA[粗糙短棍，破损项圈]]></entry>
+    <entry id="houndmaster_weapon_1"><![CDATA[坚固短棍，绳环项圈]]></entry>
+    <entry id="houndmaster_weapon_2"><![CDATA[精良短棍，皮革项圈]]></entry>
+    <entry id="houndmaster_weapon_3"><![CDATA[镶钉的短棍，项圈]]></entry>
+    <entry id="houndmaster_weapon_4"><![CDATA[“执法者”]]></entry>
     <entry id="upgrade_tree_name_houndmaster.weapon"><![CDATA[短棍和项圈]]></entry>
     <entry id="abomination_weapon_0"><![CDATA[逐渐形成的突变]]></entry>
     <entry id="abomination_weapon_1"><![CDATA[阶段性突变]]></entry>
     <entry id="abomination_weapon_2"><![CDATA[应激突变]]></entry>
     <entry id="abomination_weapon_3"><![CDATA[恶性突变]]></entry>
-    <entry id="abomination_weapon_4"><![CDATA[“诅咒馈赠”]]></entry>
+    <entry id="abomination_weapon_4"><![CDATA["诅咒的馈赠"]]></entry>
     <entry id="upgrade_tree_name_abomination.weapon"><![CDATA[突变]]></entry>
-    <entry id="antiquarian_weapon_0"><![CDATA[凑合的香炉]]></entry>
+    <entry id="antiquarian_weapon_0"><![CDATA[临时用香炉]]></entry>
     <entry id="antiquarian_weapon_1"><![CDATA[刺鼻香炉]]></entry>
     <entry id="antiquarian_weapon_2"><![CDATA[献祭香炉]]></entry>
     <entry id="antiquarian_weapon_3"><![CDATA[仪式香炉]]></entry>
@@ -426,7 +1005,7 @@
     <entry id="musketeer_weapon_4"><![CDATA[“百步穿杨”]]></entry>
     <entry id="upgrade_tree_name_musketeer.weapon"><![CDATA[火枪]]></entry>
     <entry id="crusader_armour_0"><![CDATA[生锈胸甲]]></entry>
-    <entry id="crusader_armour_1"><![CDATA[链甲]]></entry>
+    <entry id="crusader_armour_1"><![CDATA[锁甲]]></entry>
     <entry id="crusader_armour_2"><![CDATA[链板甲]]></entry>
     <entry id="crusader_armour_3"><![CDATA[板甲]]></entry>
     <entry id="crusader_armour_4"><![CDATA[“狂热判决”]]></entry>
@@ -443,12 +1022,12 @@
     <entry id="occultist_armour_3"><![CDATA[收藏家长袍]]></entry>
     <entry id="occultist_armour_4"><![CDATA[“暗黑裁决”]]></entry>
     <entry id="upgrade_tree_name_occultist.armour"><![CDATA[长袍]]></entry>
-    <entry id="vestal_armour_0"><![CDATA[陈旧的布甲]]></entry>
-    <entry id="vestal_armour_1"><![CDATA[轻质布甲]]></entry>
-    <entry id="vestal_armour_2"><![CDATA[精致布甲]]></entry>
-    <entry id="vestal_armour_3"><![CDATA[丝质坚甲]]></entry>
+    <entry id="vestal_armour_0"><![CDATA[陈旧布料和铠甲]]></entry>
+    <entry id="vestal_armour_1"><![CDATA[轻质布料和铠甲]]></entry>
+    <entry id="vestal_armour_2"><![CDATA[精致布料，锻造铠甲]]></entry>
+    <entry id="vestal_armour_3"><![CDATA[丝质长袍，坚硬坚甲]]></entry>
     <entry id="vestal_armour_4"><![CDATA[“神圣壁垒”]]></entry>
-    <entry id="upgrade_tree_name_vestal.armour"><![CDATA[丝甲]]></entry>
+    <entry id="upgrade_tree_name_vestal.armour"><![CDATA[丝绸与铠甲]]></entry>
     <entry id="hellion_armour_0"><![CDATA[旧革破皮甲]]></entry>
     <entry id="hellion_armour_1"><![CDATA[缝合皮革甲]]></entry>
     <entry id="hellion_armour_2"><![CDATA[崭新的皮革甲]]></entry>
@@ -478,7 +1057,7 @@
     <entry id="jester_armour_2"><![CDATA[填充戏服]]></entry>
     <entry id="jester_armour_3"><![CDATA[装甲戏服]]></entry>
     <entry id="jester_armour_4"><![CDATA[“残酷的花冠”]]></entry>
-    <entry id="upgrade_tree_name_jester.armour"><![CDATA[戏服]]></entry>
+    <entry id="upgrade_tree_name_jester.armour"><![CDATA[小丑服]]></entry>
     <entry id="leper_armour_0"><![CDATA[破损护胸]]></entry>
     <entry id="leper_armour_1"><![CDATA[重铸护胸]]></entry>
     <entry id="leper_armour_2"><![CDATA[强化护胸]]></entry>
@@ -522,9 +1101,9 @@
     <entry id="musketeer_armour_4"><![CDATA[“冠军的舞妆”]]></entry>
     <entry id="upgrade_tree_name_musketeer.armour"><![CDATA[背心和斗篷]]></entry>
     <entry id="action_verbose_body_guild_bounty_hunter"><![CDATA[残忍高效的单体击杀者和群体控制者。对于赏金猎人来说，事先谋划才是成功关键——标记目标来造成额外伤害，或是寻找机会击晕一个敌人。他也能使用自己的抓钩、闪光弹和强力的上勾拳来充分破坏敌人的阵型。]]></entry>
-    <entry id="action_verbose_body_guild_crusader"><![CDATA[身经百战且意志坚定的十字军，已经在数百次圣战中身先士卒。他能够用正义的怒火给予敌人迎头痛击，或是作为一个近战的支援者提供自己的防御增益和治疗技能。]]></entry>
+    <entry id="action_verbose_body_guild_crusader"><![CDATA[身经百战且意志坚定的十字军，在几百次圣战中都身先士卒。他能够用正义的怒火给予敌人迎头痛击，或是作为一个近战的支援者提供自己的防御增益和治疗技能。]]></entry>
     <entry id="action_verbose_body_guild_grave_robber"><![CDATA[盗墓贼是机敏而多才多艺的战斗者，在队伍中退后前进的调整如鱼得水。她无预兆的突袭之后潜藏于暗影，保持进攻的距离。如果她的毒镖与飞刀没把敌人放倒，她可以使用近战，那更为精准的鹤嘴锄！]]></entry>
-    <entry id="action_verbose_body_guild_hellion"><![CDATA[狂野，无法预料，并且彻底的残酷无情，蛮族战士渴望喷涌的鲜血！她的巨大战刃使得她在战斗拥有令人惊异的打击面，同时剃刀般锋利的边缘能给敌方留下难以愈合的创口。这些技能与这武器令她疲惫，然而，她也可以经由一回合令自己的腺素激冲而士气高涨，在再一次进入疲惫之前。]]></entry>
+    <entry id="action_verbose_body_guild_hellion"><![CDATA[狂野，无法预料，并且彻底的残酷无情，蛮族战士渴望喷涌的鲜血！她的巨大战刃使得她在战斗拥有令人惊异的打击面，同时剃刀般锋利的边缘能给敌方留下难以愈合的创口。这些技能与这武器另她疲惫，然而，她也可以经由一回合令自己的腺素激冲而士气高涨，在再一次进入疲惫之前。]]></entry>
     <entry id="action_verbose_body_guild_highwayman"><![CDATA[强盗就是流氓、打手和盗贼，他将自己短剑和燧发手枪的技能练习得炉火纯青。无论是拉开距离还是近身肉搏，他都有效地击倒敌人。强盗可以使用范围性的散弹，或是单体的流血效果，他的技能着重于使用各种不同方式来造成伤害。]]></entry>
     <entry id="action_verbose_body_guild_occultist"><![CDATA[终其一生对古老禁忌知识的学术查究使神秘学者向虚空之力敞开了心灵之门。虚弱诅咒和令人抓狂的难以置信的辅助技能是他的拿手好戏。然而虚空终究是种难以预料的力量，因而导致技能的效果有戏剧性的变数，而且常以消耗光亮或增加压力的代价。]]></entry>
     <entry id="action_verbose_body_guild_plague_doctor"><![CDATA[这是一位医生、研究员和炼金术士，喜欢缩于后方，用叠加毒云和瘟疫投弹等持续伤害的能力蚕食她的敌人。作为辅助角色她同样有效——致盲和致乱敌人、用增伤药剂来加强队伍的生存能力、祛除流血和腐蚀效果。]]></entry>
@@ -536,7 +1115,7 @@
     <entry id="action_verbose_body_guild_houndmaster"><![CDATA[驯犬师是一位强韧而极富同情心的前执法者，他和他忠诚的猎狼犬一前一后紧密配合来击垮敌人并保护无辜者。他们一起踞于阵地后排，一阵阵输出缠人的流血效果、撕咬和眩晕击打。当战斗的潮水落去时，这对搭档以保护虚弱者和平复压力的方式来帮助状况欠佳的队伍。]]></entry>
     <entry id="action_verbose_body_guild_abomination"><![CDATA[被殴打，被烙印，被囚禁了不知道多长时间，这个鬼鬼祟祟的流浪汉一直隐藏着一个可怕的秘密。流过他血管的异魔毒药通过可怕的代价给了他难以言状的力量。当他变形时，他在战斗中的作用也将变化！]]></entry>
     <entry id="action_verbose_body_guild_antiquarian"><![CDATA[一位学者、研究者，和目光敏锐的古物专家，古董商人并不擅长于作战。然而，她是一名自我保全的专家——通过好好关照她自己，或是依赖盟友的保护；她使得自己得以求生。如果直接战斗不可避免，古董商人可以使用她可以即时燃烟的香炉治疗盟友和误导敌人……或是使来犯者中毒。]]></entry>
-    <entry id="action_verbose_body_guild_musketeer"><![CDATA[作为一位有潜力的但没什么实战经验的神射手，火枪手擅长在百米开外破敌。她精确无误的瞄准与娴熟的装填使她成为一个可靠的伤害输出。她的烟幕弹，救治，双向射击使她可以为团队提供有力辅助。]]></entry>
+    <entry id="action_verbose_body_guild_musketeer"><![CDATA[——不翻译]]></entry>
     <entry id="action_verbose_body_blacksmith_bounty_hunter"><![CDATA[赏金猎人喜欢用自己的猎斧与粘人的爪钩，这一组合令他可以专业地设计并斩获他的猎物。他的硬皮衣与锁子甲给与了他合适的保护，在没有牺牲灵活的情况下。]]></entry>
     <entry id="action_verbose_body_blacksmith_crusader"><![CDATA[十字军穿戴厚重的板甲并且挥舞长剑。虽然身上的装备能提供强大的防御和伤害，但他的护甲会限制移动能力，而他的武器则无法在后方有效作战。]]></entry>
     <entry id="action_verbose_body_blacksmith_grave_robber"><![CDATA[盗墓贼只穿一件薄风衣，相对保护性来说她更看中移动性和灵活度。在她的衣服下面藏着的是锋利的投掷匕首，还有绑在她背上的—鹤嘴锄！]]></entry>
@@ -551,23 +1130,23 @@
     <entry id="action_verbose_body_blacksmith_man_at_arms"><![CDATA[包裹在最重的板甲之中，老兵宛如一部挥舞着狼牙棒的粉碎机！拥有快速反应与适应力，他是最有效的团队领导，用牢不可破的盾牌保护着自己的同伴。]]></entry>
     <entry id="action_verbose_body_blacksmith_houndmaster"><![CDATA[依然衣着他破旧的警服，训犬师更注重闪避于防护。他的棍棒是出色的击晕工具，但猎犬也在其中为这对搭档提供着撕扯般的火力，尤其当它被喂食了那鼓舞斗志的美味零食！]]></entry>
     <entry id="action_verbose_body_blacksmith_abomination"><![CDATA[被保护于被诅咒的链条和一个厚厚的、兽皮的披风，被憎恶者可以如同任何的武装卫兵一样屹立于前线的强压。他的可怖的一双巨爪就是一对匕首短剑，他可控的阶段性突变给予了他不可名状的力量、速度，和充溢的腐蚀胆汁。]]></entry>
-    <entry id="action_verbose_body_blacksmith_antiquarian"><![CDATA[古董商人没有穿戴所谓的护甲，而依赖于她于旅途中数不尽的古老护符与遗物之力保护。她对稀世罕物的搜寻目光被加强于她香炉蒸汽所具有的某种令人不安的特质，同时这蒸汽也对团队的麻烦境况的缓解也……略有效果。]]></entry>
-    <entry id="action_verbose_body_blacksmith_musketeer"><![CDATA[尽管外表平平，火枪手的外套被以加固的皮甲保护，使得她可以承受相当的集中攻击。她多种多样的枪弹与可靠的副武器令她可以在远距离造成可观的伤害。]]></entry>
+    <entry id="action_verbose_body_blacksmith_antiquarian"><![CDATA[古董商人没有穿戴所谓的护甲，而依赖于她于旅途中数不尽的古老护符与遗物之力保护。她对稀世罕物的搜寻目光被加强于令人不安的她香炉蒸汽所具有的特质，同时这蒸汽也对团队的麻烦境况的缓解也……略有效果。]]></entry>
+    <entry id="action_verbose_body_blacksmith_musketeer"><![CDATA[——不翻译]]></entry>
     <entry id="action_verbose_body_camping_trainer_crusader"><![CDATA[正义且惩奸除恶的激励演说在营火边引人恭听！在面对蔓延的压力，十字军犹如领袖，高高屹立拒绝着崩溃。他难以动摇的信念缓和了同伴的恐惧，在尽管艰难的境地鼓舞他们并使其坚信他们总能撑住，最后一切都会安好。]]></entry>
-    <entry id="action_verbose_body_camping_trainer_grave_robber"><![CDATA[盗墓贼十分活跃，更愿意在大家安营时出去游荡，尽管主要为了饰品与细碎的财宝。她或许会不情愿地交出出发前在小镇偷窃的东西；或者用苦涩的嘲讽来让那些有相同病态笑点的同伴愉悦起来。]]></entry>
+    <entry id="action_verbose_body_camping_trainer_grave_robber"><![CDATA[盗墓贼十分活跃，更愿意在大家安营时出去游荡，尽管主要为了饰品与细碎的财宝。她或许会不情愿地交出出发前在小镇偷窃的东西；或者用苦涩的嘲讽来让那些有相同的病态笑点的同伴愉悦起来。]]></entry>
     <entry id="action_verbose_body_camping_trainer_hellion"><![CDATA[在扎营时，蛮族战士嘀咕着辱神的恶言并磨砺她的锋刃，就像急着要用它切碎敌对部落一般。粗糙而又狂野，她极端而特别——坚韧的坐以待战，或是歇斯底里的狂笑着亵渎之词。]]></entry>
     <entry id="action_verbose_body_camping_trainer_highwayman"><![CDATA[在营火旁，强盗尤喜惊世骇俗的精细准备与黑色的玩笑。穷尽几乎一生的躲藏与逃亡教会了他提前警惕与深夜里在迫近黑暗中探索的珍贵益处。]]></entry>
     <entry id="action_verbose_body_camping_trainer_occultist"><![CDATA[在休憩时，神秘学者会尝试与黑暗和虚空中不可知的力量沟通以强化自身和队伍。不过这样的行为常常要付以代价，令黑暗与压力在空气中蔓延。]]></entry>
     <entry id="action_verbose_body_camping_trainer_plague_doctor"><![CDATA[瘟疫医生使用实验性的治疗法与有风险的治疗实践于治疗她同伴的伤病，恢复他们的活力。如此急切地想要证明她最新且未经临床测试的药剂的功效，她会注射自己作为实验品——并盲目地相信着它能带来的积极结果。]]></entry>
     <entry id="action_verbose_body_camping_trainer_vestal"><![CDATA[祈祷，祝词与祝福为修女和她的队伍带来平静与安定。她可以提升一名同伴的作战技艺，或是专注于减轻团队的压力，并使得作为安睡之处的营地变得相对安全。]]></entry>
     <entry id="action_verbose_body_camping_trainer_leper"><![CDATA[孤独且被嫌弃，麻风剑客趋于回避团队中的其他人，而一个人默默承受修补自己将死身躯的恐惧。为减轻他的压力，麻风剑客会摘下他的面具，但如此的行为与被绝症蚕食的面孔将使他的同伴不安。]]></entry>
-    <entry id="action_verbose_body_camping_trainer_jester"><![CDATA[小丑在摇曳的营火中闪耀，弹奏他的鲁特琴与睿智地逗笑以使得同伴的压力与恐惧烟消云散。他可以鼓舞以提升一个同伴的战斗技巧，也能对一个队友进行尖刻地嘲弄使其他人捧腹大笑。]]></entry>
-    <entry id="action_verbose_body_camping_trainer_arbalest"><![CDATA[在战场，或是在营地也一样。弩手认真规划她的休息时间，提供一手的专业战场救治，并且会为旅途的下一步准备可靠的行军计划和一根焕然一新、校准过的弓弦。]]></entry>
+    <entry id="action_verbose_body_camping_trainer_jester"><![CDATA[小丑在摇曳的营火中闪耀，弹奏他的鲁特琴与睿智的逗笑以使得同伴的压力与恐惧烟消云散。他可以鼓舞以提升战斗技巧，也能对一个队友进行尖刻地耻笑以减轻其他人的心理负担。]]></entry>
+    <entry id="action_verbose_body_camping_trainer_arbalest"><![CDATA[在战场，或是在营地也一样。弩手认真规划她的休息时间，提供一手的专业战场救治，并且会为旅途的下一步准备可靠的行军计划和一把焕然一新、校准过的弓弦。]]></entry>
     <entry id="action_verbose_body_camping_trainer_man_at_arms"><![CDATA[老兵寻找着严格锻炼自己的机会，或者将其教授于自己的同伴。灵巧、进攻与精确性的训练等待着那些足够历练可以承受其严格课程的人。]]></entry>
     <entry id="action_verbose_body_camping_trainer_houndmaster"><![CDATA[一名聪明的执法者深知充分准备与情报的价值。为此，驯犬师可将狼犬释放以侦查前方，或者是使其在夜晚看护以保证就寝时的安全。如果士气低落，犬类亲热的陪伴可以缓解心魔，令心灵抚慰。]]></entry>
     <entry id="action_verbose_body_camping_trainer_abomination"><![CDATA[咒缚者将休憩的时间花在探究自己悲惨境地的多种突变症状上。强烈脉动着的诅咒之力为下一场肉搏提供了强大的战斗力与适应性；而他集中注意力压制自己可怕的冲动可以减轻一些队伍的忧虑。]]></entry>
     <entry id="action_verbose_body_camping_trainer_antiquarian"><![CDATA[考究者永不休息！古董商人仔细调查着营地周围，以获得补给物乃至于队伍所忽视掉的一些饰品。她别致的咒文与古怪的粉末可以令精神放松，使身体抗性增强。]]></entry>
-    <entry id="action_verbose_body_camping_trainer_musketeer"><![CDATA[火枪手知道她的枪管如脆弱的乐器，必须进行很好的维护以承担战斗带来的热量！同时她也会为提供前线的救治，以保证同伴能够给予足够掩护。]]></entry>
+    <entry id="action_verbose_body_camping_trainer_musketeer"><![CDATA[——不翻译]]></entry>
     <entry id="building_verbose_abbey"><![CDATA[升级教堂能增加压力治疗的种类和增强它们的效果。]]></entry>
     <entry id="building_verbose_blacksmith"><![CDATA[升级铁匠铺允许你购买更好的武器和护甲，以及减少花费。]]></entry>
     <entry id="building_verbose_camping_trainer"><![CDATA[升级生存专家能增加可选择的扎营技能，并且降低它们的学习花费。]]></entry>
@@ -577,6 +1156,6 @@
     <entry id="building_verbose_sanitarium"><![CDATA[升级疗养院以解锁更多的治疗与减少治疗成本。]]></entry>
     <entry id="building_verbose_stage_coach"><![CDATA[升级驿站马车可以增加每周可供你雇佣的英雄数量或增加你的英雄名单的大小。]]></entry>
     <entry id="building_verbose_tavern"><![CDATA[升级酒馆来提高压力治疗的效果。]]></entry>
-    <entry id="str_bark_clean_musket"><![CDATA[Honed and polished, you'll fire true now, my love.]]></entry>
+    <entry id="str_bark_clean_musket"><![CDATA[历经磨炼，你将真正燃起，吾爱。]]></entry>
   </language>
 </root>
